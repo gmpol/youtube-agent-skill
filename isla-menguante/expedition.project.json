@@ -1,0 +1,54 @@
+{
+	"name": "IslaMenguante-Expedicion",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Config": {
+				"$path": "src/shared/Config"
+			},
+			"Shared": {
+				"$path": "src/shared/Shared"
+			},
+			"PlaceInfo": {
+				"$path": "src/places/expedition/PlaceInfo.luau"
+			}
+		},
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"Main": {
+				"$path": "src/server/Main.server.luau"
+			},
+			"Services": {
+				"$path": "src/server/Services"
+			},
+			"Packages": {
+				"$path": "src/server/Packages"
+			}
+		},
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"Main": {
+					"$path": "src/client/Main.client.luau"
+				},
+				"Controllers": {
+					"$path": "src/client/Controllers"
+				}
+			}
+		},
+		"Workspace": {
+			"$className": "Workspace",
+			"$properties": {
+				"StreamingEnabled": true
+			}
+		},
+		"Lighting": {
+			"$className": "Lighting",
+			"$properties": {
+				"Technology": "Future"
+			}
+		}
+	}
+}
