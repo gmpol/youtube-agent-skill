@@ -10,3 +10,12 @@ output/build/*.mp4
 output/build/*.png
 output/build/parts.txt
 output/build/__pycache__/
+output/videos/*/clips/
+output/videos/*/stems/
+output/videos/*/*.wav
+output/videos/*/*.mp4
+output/videos/*/sheet*.png
+output/videos/*/still*.png
+output/videos/*/review_frames.png
+output/videos/*/__pycache__/
+output/engine/__pycache__/
