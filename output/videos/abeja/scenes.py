@@ -405,13 +405,13 @@ def scene_front(c, t):
     xr = ease(ramp(t, T_SLOW - 0.5, T_SLOW + 0.3))
     ph = phase(t); bk = blurk(t)
     def scenery():
-        c.save(); c.translate(px, py); c.scale(sc / BS); c.translate(-BX, -BY)
+        c.save(); c.translate(px, py); c.scale(sc / BS, sc / BS); c.translate(-BX, -BY)
         dusk(c, t); flower(c, 235, 1270, t)
         c.restore()
     faded(c, 1 - xr, scenery)
     yb = py + bob(t) * sc / BS
     def real_bee():
-        c.save(); c.translate(px, yb); c.scale(sc); c.rotate(0.03 * math.sin(t * 1.7))
+        c.save(); c.translate(px, yb); c.scale(sc, sc); c.rotate(0.03 * math.sin(t * 1.7))
         bee(c, ph, bk)
         if bk > 0.05:  # little buzz lines
             for i in range(3):
@@ -421,7 +421,7 @@ def scene_front(c, t):
         c.restore()
     faded(c, 1 - xr, real_bee)
     def xray_bee():
-        c.save(); c.translate(px, yb); c.scale(sc); c.rotate(0.03 * math.sin(t * 1.7))
+        c.save(); c.translate(px, yb); c.scale(sc, sc); c.rotate(0.03 * math.sin(t * 1.7))
         bee_xray(c, ph, bk); c.restore()
     faded(c, xr, xray_bee)
     # gancho: "ese zumbido" -> BZZZ ; "sus putas alas" -> ALAS
@@ -461,7 +461,7 @@ def scene_paso1(c, t):
     t_tor = wt("paso1", "tórax")
     gth = ease(ramp(t, t_tor - 0.2, t_tor + 0.2))
     def xray_view():
-        c.save(); c.translate(px, yb); c.scale(sc); c.rotate(0.03 * math.sin(t * 1.7))
+        c.save(); c.translate(px, yb); c.scale(sc, sc); c.rotate(0.03 * math.sin(t * 1.7))
         bee_xray(c, ph, bk, glow_th=gth); c.restore()
         callout(c, "TÓRAX", px, yb + 90 * sc, 520, 1640, t, t_tor - 0.1, YEL, 44)
         t_med = wt("paso1", "medio") - 0.3
@@ -677,7 +677,7 @@ def scene_paso4(c, t):
     ph = phase(t)
     # faint bee body under the stroke, body tilted (head up) as in hovering
     def body():
-        c.save(); c.translate(560, 1260); c.scale(0.82); c.rotate(0.42); bee(c, 0, 0, L=1); c.restore()
+        c.save(); c.translate(560, 1260); c.scale(0.82, 0.82); c.rotate(0.42); bee(c, 0, 0, L=1); c.restore()
     faded(c, 0.5, body)
     # stroke path
     kp = ease(ramp(t, wt("paso4", "no") - 0.3, wt("paso4", "bajan")))
@@ -752,7 +752,7 @@ def scene_paso5(c, t):
     t_emp = wt("paso5", "empuja")
     kr = ease(ramp(t, t_emp - 0.3, t_emp + 0.2))
     rings(c, bx + 60, by - 120, ph, bk, kr, 125, 5, -0.9, 0.9, 90)
-    c.save(); c.translate(bx, by + bob(t) * 0.6); c.scale(s); bee(c, ph, bk); c.restore()
+    c.save(); c.translate(bx, by + bob(t) * 0.6); c.scale(s, s); bee(c, ph, bk); c.restore()
     c.restore()
     callout(c, "EMPUJÓN", bx + 60 + 280, by - 120 - 120, 760, 720, t, t_emp + 0.1, CREAM, 38)
     # oscilloscope panel: 230 pushes per second -> a 230 Hz tone
@@ -799,7 +799,7 @@ def scene_junto(c, t):
     kz = ease(ramp(t, t_zum - 0.3, t_zum + 0.1))
     rings(c, JX + 220, yb - 260, ph, bk, kz * 0.9, 110, 4, -1.2, 0.3, 120)
     t_tor = wt("junto", "tórax")
-    c.save(); c.translate(JX, yb); c.scale(JS)
+    c.save(); c.translate(JX, yb); c.scale(JS, JS)
     bee_xray(c, ph, bk, glow_th=pulse_at(t, t_tor - 0.1, 0.8))
     # leading-edge vortex on the forewing
     t_rem = wt("junto", "remolino")
@@ -979,7 +979,7 @@ def THUMB_V(c):
     background(c, 3.0, YEL)
     c.save(); c.translate(0, 0); dusk(c, 3.0); c.restore()
     glow(c, 560, 1250, 520, YEL, 0.45)
-    c.save(); c.translate(600, 1290); c.scale(2.15); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
+    c.save(); c.translate(600, 1290); c.scale(2.15, 2.15); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
     for i, ln in enumerate(["ALAS", "INVISIBLES"]):
         sz = fit_size(c, ln, SLAB, 200, 980)
         text(c, ln, 540, 330 + i * 210, sz, YEL if i else WHITE, SLAB, False, outline=INK, olw=22)
@@ -988,7 +988,7 @@ def THUMB_V(c):
 def THUMB_H(c):
     g = cairo.LinearGradient(0, 0, 0, 720); g.add_color_stop_rgba(0, *BG_TOP); g.add_color_stop_rgba(1, *BG_BOT); c.set_source(g); c.paint()
     glow(c, 960, 400, 420, YEL, 0.4)
-    c.save(); c.translate(980, 470); c.scale(1.15); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
+    c.save(); c.translate(980, 470); c.scale(1.15, 1.15); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
     for i, ln in enumerate(["ALAS", "INVISIBLES"]):
         sz = fit_size(c, ln, SLAB, 150, 640)
         text(c, ln, 350, 320 + i * 170, sz, YEL if i else WHITE, SLAB, False, outline=INK, olw=20)
