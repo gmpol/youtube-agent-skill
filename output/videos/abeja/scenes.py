@@ -250,6 +250,9 @@ def thorax_front(c, x, y, s, u, hinge=0.0, wingL=300):
     c.save(); c.translate(x, y); c.scale(s, s)
     hw, py, bot = 170, -128, 150
     ry = -130 + 30 * u
+    fuzzy_circle(c, 0, 10, 245, 30, 7); fill_stroke(c, alpha(STEEL, 0.22), alpha(XRAY, 0.8), 4)
+    for sg in (-1, 1):  # legs hanging from the thorax
+        line(c, [(sg * 120, 200), (sg * 190, 330), (sg * 175, 420)], alpha(XRAY, 0.6), 6)
     c.new_path(); c.rectangle(-hw, py, 2 * hw, bot - py); c.set_source_rgba(*alpha(NIGHT, 0.92)); c.fill()
     for col, lw in ((INK, 24), (FUR, 13)):
         line(c, [(-hw, py), (-hw, bot), (hw, bot), (hw, py)], col, lw)
@@ -431,16 +434,17 @@ def scene_front(c, t):
         wx, wy = px + sc * 60, yb + sc * -190
         faded(c, gk, lambda: callout(c, "ALAS", wx, wy, 300, 760, t, wt("gancho", "alas", 1) - 0.25, YEL, 40))
     # imposible: three crossed-out badges
-    if up > 0.01:
+    def badges():
         for key, x, lab, fn in (("directamente", 250, "MÚSCULO EN EL ALA", ic_direct), ("piensa", 540, "PENSARLO", ic_think),
                                 ("orden", 830, "UNA ORDEN POR GOLPE", ic_order)):
             t0 = wt("imposible", key) - 0.15
-            k = eob(ramp(t, t0, t0 + 0.3)) * up
+            k = eob(ramp(t, t0, t0 + 0.3)) * (1 - 0.2 * (1 - up))
             if k <= 0: continue
             icon_badge(c, x, 1470, k, "", fn, t, t0 + 0.35, 100)
             if k > 0.3:
                 sz = fit_size(c, lab, SANS, 28, 270, True)
                 text(c, lab, x, 1470 + 100 + 44, sz, alpha(CREAM, clamp(k)), SANS, True)
+    if t > wt("imposible", "directamente") - 0.2: faded(c, up, badges)
     # "no falla ni uno": green ring check around the bee
     k = ramp(t, wt("imposible", "falla") - 0.1, wt("imposible", "falla") + 0.3) * (1 - z)
     if k > 0:
@@ -469,19 +473,19 @@ def scene_paso1(c, t):
         callout(c, "ABDOMEN", px + 200 * sc, yb + 60 * sc, 860, 1500, t, t_med, CREAM, 30)
     faded(c, 1 - kx, xray_view)
     if kx > 0:
-        s = lerp(0.55, 0.85, kx); X0, Y0 = 540, 1130
+        s = lerp(0.6, 0.95, kx); X0, Y0 = 540, 1110
         tp = wt("paso1", "palancas")
         amp = ease(ramp(t, tp - 0.6, tp + 0.2))
         u = amp * math.sin(phase(t) - phase(tp - 0.6))
         t_eng = wt("paso1", "enganchadas")
         hg = ramp(t, t_eng - 0.1, t_eng + 0.2) * (1 - ramp(t, tp - 0.2, tp + 0.2))
         def box():
-            thorax_front(c, X0, Y0, s, u, hinge=hg * (t - t_eng + 0.3))
-            text(c, "TÓRAX VISTO DE FRENTE", X0, Y0 + 210, 34, alpha(CREAM, 0.8), SANS, True)
+            thorax_front(c, X0, Y0, s, u, hinge=hg * (t - t_eng + 0.3), wingL=270)
+            text(c, "EL TÓRAX, VISTO DE FRENTE", X0, Y0 + 530, 32, alpha(CREAM, 0.8), SANS, True)
         faded(c, kx, box)
-        P = thorax_front_pts(X0, Y0, s, u)
-        callout(c, "CAJITA", X0 - 60, Y0 + 60, 260, 1500, t, wt("paso1", "cajita") - 0.1, CREAM, 36)
-        callout(c, "BORDE", *P["base"], 830, 1420, t, wt("paso1", "borde") - 0.15, CREAM, 36)
+        P = thorax_front_pts(X0, Y0, s, u, 270)
+        callout(c, "CAJITA", X0 - 60, Y0 + 60, 200, 1450, t, wt("paso1", "cajita") - 0.1, CREAM, 36)
+        callout(c, "BORDE", *P["base"], 870, 1420, t, wt("paso1", "borde") - 0.15, CREAM, 36)
         callout(c, "PALANCAS", *P["wing"], 760, 760, t, tp - 0.1, YEL, 44)
         if amp > 0.3:  # seesaw arrows: roof down -> wing up
             k = clamp((amp - 0.3) / 0.7)
@@ -582,19 +586,20 @@ def scene_paso3(c, t):
         for sg in (-1, 1):
             ax = X0 + sg * (P["hw"] + 30); ay = P["dlm"][1]
             arrow(c, ax, ay, ax + sg * 70 * stretch, ay, alpha(WHITE, stretch), 10, 30)
-    callout(c, "ESTIRÓN", *P["dlm_l"], 200, 1560, t, t_est - 0.1, DLMC, 40)
+    ke = 1 - ramp(t, t_una - 0.5, t_una - 0.2)
+    faded(c, ke, lambda: callout(c, "ESTIRÓN", *P["dlm_l"], 200, 1560, t, t_est - 0.1, DLMC, 40))
     k = 1 - ramp(t, t_osc - 0.3, t_osc)
     if k > 0:
-        faded(c, k, lambda: callout(c, "¡SE CONTRAE SOLO!", *P["dlm"], 620, 1440, t, t_con - 0.1, YEL, 38))
+        faded(c, k, lambda: callout(c, "¡SE CONTRAE SOLO!", *P["dlm"], 560, 760, t, t_con - 0.1, YEL, 38))
     # brain: not needed
     t0 = wt("paso3", "sin") - 0.15
     kb = eob(ramp(t, t0, t0 + 0.3)) * (1 - ramp(t, t_osc + 0.8, t_osc + 1.2))
     if kb > 0:
-        icon_badge(c, 820, 760, kb, "CEREBRO", ic_brain, t, t_cer - 0.05, 88)
+        icon_badge(c, 800, 1440, kb, "CEREBRO", ic_brain, t, t_cer - 0.05, 88)
     # ping-pong: "uno estira al otro, el otro al uno"
     kp = ramp(t, t_osc - 0.2, t_osc + 0.2)
     if kp > 0:
-        cx, cy = 820, 760
+        cx, cy = 800, 1440
         def loop():
             circle(c, cx, cy, 92); fill_stroke(c, CREAM, INK, 6)
             rot = (phase(t) - phase(t_osc)) % (2 * math.pi)
@@ -627,12 +632,12 @@ def scene_paso3(c, t):
             c.save(); c.translate(540, 1500); c.scale(kc, kc)
             shadow(c, lambda: rrect(c, -380, -70, 760, 140, 20), 8, 10, 0.4)
             rrect(c, -380, -70, 760, 140, 20); fill_stroke(c, CREAM, INK, 6)
-            bolt(c, -320, 0, 0.75, YEL, 4)
-            text(c, "1 ORDEN", -270, 16, 44, INK, SLAB, False, "l")
-            arrow(c, -40, 0, 40, 0, RED, 10, 30)
-            rrect(c, 70, -48, 120, 96, 12); fill_stroke(c, hx("#1E3A2A"), INK, 4)
-            text(c, str(n), 130, 22, 62, hx("#7CFC9A"), MONO, True)
-            text(c, "ALETEOS", 210, 16, 40, INK, SLAB, False, "l")
+            bolt(c, -330, 0, 0.7, YEL, 4)
+            text(c, "1 ORDEN", -295, 15, 40, INK, SLAB, False, "l")
+            arrow(c, -90, 0, -20, 0, RED, 10, 30)
+            rrect(c, 0, -48, 120, 96, 12); fill_stroke(c, hx("#1E3A2A"), INK, 4)
+            text(c, str(n), 60, 22, 62, hx("#7CFC9A"), MONO, True)
+            text(c, "ALETEOS", 140, 15, 40, INK, SLAB, False, "l")
             c.restore()
 
 
@@ -648,13 +653,13 @@ def chord_pose(ph):
     return x, y, ang, sdir
 
 
-def airfoil(c, x, y, ang, a=1.0, L=150, col=CREAM, lw=5):
+def airfoil(c, x, y, ang, a=1.0, L=150, col=CREAM, lw=5, edge=INK):
     c.save(); c.translate(x, y); c.rotate(ang)
     k = L / 140
     c.new_path(); c.move_to(-70 * k, 0)
     c.curve_to(-20 * k, -13 * k, 40 * k, -16 * k, 60 * k, -7 * k); c.curve_to(72 * k, -2 * k, 72 * k, 5 * k, 60 * k, 7 * k)
     c.curve_to(40 * k, 12 * k, -20 * k, 8 * k, -70 * k, 0); c.close_path()
-    fill_stroke(c, alpha(col, a), alpha(INK, a), lw)
+    fill_stroke(c, alpha(col, a), alpha(edge, a), lw)
     circle(c, 58 * k, 0, 6 * k); c.set_source_rgba(*alpha(RED, a)); c.fill()
     c.restore()
 
@@ -677,8 +682,8 @@ def scene_paso4(c, t):
     ph = phase(t)
     # faint bee body under the stroke, body tilted (head up) as in hovering
     def body():
-        c.save(); c.translate(560, 1260); c.scale(0.82, 0.82); c.rotate(0.42); bee(c, 0, 0, L=1); c.restore()
-    faded(c, 0.5, body)
+        c.save(); c.translate(575, 1110); c.scale(0.82, 0.82); c.rotate(0.42); bee(c, 0, 0, L=1); c.restore()
+    faded(c, 0.38, body)
     # stroke path
     kp = ease(ramp(t, wt("paso4", "no") - 0.3, wt("paso4", "bajan")))
     if kp > 0:
@@ -695,7 +700,7 @@ def scene_paso4(c, t):
     if kv > 0:
         lx = x + math.cos(ang) * 45; ly = y + math.sin(ang) * 45
         swirl(c, lx - 30 * sd, ly - 50, 50, t * 9 * -sd, kv, ccw=sd > 0)
-    airfoil(c, x, y, ang, 1.0, 150, CREAM, 5)
+    airfoil(c, x, y, ang, 1.0, 190, CREAM, 6)
     # downwash
     t_aire = wt("paso4", "aire")
     ka = ramp(t, t_aire - 0.2, t_aire + 0.3)
@@ -847,13 +852,13 @@ def bumble_pos(t):
     t0 = wt("remate", "abejorros") - 0.35
     s = t - t0
     x = lerp(-160, 700, ease(ramp(s, 0, 2.6)))
-    y = 1180 - 80 * math.sin(s * 2.2)
+    y = 1500 - 50 * math.sin(s * 2.2)
     lp_ = ramp(s, 1.0, 2.2)  # a happy loop-the-loop
     if 0 < lp_ < 1:
         a = lp_ * 2 * math.pi
         x += -90 * math.sin(a) ; y += -90 * (1 - math.cos(a))
     if s > 2.6:
-        x = 700 + 60 * math.sin((s - 2.6) * 1.4); y = 1180 - 80 * math.sin(s * 2.2)
+        x = 700 + 60 * math.sin((s - 2.6) * 1.4); y = 1500 - 50 * math.sin(s * 2.2)
     return x, y, s
 
 
@@ -874,7 +879,7 @@ def scene_remate(c, t):
     t_fis = wt("remate", "física")
     chalk(c, "LA FÍSICA DICE:", x0 + 70, y0 + 100, 40, t, wt("remate", "según") - 0.1, 0.5, YEL)
     chalk(c, "SUSTENTACIÓN = ½·ρ·v²·S·C", x0 + 70, y0 + 210, 44, t, t_fis - 0.1, 0.9)
-    chalk(c, "ALA = 1 cm²  ·  PESO = 0,9 g", x0 + 70, y0 + 300, 38, t, t_fis + 0.5, 0.7)
+    chalk(c, "ALAS PEQUEÑAS + CUERPO GORDO", x0 + 70, y0 + 300, 38, t, t_fis + 0.5, 0.7)
     t_no = wt("remate", "deberían") - 0.2
     # the crossed-out calculation
     chalk(c, "ALAS DE AVIÓN", x0 + 70, y0 + 450, 54, t, t_no - 0.2, 0.6)
@@ -883,7 +888,7 @@ def scene_remate(c, t):
     ka = ramp(t, wt("remate", "tuvieran") - 0.2, wt("remate", "tuvieran") + 0.3)
     if ka > 0:
         c.save(); c.translate(780, y0 + 430); c.scale(1.2, 1.2)
-        airfoil(c, 0, 0, -0.12, ka * 0.9, 150, alpha(CHALK, 0.0), 4)
+        airfoil(c, 0, 0, -0.12, ka * 0.9, 150, alpha(CHALK, 0.0), 4, CHALK)
         c.restore()
     t_av = wt("remate", "avión")
     k = ramp(t, wt("remate", "alas", 0) - 0.2, wt("remate", "alas", 0) + 0.3)
@@ -900,7 +905,7 @@ def scene_remate(c, t):
             px, py, _ = bumble_pos(t - i * 0.09)
             if _ > 0:
                 circle(c, px + 60, py + 10, 6 * (1 - i / 14)); c.set_source_rgba(*alpha(CREAM, 0.6 * (1 - i / 14))); c.fill()
-        c.save(); c.translate(bx, by); c.scale(-0.95, 0.95); c.rotate(-0.1 * math.sin(t * 3))
+        c.save(); c.translate(bx, by); c.scale(-0.8, 0.8); c.rotate(-0.1 * math.sin(t * 3))
         bee(c, phase(t), blurk(t), chubby=True)
         c.restore()
         t_vol = wt("remate", "volar")
@@ -979,7 +984,7 @@ def THUMB_V(c):
     background(c, 3.0, YEL)
     c.save(); c.translate(0, 0); dusk(c, 3.0); c.restore()
     glow(c, 560, 1250, 520, YEL, 0.45)
-    c.save(); c.translate(600, 1290); c.scale(2.15, 2.15); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
+    c.save(); c.translate(470, 1330); c.scale(1.9, 1.9); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
     for i, ln in enumerate(["ALAS", "INVISIBLES"]):
         sz = fit_size(c, ln, SLAB, 200, 980)
         text(c, ln, 540, 330 + i * 210, sz, YEL if i else WHITE, SLAB, False, outline=INK, olw=22)
@@ -988,7 +993,7 @@ def THUMB_V(c):
 def THUMB_H(c):
     g = cairo.LinearGradient(0, 0, 0, 720); g.add_color_stop_rgba(0, *BG_TOP); g.add_color_stop_rgba(1, *BG_BOT); c.set_source(g); c.paint()
     glow(c, 960, 400, 420, YEL, 0.4)
-    c.save(); c.translate(980, 470); c.scale(1.15, 1.15); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
+    c.save(); c.translate(925, 470); c.scale(1.0, 1.0); c.rotate(-0.06); bee(c, 0.0, 1.0); c.restore()
     for i, ln in enumerate(["ALAS", "INVISIBLES"]):
         sz = fit_size(c, ln, SLAB, 150, 640)
         text(c, ln, 350, 320 + i * 170, sz, YEL if i else WHITE, SLAB, False, outline=INK, olw=20)

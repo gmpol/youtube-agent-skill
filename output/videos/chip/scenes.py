@@ -338,7 +338,7 @@ def scene_front(c, t):
     ze = ease(ramp(t, t_z0, T_SLOW + 0.1))
     n = int(t * 7) if t < t_z0 else int(t_z0 * 7)
     t_app = wt("imposible", "pantalla") - 0.1
-    apps = ramp(t, t_app, t_app + 0.6) * (1 - ze)
+    apps = ramp(t, t_app, t_app + 0.6) * (1 - ease(ramp(t, t_z0, t_z0 + 0.7)))
     xr = lerp(0.85, 1.0, ze)
     # gancho side gags
     gk = 1 - ease(ramp(t, t_up - 0.4, t_up))
@@ -349,14 +349,14 @@ def scene_front(c, t):
     chs = (540, pyc + sp * (CHY - PY))
     Z = (760 / (sp * CHS)) ** ze
     c.translate(lerp(chs[0], 540, ze), lerp(chs[1], 1130, ze)); c.scale(Z, Z); c.translate(-chs[0], -chs[1])
-    c.translate(540, pyc); c.scale(sp, sp); c.translate(-PX, PY * 0 - PY)
-    phone(c, t, n, xray=xr, apps=apps)
+    c.translate(540, pyc); c.scale(sp, sp); c.translate(-PX, -PY)
+    phone(c, t, n, xray=xr, apps=apps, dim=min(0.9, 1.6 * ze))
     if t >= t_sw and gk > 0 and ze <= 0:  # the chip's lights flickering hard: on/off
         glow(c, CHX, CHY, 150, YEL, 0.25 * gk * (0.5 + 0.5 * math.sin(t * 40)))
     c.restore()
     kd = ease(ramp(t, T_SLOW - 0.6, T_SLOW + 0.1))
     if kd > 0:
-        c.push_group(); die_panel(c, 540, 1130, 1.0, lambda c: die0(c, n)); c.pop_group_to_source(); c.paint_with_alpha(kd)
+        c.push_group(); background(c, t, YEL); die_panel(c, 540, 1130, 1.0, lambda c: die0(c, n)); c.pop_group_to_source(); c.paint_with_alpha(kd)
     if gk > 0 and ze <= 0:
         callout(c, "CHIP", 540 + 75 * push, PY + (CHY - PY) * push - 60 * push, 860, 760, t, wt("gancho", "chip"), YEL)
         # "no piensa": thought cloud crossed out
@@ -380,7 +380,7 @@ def scene_front(c, t):
             c.save(); c.translate(175, 1400); c.scale(k, k); switch_icon(c, on, 1.05); c.restore()
     # imposible badges
     if up > 0.01:
-        ia = up * (1 - ze)
+        ia = up * (1 - ease(ramp(t, t_z0 - 0.15, t_z0 + 0.25)))
         for w, lab, fn, x in BADGES:
             t0 = wt("imposible", w) - 0.15
             k = eob(ramp(t, t0, t0 + 0.3)) * ia
@@ -400,7 +400,7 @@ def scene_paso1(c, t):
     n = tickn(t)
     on = False
     if t >= t_int: on = int((t - t_int) / 0.7) % 2 == 0
-    lab = ease(ramp(t, t_int + 0.2, t_int + 0.6))
+    lab = 0.0
     die_panel(c, cx, cy, s, lambda c: tr3(c, n, on, lab) if u >= 3 else zoom_view(c, u, n, on))
     # ruler: about 1 cm
     kr = ease(ramp(t, wt("paso1", "chip") - 0.1, wt("paso1", "chip") + 0.3)) * (1 - ease(ramp(t, tz0 - 0.2, tz0 + 0.1)))
@@ -408,7 +408,7 @@ def scene_paso1(c, t):
         x0, x1, y = 540 - 380 * push, 540 + 380 * push, 1560
         line(c, [(x0, y), (lerp(x0, x1, kr), y)], CREAM, 6)
         line(c, [(x0, y - 18), (x0, y + 18)], CREAM, 6); line(c, [(x1, y - 18), (x1, y + 18)], alpha(CREAM, kr), 6)
-        text(c, "≈ 1 cm", 540, y + 70, 48, alpha(CREAM, kr), SLAB, False, outline=INK, olw=8)
+        text(c, "≈ 1 cm", 540, y + 70, 50, alpha(CREAM, kr), SANS, True, outline=INK, olw=8)
     # zoom level pill
     kz = ease(ramp(t, tz0 - 0.2, tz0 + 0.1)) * (1 - ks)
     if kz > 0:
@@ -464,7 +464,7 @@ def scene_paso2(c, t):
     c.save(); cam(c, 1.0 + 0.04 * ease(ramp(t, b0, B("paso2")["end"])), 540, 1150)
     t_tr = wt("paso2", "transistor"); t_pu = wt("paso2", "puerta"); t_el = wt("paso2", "electricidad")
     t_pa = wt("paso2", "deja"); t_co = wt("paso2", "corriente"); t_en = wt("paso2", "encendido"); t_uno = wt("paso2", "uno")
-    t_si2 = wt("paso2", "si", 1); t_ap = wt("paso2", "apagado"); t_cero = wt("paso2", "cero")
+    t_si2 = wt("paso2", "si", 2); t_ap = wt("paso2", "apagado"); t_cero = wt("paso2", "cero")
     t_off = t_si2 + 0.3
     k0 = popk(t, b0 - 0.1, 0.45)
     gv = ease(ramp(t, t_el + 0.35, t_el + 0.6)) * (1 - ease(ramp(t, t_off, t_off + 0.25)))
@@ -633,7 +633,7 @@ def scene_paso3(c, t):
     k = popk(t, t_sale) * (1 - ease(ramp(t, t_con - 0.2, t_con + 0.1)))
     if k > 0.02:
         c.save(); c.translate(540, 1560); c.scale(k, k)
-        text(c, "1 Y 1 → 1", 0, 24, 76, YEL, SLAB, False, outline=INK, olw=12); c.restore()
+        text(c, "1 Y 1 → 1", 0, 26, 84, YEL, SANS, True, outline=INK, olw=12); c.restore()
     # suma / compara / decide
     def ic_plus(c):
         line(c, [(-45, 0), (45, 0)], RED, 22); line(c, [(0, -45), (0, 45)], RED, 22)
@@ -841,7 +841,7 @@ def scene_paso5(c, t):
         c.restore()
 
 # ================================================================ scene: junto + acelerón
-DS = 640 / 760
+DS = 700 / 760
 DCX, DCY = 540, 1100
 def dpt(p): return (DCX + p[0] * DS, DCY + p[1] * DS)
 PAD = (-362, 150)
@@ -947,8 +947,8 @@ def scene_remate(c, t):
     if k > 0.02: pill(c, "+ ENERGÍA = CALOR", 300, 1640, 38, HOT, INK, k)
     k = popk(t, t_mi - 0.05)
     if k > 0.02:
-        c.save(); c.translate(540, 1340); c.scale(k, k)
-        text(c, "× MILES DE MILLONES", 0, 18, 54, YEL, SLAB, False, outline=INK, olw=10); c.restore()
+        c.save(); c.translate(540, 1470); c.scale(k, k)
+        text(c, "× MILES DE MILLONES", 0, 16, 44, YEL, SLAB, False, outline=INK, olw=10); c.restore()
 
 # ================================================================ timeline
 SCENES = [
@@ -1013,12 +1013,12 @@ def _thumb_scene(c):
     glow(c, CHX, CHY, 420, YEL, 0.55)
     phone(c, 3.0, 11, xray=1.0, wall=1.2, chipflash=0.0)
     glow(c, CHX, CHY, 230, YEL, 0.5)
-    for i, (x, y) in enumerate(SPARKS[:10]): spark(c, x, y, 18 + 6 * (i % 3), 1.0)
+    for i, (x, y) in enumerate(SPARKS[:5]): spark(c, x, y, 12 + 5 * (i % 3), 0.9)
 
 def THUMB_V(c):
     background(c, 3.0, YEL)
-    c.save(); c.translate(-90, 360); cam(c, 1.0, 540, 1110); _thumb_scene(c); c.restore()
-    c.save(); c.translate(810, 1450); c.rotate(0.12); switch_icon(c, True, 2.4); c.restore()
+    c.save(); c.translate(-70, 170); cam(c, 1.15, 540, 1110); _thumb_scene(c); c.restore()
+    c.save(); c.translate(830, 1500); c.rotate(0.12); switch_icon(c, True, 2.3); c.restore()
     for i, (ln, col) in enumerate([("NO PIENSA", WHITE), ("NADA", YEL)]):
         sz = fit_size(c, ln, SLAB, 210, 980)
         text(c, ln, 540, 340 + i * 220, sz, col, SLAB, False, outline=INK, olw=24)
