@@ -1,0 +1,49 @@
+¿CÓMO SUENA UN ALTAVOZ?
+Short vertical 9:16 · español · 97 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHOS (hookscore, traducción al inglés; la herramienta solo reconoce inglés):
+  ✔ "Tu puto altavoz no toca música. Para esta nota, empuja el aire 440 veces por segundo… y tu cerebro hace el resto."  (51/100 · The Impossible Claim)
+    "Todo el mundo cree que tu altavoz tiene música dentro. Es solo un imán empujando aire 440 veces por segundo."  (45/100 · Contrarian Flip)
+
+======================================================================
+[0:00.25–0:08.41] GANCHO  [CARTEL: ¿CÓMO SUENA UN ALTAVOZ? / LA NOTA LA: 440 VECES POR SEGUNDO]
+VOZ: Tu puto altavoz no toca música. Para esta nota, empuja el aire… cuatrocientas cuarenta veces por segundo. Y tu cerebro hace el resto.
+
+[0:08.91–0:17.36] IMPOSIBLE
+VOZ: No tiene cuerdas. No tiene teclas. No tiene boquilla. Y aun así suena como una guitarra, un piano o tu cantante favorito.
+
+[0:18.06–0:19.65] FRENO
+VOZ: Vamos a verlo mil veces más lento.
+
+[0:20.55–0:28.52] PASO1  [CARTEL: ① ¿QUÉ LE LLEGA? / UNA CORRIENTE QUE VA Y VIENE]
+VOZ: Al altavoz le llega un cable con electricidad. Pero no es una corriente fija: cambia de sentido, adelante y atrás, con la forma exacta de la canción.
+
+[0:29.12–0:41.06] PASO2  [CARTEL: ② ¿QUÉ LA MUEVE? / UNA BOBINA Y UN IMÁN]
+VOZ: Ese cable da vueltas y forma una bobina, pegada a un cono. Y la bobina está metida dentro de un imán. Cuando pasa corriente, la bobina se convierte en otro imán. Y dos imanes… se empujan o se atraen.
+
+[0:41.66–0:50.30] PASO3  [CARTEL: ③ ¿QUÉ EMPUJA? / EL CONO, AL AIRE]
+VOZ: Como la corriente cambia de sentido, la bobina empuja, tira, empuja, tira. Arrastra al cono, y el cono golpea el aire: lo aprieta y lo estira.
+
+[0:50.90–1:03.81] PASO4  [CARTEL: ④ ¿CÓMO TE LLEGA? / ONDAS DE PRESIÓN]
+VOZ: Esos apretones viajan por el aire como ondas hasta tu oído, y tu tímpano se mueve igual que el cono. Más rápido, más agudo. Más grande, más fuerte. Tu oído capta desde veinte hasta veinte mil vibraciones por segundo.
+
+[1:04.41–1:13.17] PASO5  [CARTEL: ⑤ ¿Y LOS GRAVES? / CONOS GRANDES]
+VOZ: ¿Y por qué los altavoces de graves son enormes? Porque un sonido grave es lento, y para que se note hay que mover mucho aire de golpe. Eso solo lo hace un cono grande.
+
+[1:13.77–1:17.34] JUNTO  [CARTEL: TODO JUNTO / DEL CABLE A TU OÍDO]
+VOZ: Corriente, bobina, imán, cono, aire, oído.
+
+[1:17.75–1:19.31] ACELERA  [CARTEL: A VELOCIDAD REAL / 440 VECES POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:23.31–1:36.94] REMATE  [CARTEL: Y OJO: / AL REVÉS ES UN MICRÓFONO]
+VOZ: Y ojo: si le das la vuelta, funciona al revés. Hablas, el aire mueve el cono, la bobina se mueve dentro del imán… y genera corriente. Eso es, literalmente, un micrófono. Así que la próxima vez que suene una nota…
+
+======================================================================
+268 palabras · ~107 s a 150 ppm · 97 s reales con la voz
+
+DATOS USADOS (estándar y comprobables):
+- La nota La4 = 440 Hz (afinación estándar).
+- Oído humano: unos 20 a 20.000 Hz.
+- Altavoz dinámico: bobina móvil en el campo de un imán permanente (fuerza de Lorentz); el cono comprime y enrarece el aire.
+- Un micrófono dinámico es el mismo mecanismo al revés (inducción).

@@ -1,0 +1,51 @@
+¿POR QUÉ EL CIELO ES AZUL?
+Short vertical 9:16 · español · 82 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHOS (hookscore, traducción al inglés; la herramienta solo reconoce inglés):
+  ✔ "El puto cielo no es azul. Es el aire, que rebota la luz azul… casi seis veces más que la roja."  (42/100 · sin fórmula reconocida (la mejor de 5))
+    "El aire no tiene color, y aun así te lanza luz azul 6 veces más que roja."  (41/100)
+
+======================================================================
+[0:00.25–0:05.87] GANCHO  [CARTEL: ¿POR QUÉ EL CIELO ES AZUL? / EL AZUL REBOTA CASI 6 VECES MÁS]
+VOZ: El puto cielo no es azul. Es el aire, que rebota la luz azul… casi seis veces más que la roja.
+
+[0:06.37–0:14.72] IMPOSIBLE
+VOZ: El aire es transparente. No tiene pintura. En un vaso no es azul. Y aun así, encima de tu cabeza, todo es azul.
+
+[0:15.42–0:17.30] FRENO
+VOZ: Vamos a frenar la luz un millón de veces.
+
+[0:18.20–0:27.78] PASO1  [CARTEL: ① ¿QUÉ TRAE EL SOL? / TODOS LOS COLORES]
+VOZ: La luz del sol parece blanca, pero lleva todos los colores mezclados. Y cada color es una onda: la roja, larga y tranquila. La azul, corta y nerviosa.
+
+[0:28.38–0:35.16] PASO2  [CARTEL: ② ¿CON QUÉ CHOCA? / MOLÉCULAS DE AIRE]
+VOZ: Al entrar en la atmósfera, la luz atraviesa muchísimas moléculas de aire. Son diminutas: mucho más pequeñas que cualquier onda de luz.
+
+[0:35.76–0:45.76] PASO3  [CARTEL: ③ ¿QUÉ PASA AL CHOCAR? / EL AZUL REBOTA MÁS]
+VOZ: Esas moléculas desvían la luz hacia todos lados. Pero no a todos los colores por igual: cuanto más corta es la onda, más rebota. El azul rebota casi seis veces más que el rojo.
+
+[0:46.36–0:55.10] PASO4  [CARTEL: ④ ¿POR QUÉ LO VES ARRIBA? / TE LLEGA DE TODAS PARTES]
+VOZ: El rojo sigue casi recto. El azul va rebotando de molécula en molécula por todo el cielo. Así que mires donde mires, te llega azul desde todas partes.
+
+[0:55.70–1:03.98] PASO5  [CARTEL: ⑤ ¿Y EL VIOLETA? / TUS OJOS]
+VOZ: ¿Y el violeta, que rebota todavía más? El sol manda menos violeta, y tus ojos lo captan peor. Tu cerebro lo mezcla todo y dice: azul.
+
+[1:04.58–1:08.21] JUNTO  [CARTEL: TODO JUNTO / DEL SOL A TUS OJOS]
+VOZ: Sol, colores, aire, rebote, azul, tus ojos.
+
+[1:08.61–1:10.18] ACELERA  [CARTEL: A VELOCIDAD REAL / 300.000 KM POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:14.18–1:22.28] REMATE  [CARTEL: Y OJO: / EL ATARDECER]
+VOZ: Y ojo: al atardecer, la luz cruza mucho más aire. El azul se pierde por el puto camino, y solo llega el rojo. Así que el cielo…
+
+======================================================================
+230 palabras · ~92 s a 150 ppm · 82 s reales con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Dispersión de Rayleigh: la intensidad dispersada es proporcional a 1/λ⁴.
+- Azul ≈ 450 nm, rojo ≈ 700 nm → (700/450)⁴ ≈ 5,8: «casi seis veces».
+- Las moléculas de N₂ y O₂ son mucho más pequeñas que la longitud de onda de la luz visible.
+- No se ve violeta: el Sol emite menos violeta, parte se absorbe arriba y el ojo es menos sensible a él.
+- Atardecer: la luz recorre mucho más aire, el azul se dispersa por el camino.
+- Velocidad de la luz ≈ 300.000 km/s.

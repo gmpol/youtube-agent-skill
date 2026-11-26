@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO (de 5 probadas)
+1) Por qué el cielo es azul (y no violeta)
+   90/100 · 94 con la miniatura · contiene la búsqueda exacta ← RECOMENDADO
+2) El aire rebota el azul casi 6 veces más que el rojo
+   94/100 · 98 con la miniatura · no contiene «por qué el cielo es azul»
+3) ¿Por qué el cielo es azul si el aire no tiene color?
+   80/100
+
+MINIATURA: "CERO PINTURA" (3 palabras máx., sin repetir palabras del título) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Por qué el cielo es azul: el aire desvía la luz azul casi 6 veces más que la roja, y te llega desde todas partes.
+Y por qué no es violeta y por qué el atardecer es rojo.
+
+Lo que se ve en el video:
+① La luz del sol lleva todos los colores: ondas largas (rojo) y cortas (azul)
+② Atraviesa moléculas de aire mucho más pequeñas que la onda
+③ Cuanto más corta la onda, más rebota: el azul casi 6 veces más
+④ El azul te llega desde todo el cielo
+⑤ El violeta: el sol manda menos y tus ojos lo captan peor
+
+Datos: Dispersión de Rayleigh: la intensidad dispersada es proporcional a 1/λ⁴. Azul ≈ 450 nm, rojo ≈ 700 nm → (700/450)⁴ ≈ 5,8: «casi seis veces». Las moléculas de N₂ y O₂ son mucho más pequeñas que la longitud de onda de la luz visible.
+
+Animación y voz hechas desde cero.
+
+#cieloazul #ciencia #física #datoscuriosos #comofunciona #shorts
+
+TAGS (solo para desambiguar)
+por qué el cielo es azul, cielo azul, dispersión de Rayleigh, atardecer rojo, luz, colores, atmósfera, física, ciencia, datos curiosos
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "por qué el cielo es azul" → título 1 ✔ · línea 1 ✔
+2. "por qué el atardecer es rojo" → línea 2 ✔
+3. "por qué el cielo no es violeta" → título 1 («no violeta») ✔ · línea 2 ✔
+
+¿Lo publicas así o cambias algo?

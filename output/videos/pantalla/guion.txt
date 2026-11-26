@@ -1,0 +1,49 @@
+¿CÓMO SABE TU PANTALLA DÓNDE LA TOCAS?
+Short vertical 9:16 · español · 81 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHOS (hookscore, traducción al inglés; la herramienta solo reconoce inglés):
+  ✔ "Tu puta pantalla no siente tu dedo. Nota que le robas electricidad… y lo comprueba 120 veces por segundo."  (51/100 · The Impossible Claim)
+    "Tu dedo le está robando electricidad a tu móvil ahora mismo, 120 veces por segundo."  (47/100)
+
+======================================================================
+[0:00.25–0:06.25] GANCHO  [CARTEL: ¿CÓMO SABE DÓNDE LA TOCAS? / 120 LECTURAS POR SEGUNDO]
+VOZ: Tu puta pantalla no siente tu dedo. Nota que le robas electricidad… y lo comprueba ciento veinte veces por segundo.
+
+[0:06.75–0:14.41] IMPOSIBLE
+VOZ: No tiene botones. No se hunde. No necesita que aprietes. Y aun así sabe exactamente dónde está tu dedo.
+
+[0:15.12–0:16.80] FRENO
+VOZ: Vamos a verlo cien veces más lento.
+
+[0:17.70–0:25.80] PASO1  [CARTEL: ① ¿QUÉ HAY DEBAJO? / UNA REJILLA INVISIBLE]
+VOZ: Debajo del cristal hay una rejilla de cables transparentes: unos en filas, otros en columnas. Son tan finos que no los ves, pero cubren toda la pantalla.
+
+[0:26.39–0:33.42] PASO2  [CARTEL: ② ¿PARA QUÉ SIRVE? / CADA CRUCE GUARDA CARGA]
+VOZ: Donde una fila se cruza con una columna, se forma un pequeño almacén de carga eléctrica. Cientos de cruces, cada uno con su cargita.
+
+[0:34.02–0:41.70] PASO3  [CARTEL: ③ ¿QUÉ HACE TU DEDO? / TE LLEVAS CARGA]
+VOZ: Tu cuerpo está lleno de agua con sal, así que conduce la electricidad. Cuando acercas el dedo, te llevas un poco de la carga de los cruces que tienes debajo.
+
+[0:42.30–0:54.02] PASO4  [CARTEL: ④ ¿CÓMO SABE DÓNDE? / UN CHIP LO REVISA TODO]
+VOZ: Un chip revisa todos los cruces, una y otra vez. En muchos móviles, ciento veinte veces por segundo. Donde falta carga, ahí está tu dedo. Y con varios dedos, ve varios huecos a la vez.
+
+[0:54.62–1:02.36] PASO5  [CARTEL: ⑤ ¿Y CON GUANTES? / LA LANA NO CONDUCE]
+VOZ: ¿Y por qué no funciona con guantes? Porque la lana no conduce: no se lleva nada. Los guantes táctiles llevan hilo con metal en las puntas.
+
+[1:02.96–1:06.43] JUNTO  [CARTEL: TODO JUNTO / DEL DEDO A LA POSICIÓN]
+VOZ: Rejilla, carga, dedo, robo, chip, posición.
+
+[1:06.83–1:08.40] ACELERA  [CARTEL: A VELOCIDAD REAL / 120 VECES POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:12.40–1:20.77] REMATE  [CARTEL: Y OJO: / EL AGUA TAMBIÉN CONDUCE]
+VOZ: Y ojo: el agua también conduce. Por eso, con gotas en la pantalla, se vuelve loca y toca cosas por su puta cuenta. Porque tu pantalla…
+
+======================================================================
+225 palabras · ~90 s a 150 ppm · 81 s reales con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Pantalla capacitiva proyectada: rejilla de electrodos transparentes (óxido de indio y estaño) en filas y columnas.
+- El dedo (conductor: agua con sales) cambia la capacitancia en los cruces; un controlador los escanea.
+- Frecuencia de muestreo táctil de 120 Hz en muchos móviles actuales (los hay de 60 a varios cientos).
+- Guantes normales aíslan; los táctiles llevan hilo conductor. El agua también conduce: toques fantasma.

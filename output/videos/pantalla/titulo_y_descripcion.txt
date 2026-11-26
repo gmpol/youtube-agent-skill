@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO (de 5 probadas)
+1) Así funciona una pantalla táctil, 100 veces más lenta
+   94/100 · 98 con la miniatura · contiene «pantalla táctil» ← RECOMENDADO
+2) Tu pantalla revisa tu dedo 120 veces por segundo
+   94/100 · 98 con la miniatura
+3) ¿Por qué la pantalla táctil no funciona con guantes?
+   80/100 · la búsqueda más típica, sin cifra
+
+MINIATURA: "LE ROBAS ELECTRICIDAD" (3 palabras máx., sin repetir palabras del título) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona una pantalla táctil: una rejilla invisible de cables, tu dedo se lleva un poco de carga y un chip lo revisa 120 veces por segundo.
+Y por qué no funciona con guantes y se vuelve loca con gotas de agua.
+
+Lo que se ve en el video:
+① Bajo el cristal: una rejilla transparente de filas y columnas
+② Cada cruce guarda un poco de carga eléctrica
+③ Tu dedo (agua con sal) se lleva carga de los cruces
+④ Un chip revisa los cruces y encuentra el hueco
+⑤ Guantes: la lana no conduce; los táctiles llevan hilo con metal
+
+Datos: Pantalla capacitiva proyectada: rejilla de electrodos transparentes (óxido de indio y estaño) en filas y columnas. El dedo (conductor: agua con sales) cambia la capacitancia en los cruces; un controlador los escanea. Frecuencia de muestreo táctil de 120 Hz en muchos móviles actuales (los hay de 60 a varios cientos).
+
+Animación y voz hechas desde cero.
+
+#pantallatactil #tecnologia #comofunciona #ciencia #movil #shorts
+
+TAGS (solo para desambiguar)
+pantalla táctil, cómo funciona una pantalla táctil, pantalla capacitiva, móvil, guantes táctiles, toques fantasma, agua en la pantalla, tecnología, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona una pantalla táctil" → título 1 ✔ · línea 1 ✔
+2. "por qué la pantalla táctil no funciona con guantes" → línea 2 ✔
+3. "pantalla táctil con agua" → línea 2 ✔
+
+¿Lo publicas así o cambias algo?

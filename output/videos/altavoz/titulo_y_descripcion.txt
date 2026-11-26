@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO (de 5 probadas)
+1) Cómo funciona un altavoz por dentro, 1.000 veces más lento
+   94/100 · 98 con la miniatura · contiene la búsqueda «cómo funciona un altavoz» ← RECOMENDADO
+2) Tu altavoz se mueve 440 veces por segundo para esta nota
+   94/100 · 98 con la miniatura · no dice «cómo funciona», pierde búsqueda
+3) Tu altavoz es un micrófono al revés
+   90/100 · corto y curioso, sin cifra fuerte
+
+MINIATURA: "SOLO EMPUJA AIRE" (3 palabras máx., sin repetir palabras del título) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona un altavoz por dentro: una bobina, un imán y un cono que empuja el aire 440 veces por segundo para dar la nota La.
+Y por qué los altavoces de graves son enormes y por qué un altavoz al revés es un micrófono.
+
+Lo que se ve en el video:
+① Le llega una corriente que va y viene con la forma de la canción
+② La bobina se vuelve un imán dentro de otro imán: se empujan y se atraen
+③ El cono empuja el aire: lo aprieta y lo estira
+④ Ondas de presión hasta tu tímpano (de 20 a 20.000 vibraciones por segundo)
+⑤ Graves = mover mucho aire: conos grandes
+
+Datos: La nota La4 = 440 Hz (afinación estándar). Oído humano: unos 20 a 20.000 Hz. Altavoz dinámico: bobina móvil en el campo de un imán permanente (fuerza de Lorentz); el cono comprime y enrarece el aire.
+
+Animación y voz hechas desde cero.
+
+#altavoz #sonido #comofunciona #física #ciencia #shorts
+
+TAGS (solo para desambiguar)
+altavoz, cómo funciona un altavoz, como funciona un altavoz, bobina, imán, cono, subwoofer, graves, micrófono dinámico, 440 Hz, sonido, física, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona un altavoz" → título 1 ✔ · línea 1 ✔
+2. "por qué los subwoofer son grandes" → línea 2 «altavoces de graves son enormes» ✔
+3. "altavoz y micrófono" → línea 2 ✔
+
+¿Lo publicas así o cambias algo?
