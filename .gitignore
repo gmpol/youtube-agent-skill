@@ -24,3 +24,4 @@ output/videos/*/*.png
 !output/videos/*/miniatura_16x9.png
 output/videos/*/part*.mp4
 output/videos/*/parts.txt
+output/videos/*/make.log
