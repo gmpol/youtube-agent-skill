@@ -907,7 +907,8 @@ def _thumb_mol(c, x, y, s):
     glow(c, x, y, 260 * s, BL, 0.55)
     for i in range(12):
         a = i * math.pi / 6 + 0.2
-        ray(c, x + 60 * s * math.cos(a), y + 60 * s * math.sin(a), a, 230 * s, 40 * s, 10 * s, i, BL, 10 * s, 0.6)
+        args = (x + 60 * s * math.cos(a), y + 60 * s * math.sin(a), a, 240 * s, 44 * s, 11 * s, i)
+        ray(c, *args, INK, 20 * s); ray(c, *args, hx("#6FB4FF"), 11 * s)
     n2(c, x, y, 0.5, 3.4 * s)
 
 def THUMB_V(c):

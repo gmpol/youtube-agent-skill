@@ -769,14 +769,15 @@ def POPS():
     return sorted(p)
 
 def SFX(put, L):
-    for tt, _, _ in TAPS_FRONT: put(L["click"](), tt, 0.7)
+    soft = lambda: L["lp"](L["click"](), 2500) * 0.8
+    for tt, _, _ in TAPS_FRONT: put(soft(), tt, 0.35)
     for w in ("botones", "hunde", "aprietes"): put(L["scratch"](), wt("imposible", w) + 0.25, 0.25)
     put(L["zap"](0.5), wt("gancho", "robas"), 0.12)
-    put(L["click"](), wt("paso3", "acercas") + 0.6, 0.7)
+    put(soft(), wt("paso3", "acercas") + 0.6, 0.35)
     put(L["zap"](0.6), wt("paso3", "llevas"), 0.12)
-    put(L["click"](), wt("paso5", "guantes") + 0.3, 0.6)
+    put(soft(), wt("paso5", "guantes") + 0.3, 0.3)
     put(L["scratch"](), wt("paso5", "conduce"), 0.35)
-    put(L["click"](), wt("paso5", "hilo") - 0.1, 0.6)
+    put(soft(), wt("paso5", "hilo") - 0.1, 0.3)
     put(L["zap"](0.5), wt("paso5", "hilo") + 0.1, 0.12)
     put(L["ding"](), wt("paso5", "metal") + 0.2, 0.25)
     # scan ticks: one quiet tick per row read (slow motion), denser and denser in the acelerón
@@ -786,13 +787,13 @@ def SFX(put, L):
         r = int(scan_pos(t) * NR4)
         if last is not None and r != last:
             fast = ramp(t, T_REAL, t1)
-            put(L["click"](), t, (0.10 if r % NR4 else 0.22) * (1 - 0.5 * fast))
+            put(soft(), t, (0.06 if r % NR4 else 0.13) * (1 - 0.6 * fast))
         last = r; t += 1 / 60
     lands = [wt("remate", "agua") + 0.1, wt("remate", "gotas"), wt("remate", "gotas") + 0.3, wt("remate", "gotas") + 0.55]
     for tl in lands: put(L["tone"](1250, 0.12, 0.002, 0.04), tl, 0.25); put(L["tone"](700, 0.1, 0.002, 0.03), tl + 0.03, 0.2)
     k = int((wt("remate", "loca") - 0.1) / 0.2)
     while k * 0.2 < T_LOOP - 0.3:
-        if k * 0.2 >= wt("remate", "loca") - 0.1: put(L["click"](), k * 0.2, 0.5)
+        if k * 0.2 >= wt("remate", "loca") - 0.1: put(soft(), k * 0.2, 0.25)
         k += 1
 
 # ---------------------------------------------------------------- thumbnails
