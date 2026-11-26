@@ -1,0 +1,64 @@
+¿CÓMO CALIENTA LA COMIDA UN MICROONDAS?
+Short vertical 9:16 · español · objetivo 80–90 s · voz es-ES-AlvaroNeural · palabrotas: suaves (2)
+
+GANCHO ELEGIDO (hookscore, puntuado en su traducción al inglés porque la herramienta solo reconoce inglés):
+  #5  "Tu puto microondas no calienta tu comida. Le hace algo al agua, dos mil cuatrocientos cincuenta millones de veces por segundo."
+      51/100 · The Statistic (+ Impossible Claim) · ADDRESS 96 · STAKES 62 · CURIOSITY 24 (su punto débil)
+  #2  "Dentro de tu microondas, el agua de tu comida se sacude 2.450 millones de veces por segundo."
+      47/100 · The Statistic
+
+======================================================================
+[0:00–0:04] GANCHO
+VOZ: Tu puto microondas no calienta tu comida. Le hace algo al agua… dos mil cuatrocientos cincuenta millones de veces por segundo.
+[EN PANTALLA: microondas de frente en la cocina oscura, cartel de título "¿CÓMO CALIENTA UN MICROONDAS?" / "2.450.000.000 VECES POR SEGUNDO". Barra superior: velocímetro en "VELOCIDAD REAL".]
+
+[0:04–0:10] IMPOSIBLE
+VOZ: No tiene llama. No tiene resistencia. Nada ahí dentro se pone rojo. Y aun así, en un minuto, la sopa hierve.
+[EN PANTALLA: iconos que aparecen y se tachan uno a uno: llama ✕, resistencia ✕, brasas ✕. Taza de sopa echando vapor.]
+
+[0:10–0:14] FRENO
+VOZ: Vamos a verlo mil millones de veces más lento.
+[EN PANTALLA: el velocímetro cae; la barra dice "1.000.000.000x MÁS LENTO". Zoom hacia el microondas, que se vuelve transparente (rayos X).]
+
+[0:14–0:26] PASO 1 · ¿DE DÓNDE SALE?
+VOZ: Detrás de esa pared hay un magnetrón. Le entran miles de voltios y escupe microondas: ondas de radio, de la misma banda que tu wifi, pero muchísimo más fuertes.
+[EN PANTALLA: cartel ① "¿DE DÓNDE SALE?" / "UN MAGNETRÓN". Callouts: ENCHUFE → TRANSFORMADOR → MAGNETRÓN. Rayo de electricidad, luego ondas saliendo por una guía.]
+
+[0:26–0:35] PASO 2 · ¿A DÓNDE VA?
+VOZ: Las paredes son de metal. Así que las ondas rebotan por toda la caja y atraviesan la comida una y otra vez.
+[EN PANTALLA: cartel ② "¿A DÓNDE VA?" / "REBOTA EN EL METAL". Onda amarilla que rebota en zigzag por la cavidad, cruzando la taza.]
+
+[0:35–0:52] PASO 3 · ¿QUÉ LE HACE AL AGUA?
+VOZ: La comida tiene agua. Y cada molécula de agua es como un imán diminuto: un lado positivo, otro negativo. La onda cambia de sentido sin parar, y el agua intenta girar para seguirla. Gira, choca, roza con sus vecinas… y ese roce es calor.
+[EN PANTALLA: cartel ③ "¿QUÉ LE HACE AL AGUA?" / "LA HACE GIRAR". Zoom dentro de la sopa: moléculas de agua (O rojo, dos H blancas, signos + y −). Flecha del campo que se invierte; las moléculas giran con ella y empiezan a brillar en naranja.]
+
+[0:52–1:04] PASO 4 · ¿POR QUÉ GIRA EL PLATO?
+VOZ: Pero las ondas no llenan la caja por igual. Dejan zonas que queman y zonas frías, separadas unos seis centímetros. Por eso gira el plato: para que cada trozo pase por las zonas calientes.
+[EN PANTALLA: cartel ④ "¿POR QUÉ GIRA EL PLATO?" / "PUNTOS CALIENTES". Vista cenital del plato con manchas rojas y azules en cuadrícula; regla "6 cm"; el plato gira y las manchas barren la comida.]
+
+[1:04–1:13] PASO 5 · ¿POR QUÉ NO TE COCINA A TI?
+VOZ: ¿Y por qué no te cocina a ti? La onda mide doce centímetros, y los agujeros de la rejilla de la puerta son mucho más pequeños. La luz pasa. Las microondas, no.
+[EN PANTALLA: cartel ⑤ "¿POR QUÉ NO TE COCINA?" / "LA REJILLA DE LA PUERTA". Primer plano de la rejilla; onda de 12 cm que choca y rebota; rayos de luz pequeños que sí pasan. Callout "ONDA: 12 CM".]
+
+[1:13–1:19] TODO JUNTO
+VOZ: Enchufe, magnetrón, ondas que rebotan, agua que gira, roce, calor.
+[EN PANTALLA: cartel "TODO JUNTO". Microondas completo en rayos X con todas las etiquetas encendiéndose en orden.]
+
+[1:19–1:25] ACELERÓN
+VOZ: Y ahora, a velocidad real.
+[EN PANTALLA: velocímetro sube 1.000.000.000x → 1.000.000x → 1.000x → VELOCIDAD REAL; contador de giros disparándose; las moléculas se vuelven un borrón naranja; vapor.]
+
+[1:25–1:33] REMATE + BUCLE
+VOZ: Y ojo: solo entra unos centímetros. El centro se calienta por contagio, y por eso tu puta lasaña sigue helada por dentro. Porque en realidad…
+[EN PANTALLA: corte transversal de una lasaña: borde rojo, centro azul con escarcha. Vuelve al plano exacto del segundo 0 (el "Porque en realidad…" enlaza con "Tu microondas no calienta tu comida").]
+======================================================================
+
+CIERRE / LLAMADA A LA ACCIÓN: ninguna hablada, igual que en las referencias. El bucle hace ese trabajo.
+
+DATOS USADOS (todos estándar y comprobables, ninguno inventado):
+- 2,45 GHz = frecuencia de los microondas domésticos (banda ISM, la misma que el wifi de 2,4 GHz).
+- Longitud de onda = c / 2,45 GHz ≈ 12,2 cm. Puntos calientes separados media onda ≈ 6 cm.
+- El agua es una molécula polar (dipolo) y el calentamiento dieléctrico viene de que intenta alinearse con un campo alterno.
+- Penetración de pocos centímetros en alimentos; el interior se calienta por conducción.
+- La rejilla de la puerta funciona como jaula de Faraday: agujeros de mm, mucho menores que 12 cm.
+- "Mil millones de veces más lento": 2,45 GHz / 1e9 = 2,45 oscilaciones por segundo, que se pueden ver a simple vista.
