@@ -1,7 +1,7 @@
 [
 {
 "word": "El",
-"start": 0.0,
+"start": 0.25,
 "end": 0.38,
 "beat": "gancho"
 },
@@ -157,7 +157,7 @@
 },
 {
 "word": "No",
-"start": 10.36,
+"start": 10.497,
 "end": 10.64,
 "beat": "imposible"
 },
@@ -265,7 +265,7 @@
 },
 {
 "word": "Vamos",
-"start": 17.56,
+"start": 18.361,
 "end": 18.54,
 "beat": "freno"
 },
@@ -307,7 +307,7 @@
 },
 {
 "word": "Dentro",
-"start": 20.72,
+"start": 20.943,
 "end": 21.22,
 "beat": "paso1"
 },
@@ -433,7 +433,7 @@
 },
 {
 "word": "Primero,",
-"start": 27.58,
+"start": 28.177,
 "end": 28.5,
 "beat": "paso2"
 },
@@ -547,7 +547,7 @@
 },
 {
 "word": "Justo",
-"start": 34.04,
+"start": 34.729,
 "end": 35.02,
 "beat": "paso3"
 },
@@ -673,7 +673,7 @@
 },
 {
 "word": "Después,",
-"start": 41.98,
+"start": 42.197,
 "end": 42.5,
 "beat": "paso4"
 },
@@ -817,7 +817,7 @@
 },
 {
 "word": "Los",
-"start": 51.2,
+"start": 51.926,
 "end": 52.04,
 "beat": "paso5"
 },
@@ -985,7 +985,7 @@
 },
 {
 "word": "Aire,",
-"start": 59.7,
+"start": 60.389,
 "end": 60.66,
 "beat": "junto"
 },
@@ -1021,7 +1021,7 @@
 },
 {
 "word": "Y",
-"start": 64.36,
+"start": 64.932,
 "end": 65.04,
 "beat": "acelera"
 },
@@ -1051,7 +1051,7 @@
 },
 {
 "word": "Y",
-"start": 70.08,
+"start": 70.498,
 "end": 70.6,
 "beat": "remate"
 },

@@ -1,7 +1,7 @@
 [
 {
 "word": "Una",
-"start": 0.0,
+"start": 0.25,
 "end": 0.4,
 "beat": "gancho"
 },
@@ -121,7 +121,7 @@
 },
 {
 "word": "No",
-"start": 6.36,
+"start": 6.922,
 "end": 7.06,
 "beat": "imposible"
 },
@@ -265,7 +265,7 @@
 },
 {
 "word": "Vamos",
-"start": 15.28,
+"start": 16.017,
 "end": 16.2,
 "beat": "freno"
 },
@@ -307,7 +307,7 @@
 },
 {
 "word": "El",
-"start": 18.24,
+"start": 18.601,
 "end": 18.7,
 "beat": "paso1"
 },
@@ -469,7 +469,7 @@
 },
 {
 "word": "Dentro",
-"start": 25.96,
+"start": 26.591,
 "end": 26.88,
 "beat": "paso2"
 },
@@ -637,7 +637,7 @@
 },
 {
 "word": "Y",
-"start": 35.9,
+"start": 36.03,
 "end": 36.12,
 "beat": "paso3"
 },
@@ -859,7 +859,7 @@
 },
 {
 "word": "Además,",
-"start": 46.54,
+"start": 46.723,
 "end": 46.98,
 "beat": "paso4"
 },
@@ -1027,7 +1027,7 @@
 },
 {
 "word": "Cada",
-"start": 54.1,
+"start": 54.207,
 "end": 54.32,
 "beat": "paso5"
 },
@@ -1135,7 +1135,7 @@
 },
 {
 "word": "Tórax,",
-"start": 60.74,
+"start": 60.788,
 "end": 61.14,
 "beat": "junto"
 },
@@ -1171,7 +1171,7 @@
 },
 {
 "word": "Y",
-"start": 64.94,
+"start": 65.405,
 "end": 65.52,
 "beat": "acelera"
 },
@@ -1201,7 +1201,7 @@
 },
 {
 "word": "Y",
-"start": 70.52,
+"start": 70.971,
 "end": 71.08,
 "beat": "remate"
 },

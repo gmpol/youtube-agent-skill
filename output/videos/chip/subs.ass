@@ -11,13 +11,13 @@ Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El puto {\c&H4CC9F2&}chip{\c&HFFFFFF&} de
+Dialogue: 0,0:00:00.20,0:00:00.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El puto {\c&H4CC9F2&}chip{\c&HFFFFFF&} de
 Dialogue: 0,0:00:00.87,0:00:02.32,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu móvil no {\c&H4CC9F2&}piensa.{\c&HFFFFFF&}
 Dialogue: 0,0:00:02.59,0:00:03.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Enciende{\c&HFFFFFF&} y apaga
 Dialogue: 0,0:00:03.37,0:00:03.97,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}interruptores…{\c&HFFFFFF&}
 Dialogue: 0,0:00:03.97,0:00:05.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}3.000 millones{\c&HFFFFFF&} de
-Dialogue: 0,0:00:05.19,0:00:06.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
-Dialogue: 0,0:00:06.43,0:00:08.04,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}engranajes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.19,0:00:06.56,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.56,0:00:08.04,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}engranajes.{\c&HFFFFFF&}
 Dialogue: 0,0:00:08.21,0:00:09.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene nada que
 Dialogue: 0,0:00:09.19,0:00:10.24,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se {\c&H4CC9F2&}mueva.{\c&HFFFFFF&}
 Dialogue: 0,0:00:10.43,0:00:11.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No {\c&H4CC9F2&}entiende{\c&HFFFFFF&} ni una
@@ -25,17 +25,17 @@ Dialogue: 0,0:00:11.31,0:00:12.24,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fs
 Dialogue: 0,0:00:12.45,0:00:13.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así,
 Dialogue: 0,0:00:13.41,0:00:13.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hace todo lo que
 Dialogue: 0,0:00:13.99,0:00:15.30,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ves en la {\c&H4CC9F2&}pantalla.{\c&HFFFFFF&}
-Dialogue: 0,0:00:15.43,0:00:16.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo mil
+Dialogue: 0,0:00:15.55,0:00:16.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo mil
 Dialogue: 0,0:00:16.27,0:00:16.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}millones{\c&HFFFFFF&} de veces
 Dialogue: 0,0:00:16.95,0:00:18.12,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
-Dialogue: 0,0:00:18.43,0:00:19.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro del {\c&H4CC9F2&}chip{\c&HFFFFFF&} hay
+Dialogue: 0,0:00:18.50,0:00:19.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro del {\c&H4CC9F2&}chip{\c&HFFFFFF&} hay
 Dialogue: 0,0:00:19.31,0:00:20.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más de {\c&H4CC9F2&}10.000 millones{\c&HFFFFFF&}
 Dialogue: 0,0:00:20.27,0:00:21.52,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}transistores.{\c&HFFFFFF&}
 Dialogue: 0,0:00:21.77,0:00:22.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada {\c&H4CC9F2&}uno{\c&HFFFFFF&} es un
 Dialogue: 0,0:00:22.53,0:00:23.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}interruptor{\c&HFFFFFF&} diminuto,
 Dialogue: 0,0:00:23.63,0:00:24.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sin {\c&H4CC9F2&}ninguna{\c&HFFFFFF&} pieza
-Dialogue: 0,0:00:24.37,0:00:25.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que se {\c&H4CC9F2&}mueva.{\c&HFFFFFF&}
-Dialogue: 0,0:00:25.47,0:00:26.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Un {\c&H4CC9F2&}transistor{\c&HFFFFFF&} tiene
+Dialogue: 0,0:00:24.37,0:00:25.48,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que se {\c&H4CC9F2&}mueva.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.53,0:00:26.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Un {\c&H4CC9F2&}transistor{\c&HFFFFFF&} tiene
 Dialogue: 0,0:00:26.33,0:00:27.38,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una {\c&H4CC9F2&}puerta.{\c&HFFFFFF&}
 Dialogue: 0,0:00:27.45,0:00:29.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Si le llega {\c&H4CC9F2&}electricidad,{\c&HFFFFFF&}
 Dialogue: 0,0:00:29.15,0:00:29.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}puerta{\c&HFFFFFF&} deja pasar
@@ -45,8 +45,8 @@ Dialogue: 0,0:00:31.49,0:00:32.36,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fs
 Dialogue: 0,0:00:32.55,0:00:33.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Si no,
 Dialogue: 0,0:00:33.31,0:00:34.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no pasa nada:
 Dialogue: 0,0:00:34.13,0:00:34.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}apagado,{\c&HFFFFFF&}
-Dialogue: 0,0:00:34.83,0:00:35.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cero.{\c&HFFFFFF&}
-Dialogue: 0,0:00:35.75,0:00:36.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Juntando {\c&H4CC9F2&}unos{\c&HFFFFFF&} pocos
+Dialogue: 0,0:00:34.83,0:00:35.76,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cero.{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.81,0:00:36.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Juntando {\c&H4CC9F2&}unos{\c&HFFFFFF&} pocos
 Dialogue: 0,0:00:36.67,0:00:37.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}transistores{\c&HFFFFFF&} se hacen
 Dialogue: 0,0:00:37.59,0:00:38.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}reglas:{\c&HFFFFFF&}
 Dialogue: 0,0:00:38.23,0:00:39.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por {\c&H4CC9F2&}ejemplo,{\c&HFFFFFF&}
@@ -55,8 +55,8 @@ Dialogue: 0,0:00:40.03,0:00:41.28,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fs
 Dialogue: 0,0:00:41.35,0:00:42.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Con esas {\c&H4CC9F2&}reglas{\c&HFFFFFF&} se
 Dialogue: 0,0:00:42.35,0:00:42.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}suma,{\c&HFFFFFF&}
 Dialogue: 0,0:00:42.83,0:00:43.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se {\c&H4CC9F2&}compara{\c&HFFFFFF&} y se
-Dialogue: 0,0:00:43.47,0:00:44.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}decide.{\c&HFFFFFF&}
-Dialogue: 0,0:00:44.37,0:00:45.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Todo va al {\c&H4CC9F2&}compás{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.47,0:00:44.42,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}decide.{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.51,0:00:45.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Todo va al {\c&H4CC9F2&}compás{\c&HFFFFFF&}
 Dialogue: 0,0:00:45.21,0:00:46.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de un {\c&H4CC9F2&}reloj{\c&HFFFFFF&} interno.
 Dialogue: 0,0:00:46.69,0:00:47.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}En cada {\c&H4CC9F2&}tic,{\c&HFFFFFF&}
 Dialogue: 0,0:00:47.83,0:00:48.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}millones de {\c&H4CC9F2&}interruptores{\c&HFFFFFF&}
@@ -64,7 +64,7 @@ Dialogue: 0,0:00:48.73,0:00:50.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fs
 Dialogue: 0,0:00:50.11,0:00:51.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}En los móviles {\c&H4CC9F2&}potentes,{\c&HFFFFFF&}
 Dialogue: 0,0:00:51.73,0:00:52.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}3.000 millones{\c&HFFFFFF&} de
 Dialogue: 0,0:00:52.67,0:00:54.00,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tics por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
-Dialogue: 0,0:00:54.03,0:00:54.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Una {\c&H4CC9F2&}foto,{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.12,0:00:54.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Una {\c&H4CC9F2&}foto,{\c&HFFFFFF&}
 Dialogue: 0,0:00:54.81,0:00:55.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un {\c&H4CC9F2&}mensaje,{\c&HFFFFFF&}
 Dialogue: 0,0:00:55.63,0:00:56.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un vídeo:
 Dialogue: 0,0:00:56.29,0:00:57.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}para el {\c&H4CC9F2&}chip,{\c&HFFFFFF&}
@@ -79,10 +79,10 @@ Dialogue: 0,0:01:04.35,0:01:04.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fs
 Dialogue: 0,0:01:04.95,0:01:05.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}uno,{\c&HFFFFFF&}
 Dialogue: 0,0:01:05.57,0:01:06.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cero,{\c&HFFFFFF&}
 Dialogue: 0,0:01:06.13,0:01:06.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}reglas,{\c&HFFFFFF&}
-Dialogue: 0,0:01:06.91,0:01:07.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}tic.{\c&HFFFFFF&}
-Dialogue: 0,0:01:07.47,0:01:08.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:06.91,0:01:07.58,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}tic.{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.58,0:01:08.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
 Dialogue: 0,0:01:08.29,0:01:09.64,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
-Dialogue: 0,0:01:12.81,0:01:13.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:13.14,0:01:13.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
 Dialogue: 0,0:01:13.77,0:01:14.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por eso el móvil
 Dialogue: 0,0:01:14.41,0:01:15.62,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se {\c&H4CC9F2&}calienta.{\c&HFFFFFF&}
 Dialogue: 0,0:01:15.81,0:01:16.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada vez que un

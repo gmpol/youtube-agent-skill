@@ -1,7 +1,7 @@
 [
 {
 "word": "Dentro",
-"start": 0.0,
+"start": 0.25,
 "end": 0.52,
 "beat": "gancho"
 },
@@ -175,7 +175,7 @@
 },
 {
 "word": "No",
-"start": 8.18,
+"start": 8.256,
 "end": 8.4,
 "beat": "imposible"
 },
@@ -319,7 +319,7 @@
 },
 {
 "word": "Vamos",
-"start": 17.3,
+"start": 17.378,
 "end": 17.58,
 "beat": "freno"
 },
@@ -367,7 +367,7 @@
 },
 {
 "word": "Dentro",
-"start": 19.98,
+"start": 20.112,
 "end": 20.4,
 "beat": "paso1"
 },
@@ -505,7 +505,7 @@
 },
 {
 "word": "El",
-"start": 25.8,
+"start": 25.944,
 "end": 26.06,
 "beat": "paso2"
 },
@@ -697,7 +697,7 @@
 },
 {
 "word": "El",
-"start": 36.64,
+"start": 36.715,
 "end": 36.84,
 "beat": "paso3"
 },
@@ -865,7 +865,7 @@
 },
 {
 "word": "Cada",
-"start": 47.42,
+"start": 47.509,
 "end": 47.64,
 "beat": "paso4"
 },
@@ -961,7 +961,7 @@
 },
 {
 "word": "¿Y",
-"start": 54.0,
+"start": 54.058,
 "end": 54.14,
 "beat": "paso5"
 },
@@ -1129,7 +1129,7 @@
 },
 {
 "word": "Pila,",
-"start": 63.82,
+"start": 63.884,
 "end": 64.08,
 "beat": "junto"
 },
@@ -1165,7 +1165,7 @@
 },
 {
 "word": "Y",
-"start": 67.78,
+"start": 67.822,
 "end": 67.94,
 "beat": "acelera"
 },
@@ -1195,7 +1195,7 @@
 },
 {
 "word": "Y",
-"start": 72.94,
+"start": 73.388,
 "end": 73.5,
 "beat": "remate"
 },

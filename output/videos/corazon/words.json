@@ -1,7 +1,7 @@
 [
 {
 "word": "Tu",
-"start": 0.0,
+"start": 0.25,
 "end": 0.34,
 "beat": "gancho"
 },
@@ -110,7 +110,7 @@
 },
 {
 "word": "No",
-"start": 5.4,
+"start": 5.477,
 "end": 5.62,
 "beat": "imposible"
 },
@@ -230,7 +230,7 @@
 },
 {
 "word": "Vamos",
-"start": 13.5,
+"start": 13.748,
 "end": 13.94,
 "beat": "freno"
 },
@@ -272,8 +272,8 @@
 },
 {
 "word": "Tu",
-"start": 15.94,
-"end": 16.38,
+"start": 16.325,
+"end": 16.405,
 "beat": "paso1"
 },
 {
@@ -440,7 +440,7 @@
 },
 {
 "word": "Arriba,",
-"start": 25.46,
+"start": 25.486,
 "end": 25.9,
 "beat": "paso2"
 },
@@ -638,7 +638,7 @@
 },
 {
 "word": "Cada",
-"start": 35.12,
+"start": 35.226,
 "end": 35.36,
 "beat": "paso3"
 },
@@ -776,7 +776,7 @@
 },
 {
 "word": "Entre",
-"start": 43.36,
+"start": 43.408,
 "end": 43.6,
 "beat": "paso4"
 },
@@ -938,7 +938,7 @@
 },
 {
 "word": "El",
-"start": 51.94,
+"start": 52.069,
 "end": 52.18,
 "beat": "paso5"
 },
@@ -1100,7 +1100,7 @@
 },
 {
 "word": "Y",
-"start": 63.88,
+"start": 64.381,
 "end": 64.48,
 "beat": "acelera"
 },
@@ -1130,7 +1130,7 @@
 },
 {
 "word": "Y",
-"start": 69.48,
+"start": 69.947,
 "end": 70.04,
 "beat": "remate"
 },

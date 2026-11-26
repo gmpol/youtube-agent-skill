@@ -1,7 +1,7 @@
 [
 {
 "word": "Un",
-"start": 0.0,
+"start": 0.25,
 "end": 0.38,
 "beat": "gancho"
 },
@@ -151,7 +151,7 @@
 },
 {
 "word": "El",
-"start": 7.08,
+"start": 7.222,
 "end": 7.34,
 "beat": "imposible"
 },
@@ -313,7 +313,7 @@
 },
 {
 "word": "Vamos",
-"start": 16.34,
+"start": 16.629,
 "end": 16.8,
 "beat": "freno"
 },
@@ -355,7 +355,7 @@
 },
 {
 "word": "Dentro",
-"start": 18.92,
+"start": 19.126,
 "end": 19.38,
 "beat": "paso1"
 },
@@ -535,7 +535,7 @@
 },
 {
 "word": "Esa",
-"start": 27.86,
+"start": 28.339,
 "end": 28.54,
 "beat": "paso2"
 },
@@ -685,7 +685,7 @@
 },
 {
 "word": "El",
-"start": 34.16,
+"start": 34.942,
 "end": 35.04,
 "beat": "paso3"
 },
@@ -859,7 +859,7 @@
 },
 {
 "word": "La",
-"start": 42.86,
+"start": 43.558,
 "end": 43.66,
 "beat": "paso4"
 },
@@ -1033,7 +1033,7 @@
 },
 {
 "word": "Cuenta",
-"start": 52.22,
+"start": 52.984,
 "end": 53.18,
 "beat": "paso5"
 },
@@ -1189,7 +1189,7 @@
 },
 {
 "word": "Cargas,",
-"start": 60.24,
+"start": 60.923,
 "end": 61.24,
 "beat": "junto"
 },
@@ -1231,7 +1231,7 @@
 },
 {
 "word": "Y",
-"start": 64.58,
+"start": 65.044,
 "end": 65.14,
 "beat": "acelera"
 },
@@ -1261,7 +1261,7 @@
 },
 {
 "word": "Y",
-"start": 70.2,
+"start": 70.61,
 "end": 70.7,
 "beat": "remate"
 },

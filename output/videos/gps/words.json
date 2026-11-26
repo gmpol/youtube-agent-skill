@@ -1,8 +1,8 @@
 [
 {
 "word": "Tu",
-"start": 0.0,
-"end": 0.32,
+"start": 0.25,
+"end": 0.33,
 "beat": "gancho"
 },
 {
@@ -97,7 +97,7 @@
 },
 {
 "word": "No",
-"start": 4.56,
+"start": 4.693,
 "end": 4.84,
 "beat": "imposible"
 },
@@ -253,7 +253,7 @@
 },
 {
 "word": "Vamos",
-"start": 13.84,
+"start": 14.084,
 "end": 14.28,
 "beat": "freno"
 },
@@ -307,7 +307,7 @@
 },
 {
 "word": "Alrededor",
-"start": 16.86,
+"start": 16.862,
 "end": 17.3,
 "beat": "paso1"
 },
@@ -481,7 +481,7 @@
 },
 {
 "word": "El",
-"start": 26.26,
+"start": 26.77,
 "end": 26.88,
 "beat": "paso2"
 },
@@ -715,8 +715,8 @@
 },
 {
 "word": "Con",
-"start": 37.12,
-"end": 37.34,
+"start": 37.263,
+"end": 37.343,
 "beat": "paso3"
 },
 {
@@ -901,7 +901,7 @@
 },
 {
 "word": "Pero",
-"start": 46.78,
+"start": 47.02,
 "end": 47.14,
 "beat": "paso4"
 },
@@ -1075,7 +1075,7 @@
 },
 {
 "word": "Y",
-"start": 55.82,
+"start": 56.42,
 "end": 56.5,
 "beat": "paso5"
 },
@@ -1237,7 +1237,7 @@
 },
 {
 "word": "Satélites,",
-"start": 65.42,
+"start": 65.478,
 "end": 65.98,
 "beat": "junto"
 },
@@ -1273,7 +1273,7 @@
 },
 {
 "word": "Y",
-"start": 69.92,
+"start": 70.001,
 "end": 70.1,
 "beat": "acelera"
 },
@@ -1303,7 +1303,7 @@
 },
 {
 "word": "Y",
-"start": 75.1,
+"start": 75.567,
 "end": 75.66,
 "beat": "remate"
 },

@@ -1,7 +1,7 @@
 [
 {
 "word": "El",
-"start": 0.0,
+"start": 0.25,
 "end": 0.36,
 "beat": "gancho"
 },
@@ -127,7 +127,7 @@
 },
 {
 "word": "El",
-"start": 6.3,
+"start": 6.366,
 "end": 6.48,
 "beat": "imposible"
 },
@@ -265,7 +265,7 @@
 },
 {
 "word": "Vamos",
-"start": 15.34,
+"start": 15.423,
 "end": 15.62,
 "beat": "freno"
 },
@@ -319,7 +319,7 @@
 },
 {
 "word": "La",
-"start": 18.02,
+"start": 18.201,
 "end": 18.32,
 "beat": "paso1"
 },
@@ -487,7 +487,7 @@
 },
 {
 "word": "Al",
-"start": 28.28,
+"start": 28.379,
 "end": 28.48,
 "beat": "paso2"
 },
@@ -619,7 +619,7 @@
 },
 {
 "word": "Esas",
-"start": 35.74,
+"start": 35.757,
 "end": 35.98,
 "beat": "paso3"
 },
@@ -823,7 +823,7 @@
 },
 {
 "word": "El",
-"start": 46.24,
+"start": 46.356,
 "end": 46.46,
 "beat": "paso4"
 },
@@ -991,8 +991,8 @@
 },
 {
 "word": "¿Y",
-"start": 55.46,
-"end": 55.78,
+"start": 55.702,
+"end": 55.782,
 "beat": "paso5"
 },
 {
@@ -1147,7 +1147,7 @@
 },
 {
 "word": "Sol,",
-"start": 64.52,
+"start": 64.582,
 "end": 64.82,
 "beat": "junto"
 },
@@ -1189,7 +1189,7 @@
 },
 {
 "word": "Y",
-"start": 68.54,
+"start": 68.612,
 "end": 68.72,
 "beat": "acelera"
 },
@@ -1219,7 +1219,7 @@
 },
 {
 "word": "Y",
-"start": 73.82,
+"start": 74.178,
 "end": 74.26,
 "beat": "remate"
 },

@@ -100,7 +100,7 @@ voice = np.pad(voice, (0, max(0, N - len(voice))))[:N]
 stems = {"voice": voice, "music_bed": music, "sfx": sfx}; gain = {}
 for k, x in stems.items():
     p = os.path.join(PROJ, "stems", k + ".wav"); g0 = 0.5 / max(1e-9, np.abs(x).max()); wav_write(p, x * g0); gain[k] = (lufs(p), g0)
-TGT = {"voice": -16.0, "music_bed": -35.5, "sfx": -24.0}
+TGT = {"voice": -16.0, "music_bed": -34.5, "sfx": -24.0}
 def scale(k): L, g0 = gain[k]; return g0 * 10 ** ((TGT[k] - L) / 20)
 mix = voice * scale("voice") + music_auto * scale("music_bed") + sfx * scale("sfx")
 st = np.stack([mix, mix], 1); w_ = music_auto * scale("music_bed") * 0.15; st[:, 0] += w_; st[:, 1] -= w_
