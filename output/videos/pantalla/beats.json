@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Tu puta pantalla no siente tu dedo. Nota que le robas electricidad… y lo comprueba ciento veinte veces por segundo."
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene botones. No se hunde. No necesita que aprietes. Y aun así sabe exactamente dónde está tu dedo."
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo cien veces más lento."
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Debajo del cristal hay una rejilla de cables transparentes: unos en filas, otros en columnas. Son tan finos que no los ves, pero cubren toda la pantalla."
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Donde una fila se cruza con una columna, se forma un pequeño almacén de carga eléctrica. Cientos de cruces, cada uno con su cargita."
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Tu cuerpo está lleno de agua con sal, así que conduce la electricidad. Cuando acercas el dedo, te llevas un poco de la carga de los cruces que tienes debajo."
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Un chip revisa todos los cruces, una y otra vez. En muchos móviles, ciento veinte veces por segundo. Donde falta carga, ahí está tu dedo. Y con varios dedos, ve varios huecos a la vez."
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "¿Y por qué no funciona con guantes? Porque la lana no conduce: no se lleva nada. Los guantes táctiles llevan hilo con metal en las puntas."
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Rejilla, carga, dedo, robo, chip, posición."
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real."
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: el agua también conduce. Por eso, con gotas en la pantalla, se vuelve loca y toca cosas por su puta cuenta. Porque tu pantalla…"
+ }
+]

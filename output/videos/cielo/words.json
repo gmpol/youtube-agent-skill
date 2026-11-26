@@ -1,0 +1,1382 @@
+[
+{
+"word": "El",
+"start": 0.0,
+"end": 0.36,
+"beat": "gancho"
+},
+{
+"word": "puto",
+"start": 0.36,
+"end": 0.62,
+"beat": "gancho"
+},
+{
+"word": "cielo",
+"start": 0.62,
+"end": 0.82,
+"beat": "gancho"
+},
+{
+"word": "no",
+"start": 0.82,
+"end": 1.02,
+"beat": "gancho"
+},
+{
+"word": "es",
+"start": 1.02,
+"end": 1.16,
+"beat": "gancho"
+},
+{
+"word": "azul.",
+"start": 1.16,
+"end": 1.4,
+"beat": "gancho"
+},
+{
+"word": "Es",
+"start": 2.18,
+"end": 2.56,
+"beat": "gancho"
+},
+{
+"word": "el",
+"start": 2.56,
+"end": 2.7,
+"beat": "gancho"
+},
+{
+"word": "aire,",
+"start": 2.7,
+"end": 2.84,
+"beat": "gancho"
+},
+{
+"word": "que",
+"start": 3.16,
+"end": 3.24,
+"beat": "gancho"
+},
+{
+"word": "rebota",
+"start": 3.24,
+"end": 3.52,
+"beat": "gancho"
+},
+{
+"word": "la",
+"start": 3.52,
+"end": 3.64,
+"beat": "gancho"
+},
+{
+"word": "luz",
+"start": 3.64,
+"end": 3.78,
+"beat": "gancho"
+},
+{
+"word": "azul…",
+"start": 3.78,
+"end": 4.08,
+"beat": "gancho"
+},
+{
+"word": "casi",
+"start": 4.36,
+"end": 4.54,
+"beat": "gancho"
+},
+{
+"word": "seis",
+"start": 4.54,
+"end": 4.82,
+"beat": "gancho"
+},
+{
+"word": "veces",
+"start": 4.82,
+"end": 5.02,
+"beat": "gancho"
+},
+{
+"word": "más",
+"start": 5.02,
+"end": 5.28,
+"beat": "gancho"
+},
+{
+"word": "que",
+"start": 5.28,
+"end": 5.4,
+"beat": "gancho"
+},
+{
+"word": "la",
+"start": 5.4,
+"end": 5.48,
+"beat": "gancho"
+},
+{
+"word": "roja.",
+"start": 5.48,
+"end": 5.78,
+"beat": "gancho"
+},
+{
+"word": "El",
+"start": 6.3,
+"end": 6.48,
+"beat": "imposible"
+},
+{
+"word": "aire",
+"start": 6.48,
+"end": 6.64,
+"beat": "imposible"
+},
+{
+"word": "es",
+"start": 6.64,
+"end": 6.84,
+"beat": "imposible"
+},
+{
+"word": "transparente.",
+"start": 6.84,
+"end": 7.48,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 8.2,
+"end": 8.5,
+"beat": "imposible"
+},
+{
+"word": "tiene",
+"start": 8.5,
+"end": 8.68,
+"beat": "imposible"
+},
+{
+"word": "pintura.",
+"start": 8.68,
+"end": 9.1,
+"beat": "imposible"
+},
+{
+"word": "En",
+"start": 9.94,
+"end": 10.18,
+"beat": "imposible"
+},
+{
+"word": "un",
+"start": 10.18,
+"end": 10.28,
+"beat": "imposible"
+},
+{
+"word": "vaso",
+"start": 10.28,
+"end": 10.56,
+"beat": "imposible"
+},
+{
+"word": "no",
+"start": 10.56,
+"end": 10.68,
+"beat": "imposible"
+},
+{
+"word": "es",
+"start": 10.68,
+"end": 10.82,
+"beat": "imposible"
+},
+{
+"word": "azul.",
+"start": 10.82,
+"end": 11.08,
+"beat": "imposible"
+},
+{
+"word": "Y",
+"start": 11.98,
+"end": 12.22,
+"beat": "imposible"
+},
+{
+"word": "aun",
+"start": 12.22,
+"end": 12.3,
+"beat": "imposible"
+},
+{
+"word": "así,",
+"start": 12.3,
+"end": 12.58,
+"beat": "imposible"
+},
+{
+"word": "encima",
+"start": 12.82,
+"end": 13.1,
+"beat": "imposible"
+},
+{
+"word": "de",
+"start": 13.1,
+"end": 13.24,
+"beat": "imposible"
+},
+{
+"word": "tu",
+"start": 13.24,
+"end": 13.34,
+"beat": "imposible"
+},
+{
+"word": "cabeza,",
+"start": 13.34,
+"end": 13.62,
+"beat": "imposible"
+},
+{
+"word": "todo",
+"start": 14.06,
+"end": 14.16,
+"beat": "imposible"
+},
+{
+"word": "es",
+"start": 14.16,
+"end": 14.38,
+"beat": "imposible"
+},
+{
+"word": "azul.",
+"start": 14.38,
+"end": 14.62,
+"beat": "imposible"
+},
+{
+"word": "Vamos",
+"start": 15.34,
+"end": 15.62,
+"beat": "freno"
+},
+{
+"word": "a",
+"start": 15.62,
+"end": 15.8,
+"beat": "freno"
+},
+{
+"word": "frenar",
+"start": 15.8,
+"end": 16.04,
+"beat": "freno"
+},
+{
+"word": "la",
+"start": 16.04,
+"end": 16.18,
+"beat": "freno"
+},
+{
+"word": "luz",
+"start": 16.18,
+"end": 16.36,
+"beat": "freno"
+},
+{
+"word": "un",
+"start": 16.36,
+"end": 16.48,
+"beat": "freno"
+},
+{
+"word": "millón",
+"start": 16.48,
+"end": 16.72,
+"beat": "freno"
+},
+{
+"word": "de",
+"start": 16.72,
+"end": 16.84,
+"beat": "freno"
+},
+{
+"word": "veces.",
+"start": 16.84,
+"end": 17.06,
+"beat": "freno"
+},
+{
+"word": "La",
+"start": 18.02,
+"end": 18.32,
+"beat": "paso1"
+},
+{
+"word": "luz",
+"start": 18.32,
+"end": 18.46,
+"beat": "paso1"
+},
+{
+"word": "del",
+"start": 18.46,
+"end": 18.6,
+"beat": "paso1"
+},
+{
+"word": "sol",
+"start": 18.6,
+"end": 18.8,
+"beat": "paso1"
+},
+{
+"word": "parece",
+"start": 18.8,
+"end": 19.08,
+"beat": "paso1"
+},
+{
+"word": "blanca,",
+"start": 19.08,
+"end": 19.5,
+"beat": "paso1"
+},
+{
+"word": "pero",
+"start": 19.76,
+"end": 19.92,
+"beat": "paso1"
+},
+{
+"word": "lleva",
+"start": 19.92,
+"end": 20.1,
+"beat": "paso1"
+},
+{
+"word": "todos",
+"start": 20.1,
+"end": 20.32,
+"beat": "paso1"
+},
+{
+"word": "los",
+"start": 20.32,
+"end": 20.54,
+"beat": "paso1"
+},
+{
+"word": "colores",
+"start": 20.54,
+"end": 20.86,
+"beat": "paso1"
+},
+{
+"word": "mezclados.",
+"start": 20.86,
+"end": 21.36,
+"beat": "paso1"
+},
+{
+"word": "Y",
+"start": 22.26,
+"end": 22.5,
+"beat": "paso1"
+},
+{
+"word": "cada",
+"start": 22.5,
+"end": 22.66,
+"beat": "paso1"
+},
+{
+"word": "color",
+"start": 22.66,
+"end": 22.88,
+"beat": "paso1"
+},
+{
+"word": "es",
+"start": 22.88,
+"end": 23.08,
+"beat": "paso1"
+},
+{
+"word": "una",
+"start": 23.08,
+"end": 23.24,
+"beat": "paso1"
+},
+{
+"word": "onda:",
+"start": 23.24,
+"end": 23.46,
+"beat": "paso1"
+},
+{
+"word": "la",
+"start": 23.74,
+"end": 23.84,
+"beat": "paso1"
+},
+{
+"word": "roja,",
+"start": 23.84,
+"end": 24.16,
+"beat": "paso1"
+},
+{
+"word": "larga",
+"start": 24.48,
+"end": 24.74,
+"beat": "paso1"
+},
+{
+"word": "y",
+"start": 24.74,
+"end": 24.8,
+"beat": "paso1"
+},
+{
+"word": "tranquila.",
+"start": 24.8,
+"end": 25.22,
+"beat": "paso1"
+},
+{
+"word": "La",
+"start": 25.88,
+"end": 26.36,
+"beat": "paso1"
+},
+{
+"word": "azul,",
+"start": 26.36,
+"end": 26.6,
+"beat": "paso1"
+},
+{
+"word": "corta",
+"start": 26.9,
+"end": 27.18,
+"beat": "paso1"
+},
+{
+"word": "y",
+"start": 27.18,
+"end": 27.22,
+"beat": "paso1"
+},
+{
+"word": "nerviosa.",
+"start": 27.22,
+"end": 27.62,
+"beat": "paso1"
+},
+{
+"word": "Al",
+"start": 28.28,
+"end": 28.48,
+"beat": "paso2"
+},
+{
+"word": "entrar",
+"start": 28.48,
+"end": 28.68,
+"beat": "paso2"
+},
+{
+"word": "en",
+"start": 28.68,
+"end": 28.82,
+"beat": "paso2"
+},
+{
+"word": "la",
+"start": 28.82,
+"end": 28.9,
+"beat": "paso2"
+},
+{
+"word": "atmósfera,",
+"start": 28.9,
+"end": 29.3,
+"beat": "paso2"
+},
+{
+"word": "la",
+"start": 29.58,
+"end": 29.66,
+"beat": "paso2"
+},
+{
+"word": "luz",
+"start": 29.66,
+"end": 29.78,
+"beat": "paso2"
+},
+{
+"word": "atraviesa",
+"start": 29.78,
+"end": 30.22,
+"beat": "paso2"
+},
+{
+"word": "muchísimas",
+"start": 30.22,
+"end": 30.66,
+"beat": "paso2"
+},
+{
+"word": "moléculas",
+"start": 30.66,
+"end": 31.14,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 31.14,
+"end": 31.24,
+"beat": "paso2"
+},
+{
+"word": "aire.",
+"start": 31.24,
+"end": 31.42,
+"beat": "paso2"
+},
+{
+"word": "Son",
+"start": 32.18,
+"end": 32.64,
+"beat": "paso2"
+},
+{
+"word": "diminutas:",
+"start": 32.64,
+"end": 33.14,
+"beat": "paso2"
+},
+{
+"word": "mucho",
+"start": 33.4,
+"end": 33.62,
+"beat": "paso2"
+},
+{
+"word": "más",
+"start": 33.62,
+"end": 33.78,
+"beat": "paso2"
+},
+{
+"word": "pequeñas",
+"start": 33.78,
+"end": 34.16,
+"beat": "paso2"
+},
+{
+"word": "que",
+"start": 34.16,
+"end": 34.28,
+"beat": "paso2"
+},
+{
+"word": "cualquier",
+"start": 34.28,
+"end": 34.56,
+"beat": "paso2"
+},
+{
+"word": "onda",
+"start": 34.56,
+"end": 34.76,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 34.76,
+"end": 34.88,
+"beat": "paso2"
+},
+{
+"word": "luz.",
+"start": 34.88,
+"end": 35.04,
+"beat": "paso2"
+},
+{
+"word": "Esas",
+"start": 35.74,
+"end": 35.98,
+"beat": "paso3"
+},
+{
+"word": "moléculas",
+"start": 35.98,
+"end": 36.44,
+"beat": "paso3"
+},
+{
+"word": "desvían",
+"start": 36.44,
+"end": 36.74,
+"beat": "paso3"
+},
+{
+"word": "la",
+"start": 36.74,
+"end": 36.88,
+"beat": "paso3"
+},
+{
+"word": "luz",
+"start": 36.88,
+"end": 37.04,
+"beat": "paso3"
+},
+{
+"word": "hacia",
+"start": 37.04,
+"end": 37.26,
+"beat": "paso3"
+},
+{
+"word": "todos",
+"start": 37.26,
+"end": 37.46,
+"beat": "paso3"
+},
+{
+"word": "lados.",
+"start": 37.46,
+"end": 37.76,
+"beat": "paso3"
+},
+{
+"word": "Pero",
+"start": 38.72,
+"end": 39.0,
+"beat": "paso3"
+},
+{
+"word": "no",
+"start": 39.0,
+"end": 39.12,
+"beat": "paso3"
+},
+{
+"word": "a",
+"start": 39.12,
+"end": 39.2,
+"beat": "paso3"
+},
+{
+"word": "todos",
+"start": 39.2,
+"end": 39.32,
+"beat": "paso3"
+},
+{
+"word": "los",
+"start": 39.32,
+"end": 39.54,
+"beat": "paso3"
+},
+{
+"word": "colores",
+"start": 39.54,
+"end": 39.84,
+"beat": "paso3"
+},
+{
+"word": "por",
+"start": 39.84,
+"end": 40.04,
+"beat": "paso3"
+},
+{
+"word": "igual:",
+"start": 40.04,
+"end": 40.24,
+"beat": "paso3"
+},
+{
+"word": "cuanto",
+"start": 40.6,
+"end": 40.72,
+"beat": "paso3"
+},
+{
+"word": "más",
+"start": 40.72,
+"end": 40.94,
+"beat": "paso3"
+},
+{
+"word": "corta",
+"start": 40.94,
+"end": 41.32,
+"beat": "paso3"
+},
+{
+"word": "es",
+"start": 41.32,
+"end": 41.42,
+"beat": "paso3"
+},
+{
+"word": "la",
+"start": 41.42,
+"end": 41.54,
+"beat": "paso3"
+},
+{
+"word": "onda,",
+"start": 41.54,
+"end": 41.72,
+"beat": "paso3"
+},
+{
+"word": "más",
+"start": 42.04,
+"end": 42.18,
+"beat": "paso3"
+},
+{
+"word": "rebota.",
+"start": 42.18,
+"end": 42.46,
+"beat": "paso3"
+},
+{
+"word": "El",
+"start": 43.38,
+"end": 43.62,
+"beat": "paso3"
+},
+{
+"word": "azul",
+"start": 43.62,
+"end": 43.82,
+"beat": "paso3"
+},
+{
+"word": "rebota",
+"start": 43.82,
+"end": 44.14,
+"beat": "paso3"
+},
+{
+"word": "casi",
+"start": 44.14,
+"end": 44.38,
+"beat": "paso3"
+},
+{
+"word": "seis",
+"start": 44.38,
+"end": 44.7,
+"beat": "paso3"
+},
+{
+"word": "veces",
+"start": 44.7,
+"end": 44.9,
+"beat": "paso3"
+},
+{
+"word": "más",
+"start": 44.9,
+"end": 45.16,
+"beat": "paso3"
+},
+{
+"word": "que",
+"start": 45.16,
+"end": 45.3,
+"beat": "paso3"
+},
+{
+"word": "el",
+"start": 45.3,
+"end": 45.38,
+"beat": "paso3"
+},
+{
+"word": "rojo.",
+"start": 45.38,
+"end": 45.64,
+"beat": "paso3"
+},
+{
+"word": "El",
+"start": 46.24,
+"end": 46.46,
+"beat": "paso4"
+},
+{
+"word": "rojo",
+"start": 46.46,
+"end": 46.68,
+"beat": "paso4"
+},
+{
+"word": "sigue",
+"start": 46.68,
+"end": 46.94,
+"beat": "paso4"
+},
+{
+"word": "casi",
+"start": 46.94,
+"end": 47.18,
+"beat": "paso4"
+},
+{
+"word": "recto.",
+"start": 47.18,
+"end": 47.6,
+"beat": "paso4"
+},
+{
+"word": "El",
+"start": 48.46,
+"end": 48.7,
+"beat": "paso4"
+},
+{
+"word": "azul",
+"start": 48.7,
+"end": 48.9,
+"beat": "paso4"
+},
+{
+"word": "va",
+"start": 48.9,
+"end": 49.04,
+"beat": "paso4"
+},
+{
+"word": "rebotando",
+"start": 49.04,
+"end": 49.42,
+"beat": "paso4"
+},
+{
+"word": "de",
+"start": 49.42,
+"end": 49.6,
+"beat": "paso4"
+},
+{
+"word": "molécula",
+"start": 49.6,
+"end": 50.02,
+"beat": "paso4"
+},
+{
+"word": "en",
+"start": 50.02,
+"end": 50.12,
+"beat": "paso4"
+},
+{
+"word": "molécula",
+"start": 50.12,
+"end": 50.58,
+"beat": "paso4"
+},
+{
+"word": "por",
+"start": 50.58,
+"end": 50.76,
+"beat": "paso4"
+},
+{
+"word": "todo",
+"start": 50.76,
+"end": 50.92,
+"beat": "paso4"
+},
+{
+"word": "el",
+"start": 50.92,
+"end": 51.08,
+"beat": "paso4"
+},
+{
+"word": "cielo.",
+"start": 51.08,
+"end": 51.28,
+"beat": "paso4"
+},
+{
+"word": "Así",
+"start": 51.94,
+"end": 52.46,
+"beat": "paso4"
+},
+{
+"word": "que",
+"start": 52.46,
+"end": 52.64,
+"beat": "paso4"
+},
+{
+"word": "mires",
+"start": 52.64,
+"end": 52.86,
+"beat": "paso4"
+},
+{
+"word": "donde",
+"start": 52.86,
+"end": 52.98,
+"beat": "paso4"
+},
+{
+"word": "mires,",
+"start": 52.98,
+"end": 53.4,
+"beat": "paso4"
+},
+{
+"word": "te",
+"start": 53.58,
+"end": 53.7,
+"beat": "paso4"
+},
+{
+"word": "llega",
+"start": 53.7,
+"end": 53.86,
+"beat": "paso4"
+},
+{
+"word": "azul",
+"start": 53.86,
+"end": 54.12,
+"beat": "paso4"
+},
+{
+"word": "desde",
+"start": 54.12,
+"end": 54.28,
+"beat": "paso4"
+},
+{
+"word": "todas",
+"start": 54.28,
+"end": 54.5,
+"beat": "paso4"
+},
+{
+"word": "partes.",
+"start": 54.5,
+"end": 54.9,
+"beat": "paso4"
+},
+{
+"word": "¿Y",
+"start": 55.46,
+"end": 55.78,
+"beat": "paso5"
+},
+{
+"word": "el",
+"start": 55.78,
+"end": 55.88,
+"beat": "paso5"
+},
+{
+"word": "violeta,",
+"start": 55.88,
+"end": 56.24,
+"beat": "paso5"
+},
+{
+"word": "que",
+"start": 56.52,
+"end": 56.58,
+"beat": "paso5"
+},
+{
+"word": "rebota",
+"start": 56.58,
+"end": 56.84,
+"beat": "paso5"
+},
+{
+"word": "todavía",
+"start": 56.84,
+"end": 57.12,
+"beat": "paso5"
+},
+{
+"word": "más?",
+"start": 57.12,
+"end": 57.42,
+"beat": "paso5"
+},
+{
+"word": "El",
+"start": 58.44,
+"end": 58.62,
+"beat": "paso5"
+},
+{
+"word": "sol",
+"start": 58.62,
+"end": 58.78,
+"beat": "paso5"
+},
+{
+"word": "manda",
+"start": 58.78,
+"end": 59.06,
+"beat": "paso5"
+},
+{
+"word": "menos",
+"start": 59.06,
+"end": 59.22,
+"beat": "paso5"
+},
+{
+"word": "violeta,",
+"start": 59.22,
+"end": 59.62,
+"beat": "paso5"
+},
+{
+"word": "y",
+"start": 59.86,
+"end": 59.96,
+"beat": "paso5"
+},
+{
+"word": "tus",
+"start": 59.96,
+"end": 60.12,
+"beat": "paso5"
+},
+{
+"word": "ojos",
+"start": 60.12,
+"end": 60.32,
+"beat": "paso5"
+},
+{
+"word": "lo",
+"start": 60.32,
+"end": 60.52,
+"beat": "paso5"
+},
+{
+"word": "captan",
+"start": 60.52,
+"end": 60.8,
+"beat": "paso5"
+},
+{
+"word": "peor.",
+"start": 60.8,
+"end": 61.06,
+"beat": "paso5"
+},
+{
+"word": "Tu",
+"start": 61.96,
+"end": 62.16,
+"beat": "paso5"
+},
+{
+"word": "cerebro",
+"start": 62.16,
+"end": 62.46,
+"beat": "paso5"
+},
+{
+"word": "lo",
+"start": 62.46,
+"end": 62.6,
+"beat": "paso5"
+},
+{
+"word": "mezcla",
+"start": 62.6,
+"end": 62.84,
+"beat": "paso5"
+},
+{
+"word": "todo",
+"start": 62.84,
+"end": 63.04,
+"beat": "paso5"
+},
+{
+"word": "y",
+"start": 63.04,
+"end": 63.2,
+"beat": "paso5"
+},
+{
+"word": "dice:",
+"start": 63.2,
+"end": 63.42,
+"beat": "paso5"
+},
+{
+"word": "azul.",
+"start": 63.62,
+"end": 63.84,
+"beat": "paso5"
+},
+{
+"word": "Sol,",
+"start": 64.52,
+"end": 64.82,
+"beat": "junto"
+},
+{
+"word": "colores,",
+"start": 65.12,
+"end": 65.42,
+"beat": "junto"
+},
+{
+"word": "aire,",
+"start": 65.78,
+"end": 65.96,
+"beat": "junto"
+},
+{
+"word": "rebote,",
+"start": 66.36,
+"end": 66.74,
+"beat": "junto"
+},
+{
+"word": "azul,",
+"start": 67.0,
+"end": 67.24,
+"beat": "junto"
+},
+{
+"word": "tus",
+"start": 67.62,
+"end": 67.72,
+"beat": "junto"
+},
+{
+"word": "ojos.",
+"start": 67.72,
+"end": 68.02,
+"beat": "junto"
+},
+{
+"word": "Y",
+"start": 68.54,
+"end": 68.72,
+"beat": "acelera"
+},
+{
+"word": "ahora,",
+"start": 68.72,
+"end": 68.94,
+"beat": "acelera"
+},
+{
+"word": "a",
+"start": 69.28,
+"end": 69.38,
+"beat": "acelera"
+},
+{
+"word": "velocidad",
+"start": 69.38,
+"end": 69.66,
+"beat": "acelera"
+},
+{
+"word": "real.",
+"start": 69.66,
+"end": 70.04,
+"beat": "acelera"
+},
+{
+"word": "Y",
+"start": 73.82,
+"end": 74.26,
+"beat": "remate"
+},
+{
+"word": "ojo:",
+"start": 74.26,
+"end": 74.52,
+"beat": "remate"
+},
+{
+"word": "al",
+"start": 74.76,
+"end": 74.86,
+"beat": "remate"
+},
+{
+"word": "atardecer,",
+"start": 74.86,
+"end": 75.34,
+"beat": "remate"
+},
+{
+"word": "la",
+"start": 75.58,
+"end": 75.68,
+"beat": "remate"
+},
+{
+"word": "luz",
+"start": 75.68,
+"end": 75.82,
+"beat": "remate"
+},
+{
+"word": "cruza",
+"start": 75.82,
+"end": 76.12,
+"beat": "remate"
+},
+{
+"word": "mucho",
+"start": 76.12,
+"end": 76.34,
+"beat": "remate"
+},
+{
+"word": "más",
+"start": 76.34,
+"end": 76.54,
+"beat": "remate"
+},
+{
+"word": "aire.",
+"start": 76.54,
+"end": 76.8,
+"beat": "remate"
+},
+{
+"word": "El",
+"start": 77.72,
+"end": 77.94,
+"beat": "remate"
+},
+{
+"word": "azul",
+"start": 77.94,
+"end": 78.14,
+"beat": "remate"
+},
+{
+"word": "se",
+"start": 78.14,
+"end": 78.32,
+"beat": "remate"
+},
+{
+"word": "pierde",
+"start": 78.32,
+"end": 78.58,
+"beat": "remate"
+},
+{
+"word": "por",
+"start": 78.58,
+"end": 78.72,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 78.72,
+"end": 78.82,
+"beat": "remate"
+},
+{
+"word": "puto",
+"start": 78.82,
+"end": 79.08,
+"beat": "remate"
+},
+{
+"word": "camino,",
+"start": 79.08,
+"end": 79.32,
+"beat": "remate"
+},
+{
+"word": "y",
+"start": 79.62,
+"end": 79.76,
+"beat": "remate"
+},
+{
+"word": "solo",
+"start": 79.76,
+"end": 79.88,
+"beat": "remate"
+},
+{
+"word": "llega",
+"start": 79.88,
+"end": 80.1,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 80.1,
+"end": 80.24,
+"beat": "remate"
+},
+{
+"word": "rojo.",
+"start": 80.24,
+"end": 80.54,
+"beat": "remate"
+},
+{
+"word": "Así",
+"start": 81.38,
+"end": 81.68,
+"beat": "remate"
+},
+{
+"word": "que",
+"start": 81.68,
+"end": 81.84,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 81.84,
+"end": 81.96,
+"beat": "remate"
+},
+{
+"word": "cielo…",
+"start": 81.96,
+"end": 82.12,
+"beat": "remate"
+}
+]

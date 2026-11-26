@@ -1,0 +1,152 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "nota",
+ "whisper_prompt": "altavoz, bobina, imán, cono, tímpano, micrófono",
+ "hud": {
+  "max_log": 3,
+  "step": 1,
+  "base": 440,
+  "unit": [
+   "VIBRACIONES",
+   "POR SEG."
+  ]
+ },
+ "music": {
+  "bpm": 124,
+  "roots": [
+   48,
+   55,
+   57,
+   53
+  ],
+  "minor": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "cuatrocientas",
+    "cuarenta"
+   ],
+   "440"
+  ],
+  [
+   [
+    "veinte",
+    "mil"
+   ],
+   "20.000"
+  ]
+ ],
+ "keywords": [
+  "altavoz",
+  "música",
+  "440",
+  "cerebro",
+  "cuerdas",
+  "teclas",
+  "boquilla",
+  "guitarra",
+  "piano",
+  "lento",
+  "corriente",
+  "sentido",
+  "canción",
+  "bobina",
+  "cono",
+  "imán",
+  "imanes",
+  "empujan",
+  "atraen",
+  "tira",
+  "aire",
+  "aprieta",
+  "estira",
+  "ondas",
+  "oído",
+  "tímpano",
+  "agudo",
+  "fuerte",
+  "graves",
+  "enormes",
+  "despacio",
+  "grande",
+  "real",
+  "revés",
+  "micrófono",
+  "nota",
+  "corriente,",
+  "cable"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO SUENA",
+    "UN ALTAVOZ?"
+   ],
+   "LA NOTA LA: 440 VECES POR SEGUNDO"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ LE LLEGA?"
+   ],
+   "UNA CORRIENTE QUE VA Y VIENE"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿QUÉ LA MUEVE?"
+   ],
+   "UNA BOBINA Y UN IMÁN"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿QUÉ EMPUJA?"
+   ],
+   "EL CONO, AL AIRE"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿CÓMO TE LLEGA?"
+   ],
+   "ONDAS DE PRESIÓN"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y LOS GRAVES?"
+   ],
+   "CONOS GRANDES"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL CABLE A TU OÍDO"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "440 VECES POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "AL REVÉS ES UN MICRÓFONO"
+  ]
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "pantalla, rejilla, cristal, guantes, chip",
+ "hud": {
+  "max_log": 2,
+  "step": 1,
+  "base": 120,
+  "unit": [
+   "LECTURAS",
+   "POR SEG."
+  ]
+ },
+ "music": {
+  "bpm": 112,
+  "roots": [
+   57,
+   53,
+   60,
+   55
+  ],
+  "minor": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "ciento",
+    "veinte"
+   ],
+   "120"
+  ]
+ ],
+ "keywords": [
+  "pantalla",
+  "dedo",
+  "electricidad",
+  "120",
+  "botones",
+  "hunde",
+  "aprietes",
+  "exactamente",
+  "lento",
+  "cristal",
+  "rejilla",
+  "transparentes",
+  "filas",
+  "columnas",
+  "invisibles",
+  "carga",
+  "cruces",
+  "cargita",
+  "agua",
+  "sal",
+  "conduce",
+  "roba",
+  "chip",
+  "falta",
+  "dedos",
+  "guantes",
+  "lana",
+  "metal",
+  "hilo",
+  "real",
+  "gotas",
+  "loca",
+  "sola",
+  "posición",
+  "robo",
+  "cuenta.",
+  "cientos"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO SABE DÓNDE",
+    "LA TOCAS?"
+   ],
+   "120 LECTURAS POR SEGUNDO"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ HAY DEBAJO?"
+   ],
+   "UNA REJILLA INVISIBLE"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿PARA QUÉ SIRVE?"
+   ],
+   "CADA CRUCE GUARDA CARGA"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿QUÉ HACE TU DEDO?"
+   ],
+   "TE LLEVAS CARGA"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿CÓMO SABE DÓNDE?"
+   ],
+   "UN CHIP LO REVISA TODO"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y CON GUANTES?"
+   ],
+   "LA LANA NO CONDUCE"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL DEDO A LA POSICIÓN"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "120 VECES POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "EL AGUA TAMBIÉN CONDUCE"
+  ]
+ }
+}

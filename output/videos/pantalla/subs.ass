@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu puta {\c&H4CC9F2&}pantalla{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.85,0:00:02.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no siente tu {\c&H4CC9F2&}dedo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.39,0:00:03.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Nota que le robas
+Dialogue: 0,0:00:03.33,0:00:03.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}electricidad…{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.93,0:00:05.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y lo comprueba {\c&H4CC9F2&}120{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.17,0:00:06.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.63,0:00:08.06,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}botones.{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.09,0:00:09.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No se {\c&H4CC9F2&}hunde.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.63,0:00:11.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No necesita que {\c&H4CC9F2&}aprietes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.67,0:00:12.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así sabe
+Dialogue: 0,0:00:12.81,0:00:13.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}exactamente{\c&HFFFFFF&} dónde está
+Dialogue: 0,0:00:13.91,0:00:14.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu {\c&H4CC9F2&}dedo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.51,0:00:15.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo cien
+Dialogue: 0,0:00:15.81,0:00:17.28,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.39,0:00:18.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Debajo del {\c&H4CC9F2&}cristal{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.49,0:00:19.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hay una {\c&H4CC9F2&}rejilla{\c&HFFFFFF&} de
+Dialogue: 0,0:00:19.21,0:00:20.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cables {\c&H4CC9F2&}transparentes:{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.13,0:00:21.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos en {\c&H4CC9F2&}filas,{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.01,0:00:22.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}otros en {\c&H4CC9F2&}columnas.{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.61,0:00:23.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Son tan finos que
+Dialogue: 0,0:00:23.77,0:00:24.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no los ves,
+Dialogue: 0,0:00:24.19,0:00:25.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pero cubren toda
+Dialogue: 0,0:00:25.09,0:00:25.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}pantalla.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.61,0:00:27.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Donde una fila se
+Dialogue: 0,0:00:27.15,0:00:28.07,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cruza con una {\c&H4CC9F2&}columna,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.07,0:00:28.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se forma un {\c&H4CC9F2&}pequeño{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.99,0:00:29.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}almacén de {\c&H4CC9F2&}carga{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.69,0:00:30.84,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}eléctrica.{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.03,0:00:32.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cientos de {\c&H4CC9F2&}cruces,{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.01,0:00:32.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cada uno con su
+Dialogue: 0,0:00:32.89,0:00:33.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cargita.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.25,0:00:34.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu cuerpo está lleno
+Dialogue: 0,0:00:34.73,0:00:35.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de agua con {\c&H4CC9F2&}sal,{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.43,0:00:36.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}así que {\c&H4CC9F2&}conduce{\c&HFFFFFF&} la
+Dialogue: 0,0:00:36.45,0:00:37.62,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}electricidad.{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.63,0:00:38.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cuando {\c&H4CC9F2&}acercas{\c&HFFFFFF&} el
+Dialogue: 0,0:00:38.63,0:00:38.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}dedo,{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.95,0:00:39.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}te llevas un poco
+Dialogue: 0,0:00:39.73,0:00:40.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de la {\c&H4CC9F2&}carga{\c&HFFFFFF&} de
+Dialogue: 0,0:00:40.33,0:00:41.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los {\c&H4CC9F2&}cruces{\c&HFFFFFF&} que tienes
+Dialogue: 0,0:00:41.17,0:00:41.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}debajo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.53,0:00:43.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Un {\c&H4CC9F2&}chip{\c&HFFFFFF&} revisa todos
+Dialogue: 0,0:00:43.11,0:00:43.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los {\c&H4CC9F2&}cruces,{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.69,0:00:45.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una y otra vez.
+Dialogue: 0,0:00:45.19,0:00:46.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}En muchos {\c&H4CC9F2&}móviles,{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.27,0:00:48.54,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}120{\c&HFFFFFF&} veces por segundo.
+Dialogue: 0,0:00:48.63,0:00:49.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Donde falta {\c&H4CC9F2&}carga,{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.73,0:00:51.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ahí está tu {\c&H4CC9F2&}dedo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.03,0:00:52.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y con varios {\c&H4CC9F2&}dedos,{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.57,0:00:53.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ve varios huecos
+Dialogue: 0,0:00:53.47,0:00:53.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a la vez.
+Dialogue: 0,0:00:53.93,0:00:54.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}¿Y por qué no
+Dialogue: 0,0:00:54.95,0:00:56.36,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}funciona con {\c&H4CC9F2&}guantes?{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.43,0:00:57.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque la {\c&H4CC9F2&}lana{\c&HFFFFFF&} no
+Dialogue: 0,0:00:57.45,0:00:57.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}conduce:{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.85,0:00:59.42,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no se lleva nada.
+Dialogue: 0,0:00:59.45,0:01:00.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Los {\c&H4CC9F2&}guantes{\c&HFFFFFF&} táctiles
+Dialogue: 0,0:01:00.61,0:01:01.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}llevan hilo con {\c&H4CC9F2&}metal{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.51,0:01:02.88,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en las {\c&H4CC9F2&}puntas.{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.93,0:01:03.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Rejilla,{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.45,0:01:03.97,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}carga,{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.97,0:01:04.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}dedo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.69,0:01:05.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}robo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.21,0:01:05.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}chip,{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.63,0:01:06.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}posición.{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.17,0:01:07.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:07.13,0:01:08.90,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.93,0:01:12.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:12.81,0:01:14.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el agua también {\c&H4CC9F2&}conduce.{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.61,0:01:15.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Por eso,
+Dialogue: 0,0:01:15.33,0:01:16.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}con {\c&H4CC9F2&}gotas{\c&HFFFFFF&} en la
+Dialogue: 0,0:01:16.21,0:01:16.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}pantalla,{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.51,0:01:17.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se vuelve {\c&H4CC9F2&}loca{\c&HFFFFFF&} y
+Dialogue: 0,0:01:17.57,0:01:18.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}toca cosas por su
+Dialogue: 0,0:01:18.43,0:01:19.50,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}puta {\c&H4CC9F2&}cuenta.{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.57,0:01:20.90,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque tu {\c&H4CC9F2&}pantalla…{\c&HFFFFFF&}

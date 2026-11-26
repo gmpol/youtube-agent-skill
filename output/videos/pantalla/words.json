@@ -1,0 +1,1352 @@
+[
+{
+"word": "Tu",
+"start": 0.0,
+"end": 0.32,
+"beat": "gancho"
+},
+{
+"word": "puta",
+"start": 0.32,
+"end": 0.52,
+"beat": "gancho"
+},
+{
+"word": "pantalla",
+"start": 0.52,
+"end": 0.9,
+"beat": "gancho"
+},
+{
+"word": "no",
+"start": 0.9,
+"end": 1.08,
+"beat": "gancho"
+},
+{
+"word": "siente",
+"start": 1.08,
+"end": 1.3,
+"beat": "gancho"
+},
+{
+"word": "tu",
+"start": 1.3,
+"end": 1.46,
+"beat": "gancho"
+},
+{
+"word": "dedo.",
+"start": 1.46,
+"end": 2.04,
+"beat": "gancho"
+},
+{
+"word": "Nota",
+"start": 2.44,
+"end": 2.86,
+"beat": "gancho"
+},
+{
+"word": "que",
+"start": 2.86,
+"end": 3.02,
+"beat": "gancho"
+},
+{
+"word": "le",
+"start": 3.02,
+"end": 3.12,
+"beat": "gancho"
+},
+{
+"word": "robas",
+"start": 3.12,
+"end": 3.38,
+"beat": "gancho"
+},
+{
+"word": "electricidad…",
+"start": 3.38,
+"end": 3.98,
+"beat": "gancho"
+},
+{
+"word": "y",
+"start": 3.98,
+"end": 4.32,
+"beat": "gancho"
+},
+{
+"word": "lo",
+"start": 4.32,
+"end": 4.42,
+"beat": "gancho"
+},
+{
+"word": "comprueba",
+"start": 4.42,
+"end": 4.78,
+"beat": "gancho"
+},
+{
+"word": "ciento",
+"start": 4.78,
+"end": 5.0,
+"beat": "gancho"
+},
+{
+"word": "veinte",
+"start": 5.0,
+"end": 5.22,
+"beat": "gancho"
+},
+{
+"word": "veces",
+"start": 5.22,
+"end": 5.5,
+"beat": "gancho"
+},
+{
+"word": "por",
+"start": 5.5,
+"end": 5.78,
+"beat": "gancho"
+},
+{
+"word": "segundo.",
+"start": 5.78,
+"end": 6.12,
+"beat": "gancho"
+},
+{
+"word": "No",
+"start": 6.68,
+"end": 6.9,
+"beat": "imposible"
+},
+{
+"word": "tiene",
+"start": 6.9,
+"end": 7.08,
+"beat": "imposible"
+},
+{
+"word": "botones.",
+"start": 7.08,
+"end": 7.46,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 8.14,
+"end": 8.7,
+"beat": "imposible"
+},
+{
+"word": "se",
+"start": 8.7,
+"end": 8.88,
+"beat": "imposible"
+},
+{
+"word": "hunde.",
+"start": 8.88,
+"end": 9.08,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 9.68,
+"end": 10.24,
+"beat": "imposible"
+},
+{
+"word": "necesita",
+"start": 10.24,
+"end": 10.52,
+"beat": "imposible"
+},
+{
+"word": "que",
+"start": 10.52,
+"end": 10.74,
+"beat": "imposible"
+},
+{
+"word": "aprietes.",
+"start": 10.74,
+"end": 11.2,
+"beat": "imposible"
+},
+{
+"word": "Y",
+"start": 11.72,
+"end": 12.24,
+"beat": "imposible"
+},
+{
+"word": "aun",
+"start": 12.24,
+"end": 12.36,
+"beat": "imposible"
+},
+{
+"word": "así",
+"start": 12.36,
+"end": 12.62,
+"beat": "imposible"
+},
+{
+"word": "sabe",
+"start": 12.62,
+"end": 12.86,
+"beat": "imposible"
+},
+{
+"word": "exactamente",
+"start": 12.86,
+"end": 13.36,
+"beat": "imposible"
+},
+{
+"word": "dónde",
+"start": 13.36,
+"end": 13.7,
+"beat": "imposible"
+},
+{
+"word": "está",
+"start": 13.7,
+"end": 13.96,
+"beat": "imposible"
+},
+{
+"word": "tu",
+"start": 13.96,
+"end": 14.12,
+"beat": "imposible"
+},
+{
+"word": "dedo.",
+"start": 14.12,
+"end": 14.56,
+"beat": "imposible"
+},
+{
+"word": "Vamos",
+"start": 14.56,
+"end": 15.3,
+"beat": "freno"
+},
+{
+"word": "a",
+"start": 15.3,
+"end": 15.48,
+"beat": "freno"
+},
+{
+"word": "verlo",
+"start": 15.48,
+"end": 15.72,
+"beat": "freno"
+},
+{
+"word": "cien",
+"start": 15.72,
+"end": 15.86,
+"beat": "freno"
+},
+{
+"word": "veces",
+"start": 15.86,
+"end": 16.16,
+"beat": "freno"
+},
+{
+"word": "más",
+"start": 16.16,
+"end": 16.38,
+"beat": "freno"
+},
+{
+"word": "lento.",
+"start": 16.38,
+"end": 16.68,
+"beat": "freno"
+},
+{
+"word": "Debajo",
+"start": 17.44,
+"end": 18.0,
+"beat": "paso1"
+},
+{
+"word": "del",
+"start": 18.0,
+"end": 18.18,
+"beat": "paso1"
+},
+{
+"word": "cristal",
+"start": 18.18,
+"end": 18.54,
+"beat": "paso1"
+},
+{
+"word": "hay",
+"start": 18.54,
+"end": 18.68,
+"beat": "paso1"
+},
+{
+"word": "una",
+"start": 18.68,
+"end": 18.8,
+"beat": "paso1"
+},
+{
+"word": "rejilla",
+"start": 18.8,
+"end": 19.12,
+"beat": "paso1"
+},
+{
+"word": "de",
+"start": 19.12,
+"end": 19.26,
+"beat": "paso1"
+},
+{
+"word": "cables",
+"start": 19.26,
+"end": 19.44,
+"beat": "paso1"
+},
+{
+"word": "transparentes:",
+"start": 19.44,
+"end": 20.18,
+"beat": "paso1"
+},
+{
+"word": "unos",
+"start": 20.18,
+"end": 20.52,
+"beat": "paso1"
+},
+{
+"word": "en",
+"start": 20.52,
+"end": 20.72,
+"beat": "paso1"
+},
+{
+"word": "filas,",
+"start": 20.72,
+"end": 21.06,
+"beat": "paso1"
+},
+{
+"word": "otros",
+"start": 21.06,
+"end": 21.42,
+"beat": "paso1"
+},
+{
+"word": "en",
+"start": 21.42,
+"end": 21.62,
+"beat": "paso1"
+},
+{
+"word": "columnas.",
+"start": 21.62,
+"end": 22.08,
+"beat": "paso1"
+},
+{
+"word": "Son",
+"start": 22.66,
+"end": 23.22,
+"beat": "paso1"
+},
+{
+"word": "tan",
+"start": 23.22,
+"end": 23.38,
+"beat": "paso1"
+},
+{
+"word": "finos",
+"start": 23.38,
+"end": 23.7,
+"beat": "paso1"
+},
+{
+"word": "que",
+"start": 23.7,
+"end": 23.82,
+"beat": "paso1"
+},
+{
+"word": "no",
+"start": 23.82,
+"end": 23.94,
+"beat": "paso1"
+},
+{
+"word": "los",
+"start": 23.94,
+"end": 24.08,
+"beat": "paso1"
+},
+{
+"word": "ves,",
+"start": 24.08,
+"end": 24.24,
+"beat": "paso1"
+},
+{
+"word": "pero",
+"start": 24.24,
+"end": 24.7,
+"beat": "paso1"
+},
+{
+"word": "cubren",
+"start": 24.7,
+"end": 24.98,
+"beat": "paso1"
+},
+{
+"word": "toda",
+"start": 24.98,
+"end": 25.14,
+"beat": "paso1"
+},
+{
+"word": "la",
+"start": 25.14,
+"end": 25.3,
+"beat": "paso1"
+},
+{
+"word": "pantalla.",
+"start": 25.3,
+"end": 25.66,
+"beat": "paso1"
+},
+{
+"word": "Donde",
+"start": 25.66,
+"end": 26.54,
+"beat": "paso2"
+},
+{
+"word": "una",
+"start": 26.54,
+"end": 26.76,
+"beat": "paso2"
+},
+{
+"word": "fila",
+"start": 26.76,
+"end": 27.06,
+"beat": "paso2"
+},
+{
+"word": "se",
+"start": 27.06,
+"end": 27.2,
+"beat": "paso2"
+},
+{
+"word": "cruza",
+"start": 27.2,
+"end": 27.46,
+"beat": "paso2"
+},
+{
+"word": "con",
+"start": 27.46,
+"end": 27.62,
+"beat": "paso2"
+},
+{
+"word": "una",
+"start": 27.62,
+"end": 27.74,
+"beat": "paso2"
+},
+{
+"word": "columna,",
+"start": 27.74,
+"end": 28.12,
+"beat": "paso2"
+},
+{
+"word": "se",
+"start": 28.12,
+"end": 28.48,
+"beat": "paso2"
+},
+{
+"word": "forma",
+"start": 28.48,
+"end": 28.68,
+"beat": "paso2"
+},
+{
+"word": "un",
+"start": 28.68,
+"end": 28.84,
+"beat": "paso2"
+},
+{
+"word": "pequeño",
+"start": 28.84,
+"end": 29.04,
+"beat": "paso2"
+},
+{
+"word": "almacén",
+"start": 29.04,
+"end": 29.44,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 29.44,
+"end": 29.56,
+"beat": "paso2"
+},
+{
+"word": "carga",
+"start": 29.56,
+"end": 29.74,
+"beat": "paso2"
+},
+{
+"word": "eléctrica.",
+"start": 29.74,
+"end": 30.24,
+"beat": "paso2"
+},
+{
+"word": "Cientos",
+"start": 31.08,
+"end": 31.56,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 31.56,
+"end": 31.72,
+"beat": "paso2"
+},
+{
+"word": "cruces,",
+"start": 31.72,
+"end": 32.06,
+"beat": "paso2"
+},
+{
+"word": "cada",
+"start": 32.06,
+"end": 32.46,
+"beat": "paso2"
+},
+{
+"word": "uno",
+"start": 32.46,
+"end": 32.64,
+"beat": "paso2"
+},
+{
+"word": "con",
+"start": 32.64,
+"end": 32.82,
+"beat": "paso2"
+},
+{
+"word": "su",
+"start": 32.82,
+"end": 32.94,
+"beat": "paso2"
+},
+{
+"word": "cargita.",
+"start": 32.94,
+"end": 33.3,
+"beat": "paso2"
+},
+{
+"word": "Tu",
+"start": 33.3,
+"end": 34.1,
+"beat": "paso3"
+},
+{
+"word": "cuerpo",
+"start": 34.1,
+"end": 34.3,
+"beat": "paso3"
+},
+{
+"word": "está",
+"start": 34.3,
+"end": 34.56,
+"beat": "paso3"
+},
+{
+"word": "lleno",
+"start": 34.56,
+"end": 34.78,
+"beat": "paso3"
+},
+{
+"word": "de",
+"start": 34.78,
+"end": 34.9,
+"beat": "paso3"
+},
+{
+"word": "agua",
+"start": 34.9,
+"end": 35.06,
+"beat": "paso3"
+},
+{
+"word": "con",
+"start": 35.06,
+"end": 35.28,
+"beat": "paso3"
+},
+{
+"word": "sal,",
+"start": 35.28,
+"end": 35.48,
+"beat": "paso3"
+},
+{
+"word": "así",
+"start": 35.48,
+"end": 35.92,
+"beat": "paso3"
+},
+{
+"word": "que",
+"start": 35.92,
+"end": 36.04,
+"beat": "paso3"
+},
+{
+"word": "conduce",
+"start": 36.04,
+"end": 36.4,
+"beat": "paso3"
+},
+{
+"word": "la",
+"start": 36.4,
+"end": 36.5,
+"beat": "paso3"
+},
+{
+"word": "electricidad.",
+"start": 36.5,
+"end": 37.02,
+"beat": "paso3"
+},
+{
+"word": "Cuando",
+"start": 37.68,
+"end": 38.16,
+"beat": "paso3"
+},
+{
+"word": "acercas",
+"start": 38.16,
+"end": 38.56,
+"beat": "paso3"
+},
+{
+"word": "el",
+"start": 38.56,
+"end": 38.68,
+"beat": "paso3"
+},
+{
+"word": "dedo,",
+"start": 38.68,
+"end": 39.0,
+"beat": "paso3"
+},
+{
+"word": "te",
+"start": 39.0,
+"end": 39.28,
+"beat": "paso3"
+},
+{
+"word": "llevas",
+"start": 39.28,
+"end": 39.5,
+"beat": "paso3"
+},
+{
+"word": "un",
+"start": 39.5,
+"end": 39.64,
+"beat": "paso3"
+},
+{
+"word": "poco",
+"start": 39.64,
+"end": 39.78,
+"beat": "paso3"
+},
+{
+"word": "de",
+"start": 39.78,
+"end": 39.96,
+"beat": "paso3"
+},
+{
+"word": "la",
+"start": 39.96,
+"end": 40.06,
+"beat": "paso3"
+},
+{
+"word": "carga",
+"start": 40.06,
+"end": 40.22,
+"beat": "paso3"
+},
+{
+"word": "de",
+"start": 40.22,
+"end": 40.38,
+"beat": "paso3"
+},
+{
+"word": "los",
+"start": 40.38,
+"end": 40.5,
+"beat": "paso3"
+},
+{
+"word": "cruces",
+"start": 40.5,
+"end": 40.8,
+"beat": "paso3"
+},
+{
+"word": "que",
+"start": 40.8,
+"end": 40.98,
+"beat": "paso3"
+},
+{
+"word": "tienes",
+"start": 40.98,
+"end": 41.22,
+"beat": "paso3"
+},
+{
+"word": "debajo.",
+"start": 41.22,
+"end": 41.58,
+"beat": "paso3"
+},
+{
+"word": "Un",
+"start": 41.58,
+"end": 42.42,
+"beat": "paso4"
+},
+{
+"word": "chip",
+"start": 42.42,
+"end": 42.6,
+"beat": "paso4"
+},
+{
+"word": "revisa",
+"start": 42.6,
+"end": 42.96,
+"beat": "paso4"
+},
+{
+"word": "todos",
+"start": 42.96,
+"end": 43.16,
+"beat": "paso4"
+},
+{
+"word": "los",
+"start": 43.16,
+"end": 43.38,
+"beat": "paso4"
+},
+{
+"word": "cruces,",
+"start": 43.38,
+"end": 43.74,
+"beat": "paso4"
+},
+{
+"word": "una",
+"start": 43.74,
+"end": 44.12,
+"beat": "paso4"
+},
+{
+"word": "y",
+"start": 44.12,
+"end": 44.26,
+"beat": "paso4"
+},
+{
+"word": "otra",
+"start": 44.26,
+"end": 44.36,
+"beat": "paso4"
+},
+{
+"word": "vez.",
+"start": 44.36,
+"end": 44.66,
+"beat": "paso4"
+},
+{
+"word": "En",
+"start": 45.24,
+"end": 45.72,
+"beat": "paso4"
+},
+{
+"word": "muchos",
+"start": 45.72,
+"end": 45.92,
+"beat": "paso4"
+},
+{
+"word": "móviles,",
+"start": 45.92,
+"end": 46.32,
+"beat": "paso4"
+},
+{
+"word": "ciento",
+"start": 46.32,
+"end": 46.62,
+"beat": "paso4"
+},
+{
+"word": "veinte",
+"start": 46.62,
+"end": 46.92,
+"beat": "paso4"
+},
+{
+"word": "veces",
+"start": 46.92,
+"end": 47.34,
+"beat": "paso4"
+},
+{
+"word": "por",
+"start": 47.34,
+"end": 47.58,
+"beat": "paso4"
+},
+{
+"word": "segundo.",
+"start": 47.58,
+"end": 47.94,
+"beat": "paso4"
+},
+{
+"word": "Donde",
+"start": 48.68,
+"end": 49.16,
+"beat": "paso4"
+},
+{
+"word": "falta",
+"start": 49.16,
+"end": 49.4,
+"beat": "paso4"
+},
+{
+"word": "carga,",
+"start": 49.4,
+"end": 49.78,
+"beat": "paso4"
+},
+{
+"word": "ahí",
+"start": 49.78,
+"end": 50.22,
+"beat": "paso4"
+},
+{
+"word": "está",
+"start": 50.22,
+"end": 50.42,
+"beat": "paso4"
+},
+{
+"word": "tu",
+"start": 50.42,
+"end": 50.58,
+"beat": "paso4"
+},
+{
+"word": "dedo.",
+"start": 50.58,
+"end": 51.08,
+"beat": "paso4"
+},
+{
+"word": "Y",
+"start": 51.08,
+"end": 51.86,
+"beat": "paso4"
+},
+{
+"word": "con",
+"start": 51.86,
+"end": 52.02,
+"beat": "paso4"
+},
+{
+"word": "varios",
+"start": 52.02,
+"end": 52.2,
+"beat": "paso4"
+},
+{
+"word": "dedos,",
+"start": 52.2,
+"end": 52.62,
+"beat": "paso4"
+},
+{
+"word": "ve",
+"start": 52.62,
+"end": 53.0,
+"beat": "paso4"
+},
+{
+"word": "varios",
+"start": 53.0,
+"end": 53.26,
+"beat": "paso4"
+},
+{
+"word": "huecos",
+"start": 53.26,
+"end": 53.52,
+"beat": "paso4"
+},
+{
+"word": "a",
+"start": 53.52,
+"end": 53.68,
+"beat": "paso4"
+},
+{
+"word": "la",
+"start": 53.68,
+"end": 53.74,
+"beat": "paso4"
+},
+{
+"word": "vez.",
+"start": 53.74,
+"end": 53.98,
+"beat": "paso4"
+},
+{
+"word": "¿Y",
+"start": 53.98,
+"end": 54.68,
+"beat": "paso5"
+},
+{
+"word": "por",
+"start": 54.68,
+"end": 54.84,
+"beat": "paso5"
+},
+{
+"word": "qué",
+"start": 54.84,
+"end": 54.92,
+"beat": "paso5"
+},
+{
+"word": "no",
+"start": 54.92,
+"end": 55.0,
+"beat": "paso5"
+},
+{
+"word": "funciona",
+"start": 55.0,
+"end": 55.28,
+"beat": "paso5"
+},
+{
+"word": "con",
+"start": 55.28,
+"end": 55.52,
+"beat": "paso5"
+},
+{
+"word": "guantes?",
+"start": 55.52,
+"end": 55.76,
+"beat": "paso5"
+},
+{
+"word": "Porque",
+"start": 56.48,
+"end": 57.0,
+"beat": "paso5"
+},
+{
+"word": "la",
+"start": 57.0,
+"end": 57.2,
+"beat": "paso5"
+},
+{
+"word": "lana",
+"start": 57.2,
+"end": 57.32,
+"beat": "paso5"
+},
+{
+"word": "no",
+"start": 57.32,
+"end": 57.5,
+"beat": "paso5"
+},
+{
+"word": "conduce:",
+"start": 57.5,
+"end": 57.9,
+"beat": "paso5"
+},
+{
+"word": "no",
+"start": 57.9,
+"end": 58.26,
+"beat": "paso5"
+},
+{
+"word": "se",
+"start": 58.26,
+"end": 58.4,
+"beat": "paso5"
+},
+{
+"word": "lleva",
+"start": 58.4,
+"end": 58.56,
+"beat": "paso5"
+},
+{
+"word": "nada.",
+"start": 58.56,
+"end": 58.82,
+"beat": "paso5"
+},
+{
+"word": "Los",
+"start": 59.5,
+"end": 60.02,
+"beat": "paso5"
+},
+{
+"word": "guantes",
+"start": 60.02,
+"end": 60.26,
+"beat": "paso5"
+},
+{
+"word": "táctiles",
+"start": 60.26,
+"end": 60.66,
+"beat": "paso5"
+},
+{
+"word": "llevan",
+"start": 60.66,
+"end": 60.96,
+"beat": "paso5"
+},
+{
+"word": "hilo",
+"start": 60.96,
+"end": 61.12,
+"beat": "paso5"
+},
+{
+"word": "con",
+"start": 61.12,
+"end": 61.34,
+"beat": "paso5"
+},
+{
+"word": "metal",
+"start": 61.34,
+"end": 61.56,
+"beat": "paso5"
+},
+{
+"word": "en",
+"start": 61.56,
+"end": 61.72,
+"beat": "paso5"
+},
+{
+"word": "las",
+"start": 61.72,
+"end": 61.82,
+"beat": "paso5"
+},
+{
+"word": "puntas.",
+"start": 61.82,
+"end": 62.28,
+"beat": "paso5"
+},
+{
+"word": "Rejilla,",
+"start": 62.98,
+"end": 63.5,
+"beat": "junto"
+},
+{
+"word": "carga,",
+"start": 63.5,
+"end": 64.02,
+"beat": "junto"
+},
+{
+"word": "dedo,",
+"start": 64.02,
+"end": 64.74,
+"beat": "junto"
+},
+{
+"word": "robo,",
+"start": 64.74,
+"end": 65.26,
+"beat": "junto"
+},
+{
+"word": "chip,",
+"start": 65.26,
+"end": 65.68,
+"beat": "junto"
+},
+{
+"word": "posición.",
+"start": 65.68,
+"end": 66.22,
+"beat": "junto"
+},
+{
+"word": "Y",
+"start": 66.22,
+"end": 66.94,
+"beat": "acelera"
+},
+{
+"word": "ahora,",
+"start": 66.94,
+"end": 67.18,
+"beat": "acelera"
+},
+{
+"word": "a",
+"start": 67.18,
+"end": 67.6,
+"beat": "acelera"
+},
+{
+"word": "velocidad",
+"start": 67.6,
+"end": 67.88,
+"beat": "acelera"
+},
+{
+"word": "real.",
+"start": 67.88,
+"end": 68.3,
+"beat": "acelera"
+},
+{
+"word": "Y",
+"start": 71.98,
+"end": 72.5,
+"beat": "remate"
+},
+{
+"word": "ojo:",
+"start": 72.5,
+"end": 72.86,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 72.86,
+"end": 73.16,
+"beat": "remate"
+},
+{
+"word": "agua",
+"start": 73.16,
+"end": 73.3,
+"beat": "remate"
+},
+{
+"word": "también",
+"start": 73.3,
+"end": 73.58,
+"beat": "remate"
+},
+{
+"word": "conduce.",
+"start": 73.58,
+"end": 74.1,
+"beat": "remate"
+},
+{
+"word": "Por",
+"start": 74.66,
+"end": 75.18,
+"beat": "remate"
+},
+{
+"word": "eso,",
+"start": 75.18,
+"end": 75.38,
+"beat": "remate"
+},
+{
+"word": "con",
+"start": 75.38,
+"end": 75.82,
+"beat": "remate"
+},
+{
+"word": "gotas",
+"start": 75.82,
+"end": 76.08,
+"beat": "remate"
+},
+{
+"word": "en",
+"start": 76.08,
+"end": 76.18,
+"beat": "remate"
+},
+{
+"word": "la",
+"start": 76.18,
+"end": 76.26,
+"beat": "remate"
+},
+{
+"word": "pantalla,",
+"start": 76.26,
+"end": 76.56,
+"beat": "remate"
+},
+{
+"word": "se",
+"start": 76.56,
+"end": 77.06,
+"beat": "remate"
+},
+{
+"word": "vuelve",
+"start": 77.06,
+"end": 77.3,
+"beat": "remate"
+},
+{
+"word": "loca",
+"start": 77.3,
+"end": 77.5,
+"beat": "remate"
+},
+{
+"word": "y",
+"start": 77.5,
+"end": 77.62,
+"beat": "remate"
+},
+{
+"word": "toca",
+"start": 77.62,
+"end": 77.76,
+"beat": "remate"
+},
+{
+"word": "cosas",
+"start": 77.76,
+"end": 78.08,
+"beat": "remate"
+},
+{
+"word": "por",
+"start": 78.08,
+"end": 78.32,
+"beat": "remate"
+},
+{
+"word": "su",
+"start": 78.32,
+"end": 78.48,
+"beat": "remate"
+},
+{
+"word": "puta",
+"start": 78.48,
+"end": 78.64,
+"beat": "remate"
+},
+{
+"word": "cuenta.",
+"start": 78.64,
+"end": 78.9,
+"beat": "remate"
+},
+{
+"word": "Porque",
+"start": 79.62,
+"end": 80.14,
+"beat": "remate"
+},
+{
+"word": "tu",
+"start": 80.14,
+"end": 80.28,
+"beat": "remate"
+},
+{
+"word": "pantalla…",
+"start": 80.28,
+"end": 80.5,
+"beat": "remate"
+}
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Tu puto altavoz no toca música. Para esta nota, empuja el aire… cuatrocientas cuarenta veces por segundo. Y tu cerebro hace el resto.",
+  "start": 0.25,
+  "end": 8.407
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene cuerdas. No tiene teclas. No tiene boquilla. Y aun así suena como una guitarra, un piano o tu cantante favorito.",
+  "start": 8.907,
+  "end": 17.356
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo mil veces más lento.",
+  "start": 18.056,
+  "end": 19.653
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Al altavoz le llega un cable con electricidad. Pero no es una corriente fija: cambia de sentido, adelante y atrás, con la forma exacta de la canción.",
+  "start": 20.553,
+  "end": 28.516
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Ese cable da vueltas y forma una bobina, pegada a un cono. Y la bobina está metida dentro de un imán. Cuando pasa corriente, la bobina se convierte en otro imán. Y dos imanes… se empujan o se atraen.",
+  "start": 29.116,
+  "end": 41.063
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Como la corriente cambia de sentido, la bobina empuja, tira, empuja, tira. Arrastra al cono, y el cono golpea el aire: lo aprieta y lo estira.",
+  "start": 41.663,
+  "end": 50.3
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Esos apretones viajan por el aire como ondas hasta tu oído, y tu tímpano se mueve igual que el cono. Más rápido, más agudo. Más grande, más fuerte. Tu oído capta desde veinte hasta veinte mil vibraciones por segundo.",
+  "start": 50.9,
+  "end": 63.812
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "¿Y por qué los altavoces de graves son enormes? Porque un sonido grave es lento, y para que se note hay que mover mucho aire de golpe. Eso solo lo hace un cono grande.",
+  "start": 64.412,
+  "end": 73.174
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Corriente, bobina, imán, cono, aire, oído.",
+  "start": 73.774,
+  "end": 77.345
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real.",
+  "start": 77.745,
+  "end": 79.312
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: si le das la vuelta, funciona al revés. Hablas, el aire mueve el cono, la bobina se mueve dentro del imán… y genera corriente. Eso es, literalmente, un micrófono. Así que la próxima vez que suene una nota…",
+  "start": 83.312,
+  "end": 96.935
+ }
+]

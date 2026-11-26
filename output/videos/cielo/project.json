@@ -1,0 +1,139 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "así",
+ "whisper_prompt": "cielo, atmósfera, moléculas, violeta, atardecer",
+ "hud": {
+  "max_log": 6,
+  "step": 3,
+  "base": 300000,
+  "unit": [
+   "LUZ",
+   "KM/S"
+  ]
+ },
+ "music": {
+  "bpm": 100,
+  "roots": [
+   53,
+   60,
+   57,
+   55
+  ],
+  "minor": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "seis"
+   ],
+   "6"
+  ]
+ ],
+ "keywords": [
+  "cielo",
+  "azul",
+  "aire",
+  "6",
+  "roja",
+  "color",
+  "transparente",
+  "pintura",
+  "vaso",
+  "cabeza",
+  "luz",
+  "blanca",
+  "colores",
+  "onda",
+  "larga",
+  "corta",
+  "nerviosa",
+  "atmósfera",
+  "moléculas",
+  "pequeñas",
+  "rebota",
+  "rojo",
+  "recto",
+  "todas",
+  "violeta",
+  "ojos",
+  "cerebro",
+  "real",
+  "atardecer",
+  "camino",
+  "sol",
+  "rebote",
+  "partes"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿POR QUÉ EL CIELO",
+    "ES AZUL?"
+   ],
+   "EL AZUL REBOTA CASI 6 VECES MÁS"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ TRAE EL SOL?"
+   ],
+   "TODOS LOS COLORES"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿CON QUÉ CHOCA?"
+   ],
+   "MOLÉCULAS DE AIRE"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿QUÉ PASA AL CHOCAR?"
+   ],
+   "EL AZUL REBOTA MÁS"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿POR QUÉ LO VES ARRIBA?"
+   ],
+   "TE LLEGA DE TODAS PARTES"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y EL VIOLETA?"
+   ],
+   "TUS OJOS"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL SOL A TUS OJOS"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "300.000 KM POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "EL ATARDECER"
+  ]
+ }
+}

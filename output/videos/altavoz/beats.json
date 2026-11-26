@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Tu puto altavoz no toca música. Para esta nota, empuja el aire… cuatrocientas cuarenta veces por segundo. Y tu cerebro hace el resto."
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene cuerdas. No tiene teclas. No tiene boquilla. Y aun así suena como una guitarra, un piano o tu cantante favorito."
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo mil veces más lento."
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Al altavoz le llega un cable con electricidad. Pero no es una corriente fija: cambia de sentido, adelante y atrás, con la forma exacta de la canción."
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Ese cable da vueltas y forma una bobina, pegada a un cono. Y la bobina está metida dentro de un imán. Cuando pasa corriente, la bobina se convierte en otro imán. Y dos imanes… se empujan o se atraen."
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Como la corriente cambia de sentido, la bobina empuja, tira, empuja, tira. Arrastra al cono, y el cono golpea el aire: lo aprieta y lo estira."
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Esos apretones viajan por el aire como ondas hasta tu oído, y tu tímpano se mueve igual que el cono. Más rápido, más agudo. Más grande, más fuerte. Tu oído capta desde veinte hasta veinte mil vibraciones por segundo."
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "¿Y por qué los altavoces de graves son enormes? Porque un sonido grave es lento, y para que se note hay que mover mucho aire de golpe. Eso solo lo hace un cono grande."
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Corriente, bobina, imán, cono, aire, oído."
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real."
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: si le das la vuelta, funciona al revés. Hablas, el aire mueve el cono, la bobina se mueve dentro del imán… y genera corriente. Eso es, literalmente, un micrófono. Así que la próxima vez que suene una nota…"
+ }
+]
