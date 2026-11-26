@@ -1,8 +1,8 @@
 [
 {
 "word": "Tu",
-"start": 0.0,
-"end": 0.32,
+"start": 0.25,
+"end": 0.33,
 "beat": "gancho"
 },
 {
@@ -121,7 +121,7 @@
 },
 {
 "word": "No",
-"start": 6.68,
+"start": 6.751,
 "end": 6.9,
 "beat": "imposible"
 },
@@ -235,7 +235,7 @@
 },
 {
 "word": "Vamos",
-"start": 14.56,
+"start": 15.115,
 "end": 15.3,
 "beat": "freno"
 },
@@ -277,7 +277,7 @@
 },
 {
 "word": "Debajo",
-"start": 17.44,
+"start": 17.7,
 "end": 18.0,
 "beat": "paso1"
 },
@@ -439,7 +439,7 @@
 },
 {
 "word": "Donde",
-"start": 25.66,
+"start": 26.395,
 "end": 26.54,
 "beat": "paso2"
 },
@@ -583,8 +583,8 @@
 },
 {
 "word": "Tu",
-"start": 33.3,
-"end": 34.1,
+"start": 34.022,
+"end": 34.102,
 "beat": "paso3"
 },
 {
@@ -763,7 +763,7 @@
 },
 {
 "word": "Un",
-"start": 41.58,
+"start": 42.302,
 "end": 42.42,
 "beat": "paso4"
 },
@@ -973,8 +973,8 @@
 },
 {
 "word": "¿Y",
-"start": 53.98,
-"end": 54.68,
+"start": 54.617,
+"end": 54.697,
 "beat": "paso5"
 },
 {
@@ -1165,7 +1165,7 @@
 },
 {
 "word": "Y",
-"start": 66.22,
+"start": 66.834,
 "end": 66.94,
 "beat": "acelera"
 },
@@ -1195,7 +1195,7 @@
 },
 {
 "word": "Y",
-"start": 71.98,
+"start": 72.4,
 "end": 72.5,
 "beat": "remate"
 },
