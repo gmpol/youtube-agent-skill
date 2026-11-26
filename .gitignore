@@ -3,3 +3,10 @@ __pycache__/
 .DS_Store
 refs/
 output/*.mp4
+output/build/clips/
+output/build/stems/
+output/build/*.wav
+output/build/*.mp4
+output/build/*.png
+output/build/parts.txt
+output/build/__pycache__/

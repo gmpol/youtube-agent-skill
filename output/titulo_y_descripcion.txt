@@ -1,0 +1,62 @@
+TÍTULO, DESCRIPCIÓN Y TAGS
+(/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py · nada se publica solo)
+
+────────────────────────────────────────
+3 OPCIONES DE TÍTULO (de 8 probadas)
+────────────────────────────────────────
+1) Lo que pasa dentro de tu microondas en 1 segundo          ← RECOMENDADO
+   48 car. · 94/100 solo · 98/100 con la miniatura "NO ES FUEGO"
+   Problema: en el feed de móvil se corta en "…microondas en..." (el tema sí se ve).
+   Es el único de los mejores que contiene "microondas", la palabra que se busca.
+
+2) El agua de tu sopa gira 2.450 millones de veces por segundo
+   59 car. · 94/100 · 98/100 con "NO ES FUEGO"
+   Problema: no dice "microondas", así que pierde las búsquedas (no pasa la prueba de /yt-seo).
+   Mejor como texto del post en Instagram/TikTok que como título de YouTube.
+
+3) ¿Por qué el microondas no te cocina a ti?
+   41 car. · 80/100
+   Problema: no tiene cifra (title.py: "no number, date or name").
+
+Descartados: "¿Cómo calienta un microondas? 2.450 millones de veces por segundo" (65 car., se corta en
+escritorio), "Por qué gira el plato del microondas (y tu lasaña sigue helada)" (63 car., 58/100).
+
+MINIATURA: "NO ES FUEGO" (3 palabras, no repite ninguna palabra del título) → miniatura.png / miniatura_16x9.png
+  Encuadre: molécula de agua gigante y caliente sobre el microondas, llama tachada, fondo oscuro, texto
+  blanco+amarillo con contorno grueso para que se lea al tamaño del feed.
+
+────────────────────────────────────────
+DESCRIPCIÓN (YouTube Shorts)
+────────────────────────────────────────
+Cómo funciona un microondas por dentro: no tiene fuego, hace girar el agua de la comida 2.450 millones de veces por segundo.
+Y por qué gira el plato, por qué no te cocina a ti y por qué tu lasaña sigue helada en el centro.
+
+Lo que se ve en el video:
+① El magnetrón: miles de voltios convertidos en microondas (2,45 GHz, la misma banda que el wifi)
+② Las paredes de metal hacen rebotar las ondas
+③ El agua es un imán diminuto que intenta girar con la onda, y ese roce es calor
+④ Puntos calientes y fríos a unos 6 cm: por eso gira el plato
+⑤ La rejilla de la puerta: la onda mide unos 12 cm y no cabe por los agujeros
+
+Datos: 2,45 GHz es la frecuencia estándar de los microondas domésticos; longitud de onda = velocidad de la luz / 2,45 GHz ≈ 12,2 cm; los puntos calientes quedan a media onda (≈ 6 cm).
+
+Animación y voz hechas desde cero.
+
+#microondas #ciencia #comofunciona #física #datoscuriosos #shorts
+
+────────────────────────────────────────
+TAGS (solo para desambiguar; son una señal débil)
+────────────────────────────────────────
+microondas, cómo funciona un microondas, como funciona el microondas, magnetrón, por qué gira el plato del microondas, horno microondas, microondas por dentro, 2.45 GHz, calentamiento dieléctrico, ciencia en la cocina, física, datos curiosos
+
+────────────────────────────────────────
+PRUEBA DE BÚSQUEDA (/yt-seo): 3 búsquedas que este video debería ganar
+────────────────────────────────────────
+1. "cómo funciona un microondas"           → título 1: "microondas" ✔ · línea 1 de la descripción: "Cómo funciona un microondas" ✔
+2. "por qué gira el plato del microondas"  → línea 2: "por qué gira el plato" ✔ (no está en el título)
+3. "microondas por dentro"                 → título 1: "dentro de tu microondas" ✔ · línea 1: "por dentro" ✔
+
+Nota: en un Short casi todo el tráfico llega del feed, no de la búsqueda. Lo que más pesa es el gancho de los
+3 primeros segundos y la miniatura; la descripción es secundaria.
+
+¿Lo publicas así o cambias algo?

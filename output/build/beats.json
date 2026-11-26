@@ -1,0 +1,13 @@
+[
+ {"id": "gancho",   "pause": 0.5, "text": "Tu puto microondas no calienta tu comida. Le hace algo al agua… dos mil cuatrocientos cincuenta millones de veces por segundo."},
+ {"id": "imposible","pause": 0.7, "text": "No tiene llama. No tiene resistencia. Nada ahí dentro se pone rojo. Y aun así, en un minuto, la sopa hierve."},
+ {"id": "freno",    "pause": 0.9, "text": "Vamos a verlo mil millones de veces más lento."},
+ {"id": "paso1",    "pause": 0.6, "text": "Detrás de esa pared hay un magnetrón. Le entran miles de voltios y escupe microondas: ondas de radio, de la misma banda que tu wifi, pero muchísimo más fuertes."},
+ {"id": "paso2",    "pause": 0.6, "text": "Las paredes son de metal. Así que las ondas rebotan por toda la caja y atraviesan la comida una y otra vez."},
+ {"id": "paso3",    "pause": 0.6, "text": "La comida tiene agua. Y cada molécula de agua es como un imán diminuto: un lado positivo, otro negativo. La onda cambia de sentido sin parar, y el agua intenta girar para seguirla. Gira, choca, roza con sus vecinas… y ese roce es calor."},
+ {"id": "paso4",    "pause": 0.6, "text": "Pero las ondas no llenan la caja por igual. Dejan zonas que queman y zonas frías, separadas unos seis centímetros. Por eso gira el plato: para que cada trozo pase por las zonas calientes."},
+ {"id": "paso5",    "pause": 0.6, "text": "¿Y por qué no te cocina a ti? La onda mide doce centímetros, y los agujeros de la rejilla de la puerta son mucho más pequeños. La luz pasa. Las microondas, no."},
+ {"id": "junto",    "pause": 0.4, "text": "Enchufe, magnetrón, ondas que rebotan, agua que gira, roce, calor."},
+ {"id": "acelera",  "pause": 4.0, "text": "Y ahora, a velocidad real."},
+ {"id": "remate",   "pause": 0.0, "text": "Y ojo: solo entra unos centímetros. El centro se calienta por contagio, y por eso tu puta lasaña sigue helada por dentro. Porque en realidad…"}
+]

@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu puto {\c&H4CC9F2&}microondas{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.95,0:00:02.44,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no {\c&H4CC9F2&}calienta{\c&HFFFFFF&} tu comida.
+Dialogue: 0,0:00:02.55,0:00:03.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Le hace algo al
+Dialogue: 0,0:00:03.51,0:00:04.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}agua…{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.01,0:00:05.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}2.450{\c&HFFFFFF&} millones de
+Dialogue: 0,0:00:05.69,0:00:06.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.49,0:00:08.36,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}llama.{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.37,0:00:10.36,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}resistencia.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.43,0:00:11.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Nada ahí dentro se
+Dialogue: 0,0:00:11.55,0:00:12.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pone {\c&H4CC9F2&}rojo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.65,0:00:13.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así,
+Dialogue: 0,0:00:13.77,0:00:14.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en un {\c&H4CC9F2&}minuto,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.63,0:00:15.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la sopa {\c&H4CC9F2&}hierve.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.75,0:00:16.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo mil
+Dialogue: 0,0:00:16.75,0:00:17.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}millones{\c&HFFFFFF&} de veces
+Dialogue: 0,0:00:17.43,0:00:18.62,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.77,0:00:19.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Detrás de esa pared
+Dialogue: 0,0:00:19.83,0:00:21.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hay un {\c&H4CC9F2&}magnetrón.{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.29,0:00:22.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Le entran miles de
+Dialogue: 0,0:00:22.37,0:00:23.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}voltios{\c&HFFFFFF&} y escupe
+Dialogue: 0,0:00:23.05,0:00:23.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}microondas:{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.79,0:00:24.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ondas de radio,
+Dialogue: 0,0:00:24.41,0:00:25.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de la misma banda
+Dialogue: 0,0:00:25.29,0:00:26.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que tu {\c&H4CC9F2&}wifi,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.11,0:00:26.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pero {\c&H4CC9F2&}muchísimo{\c&HFFFFFF&} más
+Dialogue: 0,0:00:26.95,0:00:27.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}fuertes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.89,0:00:28.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Las {\c&H4CC9F2&}paredes{\c&HFFFFFF&} son de
+Dialogue: 0,0:00:28.81,0:00:29.68,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}metal.{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.95,0:00:30.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Así que las ondas
+Dialogue: 0,0:00:30.79,0:00:31.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}rebotan{\c&HFFFFFF&} por toda
+Dialogue: 0,0:00:31.53,0:00:32.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la caja y {\c&H4CC9F2&}atraviesan{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.51,0:00:33.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la comida una y
+Dialogue: 0,0:00:33.25,0:00:34.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}otra vez.
+Dialogue: 0,0:00:34.19,0:00:35.88,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}La comida tiene {\c&H4CC9F2&}agua.{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.89,0:00:37.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y cada {\c&H4CC9F2&}molécula{\c&HFFFFFF&} de
+Dialogue: 0,0:00:37.03,0:00:37.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}agua{\c&HFFFFFF&} es como un
+Dialogue: 0,0:00:37.73,0:00:38.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}imán {\c&H4CC9F2&}diminuto:{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.59,0:00:39.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un lado {\c&H4CC9F2&}positivo,{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.57,0:00:40.78,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}otro {\c&H4CC9F2&}negativo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.83,0:00:41.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}La onda cambia de
+Dialogue: 0,0:00:41.85,0:00:42.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}sentido{\c&HFFFFFF&} sin parar,
+Dialogue: 0,0:00:42.83,0:00:43.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y el {\c&H4CC9F2&}agua{\c&HFFFFFF&} intenta
+Dialogue: 0,0:00:43.59,0:00:45.16,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}girar{\c&HFFFFFF&} para seguirla.
+Dialogue: 0,0:00:45.29,0:00:46.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Gira,{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.01,0:00:46.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}choca,
+Dialogue: 0,0:00:46.57,0:00:47.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}roza con sus {\c&H4CC9F2&}vecinas…{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.65,0:00:48.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y ese {\c&H4CC9F2&}roce{\c&HFFFFFF&} es
+Dialogue: 0,0:00:48.45,0:00:49.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}calor.{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.27,0:00:50.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Pero las ondas no
+Dialogue: 0,0:00:50.11,0:00:50.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}llenan la caja por
+Dialogue: 0,0:00:50.87,0:00:51.74,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}igual.
+Dialogue: 0,0:00:51.99,0:00:53.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dejan zonas que {\c&H4CC9F2&}queman{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.13,0:00:54.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y zonas {\c&H4CC9F2&}frías,{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.05,0:00:54.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}separadas unos {\c&H4CC9F2&}6{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.93,0:00:56.10,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}centímetros.{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.17,0:00:57.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Por eso {\c&H4CC9F2&}gira{\c&HFFFFFF&} el
+Dialogue: 0,0:00:57.13,0:00:57.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}plato:{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.65,0:00:58.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}para que cada trozo
+Dialogue: 0,0:00:58.41,0:00:59.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pase por las zonas
+Dialogue: 0,0:00:59.19,0:00:59.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}calientes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.95,0:01:00.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}¿Y por qué no
+Dialogue: 0,0:01:00.83,0:01:02.08,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}te {\c&H4CC9F2&}cocina{\c&HFFFFFF&} a ti?
+Dialogue: 0,0:01:02.31,0:01:03.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}La onda mide {\c&H4CC9F2&}12{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.19,0:01:04.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}centímetros,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.01,0:01:04.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y los {\c&H4CC9F2&}agujeros{\c&HFFFFFF&} de
+Dialogue: 0,0:01:04.79,0:01:05.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}rejilla{\c&HFFFFFF&} de la
+Dialogue: 0,0:01:05.35,0:01:06.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}puerta son mucho
+Dialogue: 0,0:01:06.11,0:01:07.36,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más {\c&H4CC9F2&}pequeños.{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.37,0:01:08.98,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}La {\c&H4CC9F2&}luz{\c&HFFFFFF&} pasa.
+Dialogue: 0,0:01:09.05,0:01:10.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Las {\c&H4CC9F2&}microondas,{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.25,0:01:11.12,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no.
+Dialogue: 0,0:01:11.35,0:01:11.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Enchufe,{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.83,0:01:12.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}magnetrón,{\c&HFFFFFF&}
+Dialogue: 0,0:01:12.61,0:01:13.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ondas que {\c&H4CC9F2&}rebotan,{\c&HFFFFFF&}
+Dialogue: 0,0:01:13.67,0:01:14.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}agua que {\c&H4CC9F2&}gira,{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.61,0:01:15.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}roce,{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.21,0:01:15.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}calor.{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.45,0:01:16.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:16.57,0:01:18.10,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.89,0:01:22.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:22.15,0:01:23.94,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}solo entra unos {\c&H4CC9F2&}centímetros.{\c&HFFFFFF&}
+Dialogue: 0,0:01:23.97,0:01:25.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El centro se {\c&H4CC9F2&}calienta{\c&HFFFFFF&}
+Dialogue: 0,0:01:25.21,0:01:26.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por {\c&H4CC9F2&}contagio,{\c&HFFFFFF&}
+Dialogue: 0,0:01:26.01,0:01:26.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y por eso tu
+Dialogue: 0,0:01:26.57,0:01:27.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}puta {\c&H4CC9F2&}lasaña{\c&HFFFFFF&} sigue
+Dialogue: 0,0:01:27.39,0:01:28.68,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}helada{\c&HFFFFFF&} por dentro.
+Dialogue: 0,0:01:28.75,0:01:30.02,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque en {\c&H4CC9F2&}realidad…{\c&HFFFFFF&}
