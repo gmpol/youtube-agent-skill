@@ -133,7 +133,7 @@ stems = {"voice": voice, "music_bed": music, "sfx": sfx}
 gain = {}
 for k, x in stems.items():
     p = os.path.join(HERE, "stems", k + ".wav"); wav_write(p, x / max(1e-9, np.abs(x).max()) * 0.5); gain[k] = (lufs(p), 0.5 / max(1e-9, np.abs(x).max()))
-TGT = {"voice": -16.0, "music_bed": -33.0, "sfx": -24.0}
+TGT = {"voice": -16.0, "music_bed": -35.5, "sfx": -24.0}
 def scale(k): L, g0 = gain[k]; return g0 * 10 ** ((TGT[k] - L) / 20)
 mix = voice * scale("voice") + music_auto * scale("music_bed") + sfx * scale("sfx")
 st = np.stack([mix, mix], 1)
