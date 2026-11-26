@@ -3,3 +3,7 @@ video /home/user/youtube-agent-skill/output/videos/chip/video_mudo.mp4 2540 fram
 == audio
 mix LUFS -14.0
 == mux
+mux ok
+== thumb
+thumbs ok
+== review
