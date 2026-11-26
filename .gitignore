@@ -19,3 +19,8 @@ output/videos/*/still*.png
 output/videos/*/review_frames.png
 output/videos/*/__pycache__/
 output/engine/__pycache__/
+output/videos/*/*.png
+!output/videos/*/miniatura.png
+!output/videos/*/miniatura_16x9.png
+output/videos/*/part*.mp4
+output/videos/*/parts.txt
