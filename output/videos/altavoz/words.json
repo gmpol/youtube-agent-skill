@@ -1,8 +1,8 @@
 [
 {
 "word": "Tu",
-"start": 0.0,
-"end": 0.32,
+"start": 0.25,
+"end": 0.33,
 "beat": "gancho"
 },
 {
@@ -139,7 +139,7 @@
 },
 {
 "word": "No",
-"start": 8.88,
+"start": 8.907,
 "end": 9.06,
 "beat": "imposible"
 },
@@ -271,7 +271,7 @@
 },
 {
 "word": "Vamos",
-"start": 17.92,
+"start": 18.056,
 "end": 18.26,
 "beat": "freno"
 },
@@ -313,7 +313,7 @@
 },
 {
 "word": "Al",
-"start": 20.32,
+"start": 20.553,
 "end": 20.64,
 "beat": "paso1"
 },
@@ -475,7 +475,7 @@
 },
 {
 "word": "Ese",
-"start": 28.84,
+"start": 29.116,
 "end": 29.28,
 "beat": "paso2"
 },
@@ -709,7 +709,7 @@
 },
 {
 "word": "Como",
-"start": 41.62,
+"start": 41.663,
 "end": 41.8,
 "beat": "paso3"
 },
@@ -865,7 +865,7 @@
 },
 {
 "word": "Esos",
-"start": 50.86,
+"start": 50.9,
 "end": 51.1,
 "beat": "paso4"
 },
@@ -1099,7 +1099,7 @@
 },
 {
 "word": "¿Y",
-"start": 64.26,
+"start": 64.412,
 "end": 64.5,
 "beat": "paso5"
 },
@@ -1303,7 +1303,7 @@
 },
 {
 "word": "Corriente,",
-"start": 73.72,
+"start": 73.774,
 "end": 74.2,
 "beat": "junto"
 },
@@ -1339,7 +1339,7 @@
 },
 {
 "word": "Y",
-"start": 77.68,
+"start": 77.745,
 "end": 77.86,
 "beat": "acelera"
 },
@@ -1369,7 +1369,7 @@
 },
 {
 "word": "Y",
-"start": 82.92,
+"start": 83.312,
 "end": 83.4,
 "beat": "remate"
 },
