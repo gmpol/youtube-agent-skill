@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Cómo funciona el corazón, 10 veces más lento
+   98/100 con la miniatura · contiene la búsqueda ← RECOMENDADO
+2) Tu corazón late 100.000 veces al día él solo
+   98/100
+3) Por qué late tu corazón sin que se lo pidas
+   62/100 · repite «lo» con la miniatura, sin cifra
+
+MINIATURA: "NADIE LO MANDA" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona el corazón: tiene su propio marcapasos y late solo, unas 100.000 veces al día.
+Qué es el pum-pum que oyes y por qué se acelera cuando corres.
+
+Lo que se ve en el video:
+① ¿Qué Es? Una bomba doble
+② ¿Quién Da La Orden? Su propio marcapasos
+③ ¿Cómo Se Aprieta? Una ola eléctrica
+④ ¿Por Qué No Vuelve? Las válvulas
+⑤ ¿Y Si Corres? El cerebro lo acelera
+
+Datos: Frecuencia en reposo típica ~70 lpm → unos 100.000 latidos al día. 4 cámaras; el lado derecho bombea a los pulmones, el izquierdo al cuerpo. El nódulo sinusal (aurícula derecha) genera el impulso por sí solo (automatismo cardiaco).
+
+Animación y voz hechas desde cero.
+
+#corazon #cuerpohumano #ciencia #comofunciona #biologia #shorts
+
+TAGS (solo para desambiguar)
+corazón, cómo funciona el corazón, latido, marcapasos natural, nódulo sinusal, válvulas, aurículas, ventrículos, cuerpo humano, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona el corazón" → título ✔ · línea 1 ✔
+2. "por qué late el corazón" → línea 1 ✔
+3. "qué es el pum pum del corazón" → línea 2 ✔
+
+¿Lo publicas así o cambias algo?

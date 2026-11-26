@@ -1,0 +1,49 @@
+¿POR QUÉ LATE TU CORAZÓN?
+Short vertical 9:16 · español · 80 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 48/100 · The Statistic
+
+======================================================================
+[0:00.25–0:04.98] GANCHO  [CARTEL: ¿POR QUÉ LATE TU CORAZÓN? / 100.000 LATIDOS AL DÍA]
+VOZ: Tu puto corazón no espera a que se lo pidas. Late solo… unas cien mil veces al día.
+
+[0:05.48–0:13.05] IMPOSIBLE
+VOZ: No lo controlas. No lo puedes parar. No descansa ni cuando duermes. Y aun así, nadie le da la orden.
+
+[0:13.75–0:15.43] FRENO
+VOZ: Vamos a verlo diez veces más lento.
+
+[0:16.32–0:24.89] PASO1  [CARTEL: ① ¿QUÉ ES? / UNA BOMBA DOBLE]
+VOZ: Tu corazón es un músculo del tamaño de un puño, con cuatro cámaras. El lado derecho manda la sangre a los pulmones. El izquierdo, a todo el cuerpo.
+
+[0:25.49–0:34.63] PASO2  [CARTEL: ② ¿QUIÉN DA LA ORDEN? / SU PROPIO MARCAPASOS]
+VOZ: Arriba, en el lado derecho, tiene un grupito de células que se encienden solas, una y otra vez. Es su marcapasos natural, y marca el ritmo sin que el cerebro tenga que mandarlo.
+
+[0:35.23–0:42.81] PASO3  [CARTEL: ③ ¿CÓMO SE APRIETA? / UNA OLA ELÉCTRICA]
+VOZ: Cada chispa recorre el corazón como una ola: primero se aprietan las aurículas, arriba, y una fracción de segundo después, los ventrículos, abajo.
+
+[0:43.41–0:51.47] PASO4  [CARTEL: ④ ¿POR QUÉ NO VUELVE? / LAS VÁLVULAS]
+VOZ: Entre cámara y cámara hay válvulas que solo se abren hacia delante. Cuando se cierran de golpe, hacen ruido: ese pum-pum que oyes son las válvulas cerrándose.
+
+[0:52.07–0:58.79] PASO5  [CARTEL: ⑤ ¿Y SI CORRES? / EL CEREBRO LO ACELERA]
+VOZ: El cerebro no da la orden, pero sí puede acelerarla o frenarla. Corres, te asustas, y el marcapasos va más rápido.
+
+[0:59.39–1:03.98] JUNTO  [CARTEL: TODO JUNTO / DE LA CHISPA AL PUM-PUM]
+VOZ: Marcapasos, chispa, aurículas, ventrículos, válvulas, pum-pum.
+
+[1:04.38–1:05.95] ACELERA  [CARTEL: A VELOCIDAD REAL / 70 LATIDOS POR MINUTO]
+VOZ: Y ahora, a velocidad real.
+
+[1:09.95–1:19.86] REMATE  [CARTEL: Y OJO: / 5 LITROS POR MINUTO]
+VOZ: Y ojo: en reposo, tu corazón mueve unos cinco litros de sangre por minuto. Más o menos toda la sangre de tu cuerpo, cada minuto, sin parar. Porque tu puto corazón…
+
+======================================================================
+219 palabras · 80 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Frecuencia en reposo típica ~70 lpm → unos 100.000 latidos al día.
+- 4 cámaras; el lado derecho bombea a los pulmones, el izquierdo al cuerpo.
+- El nódulo sinusal (aurícula derecha) genera el impulso por sí solo (automatismo cardiaco).
+- Los ruidos del corazón son el cierre de las válvulas.
+- El sistema nervioso acelera o frena el ritmo, no lo inicia.
+- Gasto cardiaco en reposo ≈ 5 L/min.

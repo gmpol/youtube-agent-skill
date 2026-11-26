@@ -1,0 +1,164 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "rayo, trueno, granizo, tormenta, kilómetros",
+ "hud": {
+  "max_log": 3,
+  "step": 1,
+  "base": 343,
+  "unit": [
+   "SONIDO",
+   "M/S"
+  ]
+ },
+ "music": {
+  "bpm": 96,
+  "roots": [
+   50,
+   46,
+   53,
+   48
+  ],
+  "minor": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "treinta",
+    "mil"
+   ],
+   "30.000"
+  ],
+  [
+   [
+    "trescientos",
+    "cuarenta"
+   ],
+   "340"
+  ],
+  [
+   [
+    "cinco"
+   ],
+   "5"
+  ],
+  [
+   [
+    "tres"
+   ],
+   "3"
+  ]
+ ],
+ "keywords": [
+  "rayo",
+  "30.000",
+  "5",
+  "sol",
+  "trueno",
+  "nubes",
+  "tambor",
+  "ventanas",
+  "lento",
+  "hielo",
+  "granizo",
+  "cargas",
+  "chispa",
+  "gigante",
+  "suelo",
+  "canal",
+  "centímetros",
+  "calienta",
+  "expande",
+  "sonido",
+  "explosión",
+  "choque",
+  "luz",
+  "instante",
+  "340",
+  "oyes",
+  "segundos",
+  "3",
+  "kilómetros",
+  "tormenta",
+  "calor",
+  "onda",
+  "oído",
+  "real",
+  "línea",
+  "distinta",
+  "partes",
+  "retumba"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿POR QUÉ SUENA",
+    "EL TRUENO?"
+   ],
+   "EL AIRE, A 30.000 °C"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ ES UN RAYO?"
+   ],
+   "UNA CHISPA GIGANTE"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿QUÉ LE HACE AL AIRE?"
+   ],
+   "LO CALIENTA DE GOLPE"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿Y ENTONCES?"
+   ],
+   "EL AIRE EXPLOTA"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿POR QUÉ LLEGA TARDE?"
+   ],
+   "EL SONIDO VA MÁS LENTO"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿A QUÉ DISTANCIA ESTÁ?"
+   ],
+   "SEGUNDOS ÷ 3 = KM"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DE LA NUBE A TU OÍDO"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "343 METROS POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "POR QUÉ RETUMBA"
+  ]
+ }
+}

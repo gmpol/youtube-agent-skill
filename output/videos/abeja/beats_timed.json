@@ -1,0 +1,79 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Una abeja bate las alas unas doscientas treinta veces por segundo. Y ese zumbido que oyes… son sus putas alas.",
+  "start": 0.25,
+  "end": 6.422
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No mueve las alas directamente. No piensa cada aleteo. No le manda una orden por cada golpe. Y aun así, no falla ni uno.",
+  "start": 6.922,
+  "end": 15.317
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo cien veces más lento.",
+  "start": 16.017,
+  "end": 17.701
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "El motor de la abeja está en el tórax, el trozo del medio. Es como una cajita, y las alas están enganchadas en el borde, como palancas.",
+  "start": 18.601,
+  "end": 25.991
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Dentro hay dos grupos de músculos. Unos aprietan la caja de arriba abajo, y las alas suben. Los otros la aprietan de delante atrás, y las alas bajan.",
+  "start": 26.591,
+  "end": 35.43
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Y aquí está el truco: cuando uno de esos músculos se estira, se contrae solo, sin esperar al cerebro. Uno estira al otro, el otro al uno… y con una sola orden del nervio salen muchos aleteos.",
+  "start": 36.03,
+  "end": 46.123
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Además, las alas no solo suben y bajan: en cada golpe se dan la vuelta, como un remo, y crean un remolino de aire encima que la sostiene.",
+  "start": 46.723,
+  "end": 53.607
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "Cada aleteo empuja el aire. Doscientos treinta empujones por segundo son una nota grave: el zumbido que oyes.",
+  "start": 54.207,
+  "end": 60.188
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Tórax, músculos, estirón, aleteo, remolino, zumbido.",
+  "start": 60.788,
+  "end": 65.005
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real.",
+  "start": 65.405,
+  "end": 66.971
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: durante años se dijo que, según la física, los abejorros no deberían poder volar. Era un puto cálculo hecho como si tuvieran alas de avión. Porque una abeja…",
+  "start": 70.971,
+  "end": 80.64
+ }
+]

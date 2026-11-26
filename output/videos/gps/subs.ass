@@ -1,0 +1,94 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu puto {\c&H4CC9F2&}móvil{\c&HFFFFFF&} sabe
+Dialogue: 0,0:00:00.99,0:00:01.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}dónde estás {\c&H4CC9F2&}escuchando{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.95,0:00:02.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}relojes{\c&HFFFFFF&} que vuelan
+Dialogue: 0,0:00:02.75,0:00:03.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a {\c&H4CC9F2&}20.000{\c&HFFFFFF&} kilómetros
+Dialogue: 0,0:00:03.61,0:00:04.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}altura.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.51,0:00:05.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No te ve desde
+Dialogue: 0,0:00:05.17,0:00:06.28,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}espacio.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.43,0:00:08.36,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No usa {\c&H4CC9F2&}ninguna{\c&HFFFFFF&} cámara.
+Dialogue: 0,0:00:08.43,0:00:09.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Ni {\c&H4CC9F2&}siquiera{\c&HFFFFFF&} les manda
+Dialogue: 0,0:00:09.61,0:00:11.06,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}nada a los {\c&H4CC9F2&}satélites.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.11,0:00:12.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así,
+Dialogue: 0,0:00:12.23,0:00:12.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sabe en qué {\c&H4CC9F2&}calle{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.99,0:00:13.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}estás.
+Dialogue: 0,0:00:13.79,0:00:14.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a frenar la
+Dialogue: 0,0:00:14.79,0:00:15.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}luz{\c&HFFFFFF&} un millón de
+Dialogue: 0,0:00:15.45,0:00:16.40,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces.
+Dialogue: 0,0:00:16.81,0:00:17.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Alrededor{\c&HFFFFFF&} de la Tierra
+Dialogue: 0,0:00:17.69,0:00:18.97,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}giran unos {\c&H4CC9F2&}30{\c&HFFFFFF&} satélites
+Dialogue: 0,0:00:18.97,0:00:19.96,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}GPS.
+Dialogue: 0,0:00:20.23,0:00:21.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada uno lleva {\c&H4CC9F2&}relojes{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.47,0:00:22.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}atómicos,{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.17,0:00:22.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y emite sin parar
+Dialogue: 0,0:00:22.93,0:00:23.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un {\c&H4CC9F2&}mensaje:{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.77,0:00:24.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}soy este {\c&H4CC9F2&}satélite,{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.89,0:00:25.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y esta es la
+Dialogue: 0,0:00:25.49,0:00:26.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hora {\c&H4CC9F2&}exacta.{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.21,0:00:27.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}mensaje{\c&HFFFFFF&} viaja
+Dialogue: 0,0:00:27.55,0:00:28.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a la {\c&H4CC9F2&}velocidad{\c&HFFFFFF&} de
+Dialogue: 0,0:00:28.19,0:00:28.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}luz,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.75,0:00:29.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pero aun así {\c&H4CC9F2&}tarda{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.47,0:00:30.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unas siete {\c&H4CC9F2&}centésimas{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.43,0:00:31.92,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}segundo{\c&HFFFFFF&} en llegar.
+Dialogue: 0,0:00:31.95,0:00:32.97,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu {\c&H4CC9F2&}móvil{\c&HFFFFFF&} compara
+Dialogue: 0,0:00:32.97,0:00:33.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}hora{\c&HFFFFFF&} del mensaje
+Dialogue: 0,0:00:33.77,0:00:34.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}con la de {\c&H4CC9F2&}llegada,{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.67,0:00:35.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y sabe a qué
+Dialogue: 0,0:00:35.15,0:00:36.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}distancia{\c&HFFFFFF&} está ese
+Dialogue: 0,0:00:36.05,0:00:37.07,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}satélite.{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.07,0:00:38.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Con un {\c&H4CC9F2&}satélite,{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.15,0:00:38.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}solo sabe que está
+Dialogue: 0,0:00:38.87,0:00:39.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en algún {\c&H4CC9F2&}punto{\c&HFFFFFF&} de
+Dialogue: 0,0:00:39.55,0:00:41.06,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una {\c&H4CC9F2&}esfera{\c&HFFFFFF&} gigante.
+Dialogue: 0,0:00:41.11,0:00:42.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Con {\c&H4CC9F2&}tres,{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.09,0:00:42.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}las {\c&H4CC9F2&}esferas{\c&HFFFFFF&} se cruzan
+Dialogue: 0,0:00:42.99,0:00:43.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en un solo {\c&H4CC9F2&}punto{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.71,0:00:45.00,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sobre la {\c&H4CC9F2&}Tierra.{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.17,0:00:46.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Ese punto eres {\c&H4CC9F2&}tú.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.73,0:00:47.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Pero el reloj de
+Dialogue: 0,0:00:47.53,0:00:49.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu móvil es {\c&H4CC9F2&}malo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.13,0:00:49.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Un error de una
+Dialogue: 0,0:00:49.85,0:00:50.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}millonésima{\c&HFFFFFF&} de segundo
+Dialogue: 0,0:00:50.77,0:00:52.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}son {\c&H4CC9F2&}300{\c&HFFFFFF&} metros.
+Dialogue: 0,0:00:52.39,0:00:53.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Por eso usa un
+Dialogue: 0,0:00:53.47,0:00:54.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cuarto{\c&HFFFFFF&} satélite:
+Dialogue: 0,0:00:54.43,0:00:55.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}para {\c&H4CC9F2&}corregir{\c&HFFFFFF&} su
+Dialogue: 0,0:00:55.13,0:00:55.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}propio reloj.
+Dialogue: 0,0:00:55.77,0:00:56.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aquí viene lo
+Dialogue: 0,0:00:56.95,0:00:57.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}raro:{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.49,0:00:58.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}allí {\c&H4CC9F2&}arriba,{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.35,0:00:59.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el tiempo pasa un
+Dialogue: 0,0:00:59.13,0:01:00.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}poquito más {\c&H4CC9F2&}rápido.{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.55,0:01:02.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Si no se {\c&H4CC9F2&}corrigiera,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.13,0:01:03.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el GPS se {\c&H4CC9F2&}equivocaría{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.33,0:01:04.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}10{\c&HFFFFFF&} kilómetros
+Dialogue: 0,0:01:04.27,0:01:05.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cada {\c&H4CC9F2&}día.{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.37,0:01:06.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Satélites,{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.37,0:01:07.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}relojes,{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.09,0:01:07.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}señal,{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.75,0:01:08.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}retraso,{\c&HFFFFFF&}
+Dialogue: 0,0:01:08.55,0:01:09.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}esferas,{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.31,0:01:09.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}tú.{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.87,0:01:10.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:10.65,0:01:12.18,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.05,0:01:16.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:16.15,0:01:16.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por eso el GPS
+Dialogue: 0,0:01:16.87,0:01:17.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}funciona{\c&HFFFFFF&} en modo
+Dialogue: 0,0:01:17.73,0:01:18.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}avión.{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.73,0:01:19.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu {\c&H4CC9F2&}móvil{\c&HFFFFFF&} no habla
+Dialogue: 0,0:01:19.71,0:01:20.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}con nadie:
+Dialogue: 0,0:01:20.41,0:01:21.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}solo {\c&H4CC9F2&}escucha.{\c&HFFFFFF&}
+Dialogue: 0,0:01:21.73,0:01:23.34,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque tu puto {\c&H4CC9F2&}móvil…{\c&HFFFFFF&}

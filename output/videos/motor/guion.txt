@@ -1,0 +1,47 @@
+¿CÓMO FUNCIONA EL MOTOR DE UN COCHE?
+Short vertical 9:16 · español · 80 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 48/100 · sin fórmula reconocida
+
+======================================================================
+[0:00.25–0:10.00] GANCHO  [CARTEL: ¿CÓMO FUNCIONA EL MOTOR? / 100 EXPLOSIONES POR SEGUNDO]
+VOZ: El puto motor de tu coche funciona a base de explosiones. A tres mil vueltas, cada cilindro explota… veinticinco veces por segundo. Con cuatro cilindros, cien.
+
+[0:10.50–0:17.66] IMPOSIBLE
+VOZ: No tiene caballos. No tiene pedales. No hay nadie empujando. Y aun así mueve más de una tonelada.
+
+[0:18.36–0:20.04] FRENO
+VOZ: Vamos a verlo cien veces más lento.
+
+[0:20.94–0:27.58] PASO1  [CARTEL: ① ¿QUÉ HAY DENTRO? / CILINDROS Y PISTONES]
+VOZ: Dentro del motor hay cilindros, normalmente cuatro. En cada uno, un pistón sube y baja, como el émbolo de una jeringa.
+
+[0:28.18–0:34.13] PASO2  [CARTEL: ② ¿QUÉ PASA PRIMERO? / ADMISIÓN Y COMPRESIÓN]
+VOZ: Primero, el pistón baja y aspira aire con gasolina. Luego sube y lo aprieta todo en un espacio diminuto.
+
+[0:34.73–0:41.60] PASO3  [CARTEL: ③ ¿Y LA EXPLOSIÓN? / LA BUJÍA]
+VOZ: Justo arriba, la bujía suelta una chispa. La mezcla explota, y la explosión empuja el pistón hacia abajo con muchísima fuerza.
+
+[0:42.20–0:51.33] PASO4  [CARTEL: ④ ¿Y EL HUMO? / EL ESCAPE]
+VOZ: Después, el pistón vuelve a subir y echa los gases quemados por el tubo de escape. Admisión, compresión, explosión, escape. Y vuelta a empezar.
+
+[0:51.93–0:59.79] PASO5  [CARTEL: ⑤ ¿CÓMO GIRAN LAS RUEDAS? / EL CIGÜEÑAL]
+VOZ: Los pistones van arriba y abajo, pero las ruedas giran. El cigüeñal convierte ese sube y baja en vueltas, como tus piernas con los pedales de una bici.
+
+[1:00.39–1:04.53] JUNTO  [CARTEL: TODO JUNTO / DE LA GASOLINA A LA RUEDA]
+VOZ: Aire, gasolina, compresión, chispa, explosión, vuelta.
+
+[1:04.93–1:06.50] ACELERA  [CARTEL: A VELOCIDAD REAL / 3.000 VUELTAS POR MINUTO]
+VOZ: Y ahora, a velocidad real.
+
+[1:10.50–1:20.43] REMATE  [CARTEL: Y OJO: / EL DIÉSEL NO TIENE CHISPA]
+VOZ: Y ojo: los motores diésel ni siquiera tienen bujía. Aprietan tanto el aire que se calienta muchísimo, y el combustible se enciende solo al entrar. Porque el puto motor de tu coche…
+
+======================================================================
+207 palabras · 80 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Motor de 4 tiempos: admisión, compresión, explosión, escape.
+- Cada cilindro explota una vez cada 2 vueltas: a 3.000 rpm, 25 por segundo; con 4 cilindros, 100.
+- El cigüeñal convierte el movimiento lineal en giro.
+- Diésel: encendido por compresión, sin bujía.

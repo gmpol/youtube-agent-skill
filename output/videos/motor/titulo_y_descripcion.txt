@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Cómo funciona el motor de un coche, 100 veces más lento
+   98/100 con la miniatura ← RECOMENDADO
+2) Tu coche hace 100 explosiones por segundo
+   80/100 con la miniatura «PURA EXPLOSIÓN»
+3) Por qué los motores diésel no tienen bujías
+   80/100 · sin cifra
+
+MINIATURA: "PURA EXPLOSIÓN" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona el motor de un coche: cuatro tiempos y unas 100 explosiones por segundo a 3.000 vueltas.
+Admisión, compresión, explosión y escape, y por qué un diésel no tiene bujías.
+
+Lo que se ve en el video:
+① ¿Qué Hay Dentro? Cilindros y pistones
+② ¿Qué Pasa Primero? Admisión y compresión
+③ ¿Y La Explosión? La bujía
+④ ¿Y El Humo? El escape
+⑤ ¿Cómo Giran Las Ruedas? El cigüeñal
+
+Datos: Motor de 4 tiempos: admisión, compresión, explosión, escape. Cada cilindro explota una vez cada 2 vueltas: a 3.000 rpm, 25 por segundo; con 4 cilindros, 100. El cigüeñal convierte el movimiento lineal en giro.
+
+Animación y voz hechas desde cero.
+
+#motor #coches #mecanica #comofunciona #ciencia #shorts
+
+TAGS (solo para desambiguar)
+motor, cómo funciona un motor, motor de coche, cuatro tiempos, pistón, bujía, cigüeñal, diésel, mecánica, coches
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona el motor de un coche" → título ✔ · línea 1 ✔
+2. "motor de 4 tiempos" → línea 1-2 ✔
+3. "por qué el diésel no tiene bujías" → línea 2 ✔
+
+¿Lo publicas así o cambias algo?

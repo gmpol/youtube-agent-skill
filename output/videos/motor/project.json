@@ -1,0 +1,163 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "motor, cilindro, pistón, bujía, cigüeñal, diésel",
+ "hud": {
+  "max_log": 2,
+  "step": 1,
+  "base": 100,
+  "unit": [
+   "EXPLOSIONES",
+   "POR SEG."
+  ]
+ },
+ "music": {
+  "bpm": 128,
+  "roots": [
+   45,
+   48,
+   43,
+   50
+  ],
+  "minor": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "tres",
+    "mil"
+   ],
+   "3.000"
+  ],
+  [
+   [
+    "veinticinco"
+   ],
+   "25"
+  ],
+  [
+   [
+    "cuatro"
+   ],
+   "4"
+  ],
+  [
+   [
+    "cien."
+   ],
+   "100"
+  ]
+ ],
+ "keywords": [
+  "motor",
+  "explosiones",
+  "3.000",
+  "25",
+  "4",
+  "100",
+  "caballos",
+  "pedales",
+  "empujando",
+  "tonelada",
+  "lento",
+  "cilindros",
+  "pistón",
+  "jeringa",
+  "aspira",
+  "aire",
+  "gasolina",
+  "aprieta",
+  "diminuto",
+  "bujía",
+  "chispa",
+  "explota",
+  "fuerza",
+  "escape",
+  "quemados",
+  "admisión",
+  "compresión",
+  "explosión",
+  "ruedas",
+  "giran",
+  "cigüeñal",
+  "vueltas",
+  "bici",
+  "real",
+  "diésel",
+  "solo.",
+  "calienta",
+  "chispa."
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO FUNCIONA",
+    "EL MOTOR?"
+   ],
+   "100 EXPLOSIONES POR SEGUNDO"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ HAY DENTRO?"
+   ],
+   "CILINDROS Y PISTONES"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿QUÉ PASA PRIMERO?"
+   ],
+   "ADMISIÓN Y COMPRESIÓN"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿Y LA EXPLOSIÓN?"
+   ],
+   "LA BUJÍA"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿Y EL HUMO?"
+   ],
+   "EL ESCAPE"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿CÓMO GIRAN LAS RUEDAS?"
+   ],
+   "EL CIGÜEÑAL"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DE LA GASOLINA A LA RUEDA"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "3.000 VUELTAS POR MINUTO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "EL DIÉSEL NO TIENE CHISPA"
+  ]
+ }
+}

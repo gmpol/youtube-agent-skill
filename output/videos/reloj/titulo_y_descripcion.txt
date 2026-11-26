@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Cómo funciona un reloj de cuarzo: 32.768 vibraciones
+   98/100 con la miniatura ← RECOMENDADO
+2) Por qué los relojes usan el número 32.768
+   80/100 con «CRISTAL VIBRANDO»
+3) Cómo funciona un reloj de cuarzo por dentro
+   80/100 · sin cifra
+
+MINIATURA: "CRISTAL VIBRANDO" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona un reloj de cuarzo: un cristal vibra 32.768 veces por segundo y un chip lo divide hasta 1 segundo.
+Por qué justo 32.768 y por qué no lo puedes oír.
+
+Lo que se ve en el video:
+① ¿Qué Hay Dentro? Un diapasón de cuarzo
+② ¿Por Qué Vibra? El truco del cuarzo
+③ ¿Cómo Cuenta? Divide entre 2, 15 veces
+④ ¿Quién Mueve La Aguja? Un motor diminuto
+⑤ ¿Por Qué Ese Número? Es 2 elevado a 15
+
+Datos: Cristal de cuarzo en forma de diapasón a 32.768 Hz = 2¹⁵. El cuarzo es piezoeléctrico: se deforma con tensión y genera tensión al deformarse. Un divisor binario parte la frecuencia 15 veces → 1 Hz.
+
+Animación y voz hechas desde cero.
+
+#reloj #cuarzo #tecnologia #comofunciona #ciencia #shorts
+
+TAGS (solo para desambiguar)
+reloj de cuarzo, cómo funciona un reloj, cuarzo, 32768 Hz, piezoeléctrico, segundero, diapasón, tiempo, tecnología, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona un reloj de cuarzo" → título ✔ · línea 1 ✔
+2. "por qué 32768" → título 2 / línea 2 ✔
+3. "cuarzo piezoeléctrico" → descripción (datos) ✔
+
+¿Lo publicas así o cambias algo?

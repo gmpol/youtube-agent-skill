@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Tu puto corazón no espera a que se lo pidas. Late solo… unas cien mil veces al día."
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No lo controlas. No lo puedes parar. No descansa ni cuando duermes. Y aun así, nadie le da la orden."
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo diez veces más lento."
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Tu corazón es un músculo del tamaño de un puño, con cuatro cámaras. El lado derecho manda la sangre a los pulmones. El izquierdo, a todo el cuerpo."
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Arriba, en el lado derecho, tiene un grupito de células que se encienden solas, una y otra vez. Es su marcapasos natural, y marca el ritmo sin que el cerebro tenga que mandarlo."
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Cada chispa recorre el corazón como una ola: primero se aprietan las aurículas, arriba, y una fracción de segundo después, los ventrículos, abajo."
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Entre cámara y cámara hay válvulas que solo se abren hacia delante. Cuando se cierran de golpe, hacen ruido: ese pum-pum que oyes son las válvulas cerrándose."
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "El cerebro no da la orden, pero sí puede acelerarla o frenarla. Corres, te asustas, y el marcapasos va más rápido."
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Marcapasos, chispa, aurículas, ventrículos, válvulas, pum-pum."
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real."
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: en reposo, tu corazón mueve unos cinco litros de sangre por minuto. Más o menos toda la sangre de tu cuerpo, cada minuto, sin parar. Porque tu puto corazón…"
+ }
+]

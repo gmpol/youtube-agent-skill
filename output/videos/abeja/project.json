@@ -1,0 +1,152 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "abeja, tórax, aleteo, abejorros, zumbido",
+ "hud": {
+  "max_log": 2,
+  "step": 1,
+  "base": 230,
+  "unit": [
+   "ALETEOS",
+   "POR SEG."
+  ]
+ },
+ "music": {
+  "bpm": 116,
+  "roots": [
+   53,
+   57,
+   55,
+   48
+  ],
+  "minor": [
+   false,
+   true,
+   false,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "doscientas",
+    "treinta"
+   ],
+   "230"
+  ],
+  [
+   [
+    "doscientos",
+    "treinta"
+   ],
+   "230"
+  ]
+ ],
+ "keywords": [
+  "abeja",
+  "alas",
+  "230",
+  "zumbido",
+  "músculo",
+  "aleteo",
+  "orden",
+  "falla",
+  "lento",
+  "motor",
+  "tórax",
+  "cajita",
+  "palancas",
+  "músculos",
+  "arriba",
+  "abajo",
+  "suben",
+  "bajan",
+  "truco",
+  "estira",
+  "contrae",
+  "cerebro",
+  "nervio",
+  "aleteos",
+  "vuelta",
+  "remas",
+  "remolino",
+  "sostiene",
+  "empuja",
+  "grave",
+  "nota",
+  "estirón",
+  "real",
+  "física",
+  "abejorros",
+  "volar",
+  "avión",
+  "cálculo"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO VUELA",
+    "UNA ABEJA?"
+   ],
+   "230 ALETEOS POR SEGUNDO"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿DÓNDE ESTÁ EL MOTOR?"
+   ],
+   "EN EL TÓRAX"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿QUÉ MUEVE LAS ALAS?"
+   ],
+   "DOS MÚSCULOS QUE SE TURNAN"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿POR QUÉ TAN RÁPIDO?"
+   ],
+   "SE DISPARAN SOLOS"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿CÓMO SE SOSTIENE?"
+   ],
+   "GIRA LAS ALAS"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y EL ZUMBIDO?"
+   ],
+   "SON LAS ALAS"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL TÓRAX AL ZUMBIDO"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "230 ALETEOS POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "EL MITO DEL ABEJORRO"
+  ]
+ }
+}

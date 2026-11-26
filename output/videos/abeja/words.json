@@ -1,0 +1,1382 @@
+[
+{
+"word": "Una",
+"start": 0.0,
+"end": 0.4,
+"beat": "gancho"
+},
+{
+"word": "abeja",
+"start": 0.4,
+"end": 0.68,
+"beat": "gancho"
+},
+{
+"word": "bate",
+"start": 0.68,
+"end": 0.92,
+"beat": "gancho"
+},
+{
+"word": "las",
+"start": 0.92,
+"end": 1.1,
+"beat": "gancho"
+},
+{
+"word": "alas",
+"start": 1.1,
+"end": 1.3,
+"beat": "gancho"
+},
+{
+"word": "unas",
+"start": 1.3,
+"end": 1.46,
+"beat": "gancho"
+},
+{
+"word": "doscientas",
+"start": 1.46,
+"end": 1.64,
+"beat": "gancho"
+},
+{
+"word": "treinta",
+"start": 1.64,
+"end": 1.82,
+"beat": "gancho"
+},
+{
+"word": "veces",
+"start": 1.82,
+"end": 2.44,
+"beat": "gancho"
+},
+{
+"word": "por",
+"start": 2.44,
+"end": 2.7,
+"beat": "gancho"
+},
+{
+"word": "segundo.",
+"start": 2.7,
+"end": 3.04,
+"beat": "gancho"
+},
+{
+"word": "Y",
+"start": 3.68,
+"end": 4.14,
+"beat": "gancho"
+},
+{
+"word": "ese",
+"start": 4.14,
+"end": 4.3,
+"beat": "gancho"
+},
+{
+"word": "zumbido",
+"start": 4.3,
+"end": 4.64,
+"beat": "gancho"
+},
+{
+"word": "que",
+"start": 4.64,
+"end": 4.82,
+"beat": "gancho"
+},
+{
+"word": "oyes…",
+"start": 4.82,
+"end": 5.06,
+"beat": "gancho"
+},
+{
+"word": "son",
+"start": 5.3,
+"end": 5.5,
+"beat": "gancho"
+},
+{
+"word": "sus",
+"start": 5.5,
+"end": 5.7,
+"beat": "gancho"
+},
+{
+"word": "putas",
+"start": 5.7,
+"end": 5.96,
+"beat": "gancho"
+},
+{
+"word": "alas.",
+"start": 5.96,
+"end": 6.36,
+"beat": "gancho"
+},
+{
+"word": "No",
+"start": 6.36,
+"end": 7.06,
+"beat": "imposible"
+},
+{
+"word": "mueve",
+"start": 7.06,
+"end": 7.28,
+"beat": "imposible"
+},
+{
+"word": "las",
+"start": 7.28,
+"end": 7.42,
+"beat": "imposible"
+},
+{
+"word": "alas",
+"start": 7.42,
+"end": 7.64,
+"beat": "imposible"
+},
+{
+"word": "directamente.",
+"start": 7.64,
+"end": 8.14,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 8.98,
+"end": 9.44,
+"beat": "imposible"
+},
+{
+"word": "piensa",
+"start": 9.44,
+"end": 9.74,
+"beat": "imposible"
+},
+{
+"word": "cada",
+"start": 9.74,
+"end": 9.94,
+"beat": "imposible"
+},
+{
+"word": "aleteo.",
+"start": 9.94,
+"end": 10.4,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 10.96,
+"end": 11.42,
+"beat": "imposible"
+},
+{
+"word": "le",
+"start": 11.42,
+"end": 11.52,
+"beat": "imposible"
+},
+{
+"word": "manda",
+"start": 11.52,
+"end": 11.76,
+"beat": "imposible"
+},
+{
+"word": "una",
+"start": 11.76,
+"end": 11.9,
+"beat": "imposible"
+},
+{
+"word": "orden",
+"start": 11.9,
+"end": 12.16,
+"beat": "imposible"
+},
+{
+"word": "por",
+"start": 12.16,
+"end": 12.32,
+"beat": "imposible"
+},
+{
+"word": "cada",
+"start": 12.32,
+"end": 12.5,
+"beat": "imposible"
+},
+{
+"word": "golpe.",
+"start": 12.5,
+"end": 12.78,
+"beat": "imposible"
+},
+{
+"word": "Y",
+"start": 13.46,
+"end": 13.92,
+"beat": "imposible"
+},
+{
+"word": "aun",
+"start": 13.92,
+"end": 14.0,
+"beat": "imposible"
+},
+{
+"word": "así,",
+"start": 14.0,
+"end": 14.28,
+"beat": "imposible"
+},
+{
+"word": "no",
+"start": 14.6,
+"end": 14.68,
+"beat": "imposible"
+},
+{
+"word": "falla",
+"start": 14.68,
+"end": 14.92,
+"beat": "imposible"
+},
+{
+"word": "ni",
+"start": 14.92,
+"end": 15.04,
+"beat": "imposible"
+},
+{
+"word": "uno.",
+"start": 15.04,
+"end": 15.28,
+"beat": "imposible"
+},
+{
+"word": "Vamos",
+"start": 15.28,
+"end": 16.2,
+"beat": "freno"
+},
+{
+"word": "a",
+"start": 16.2,
+"end": 16.38,
+"beat": "freno"
+},
+{
+"word": "verlo",
+"start": 16.38,
+"end": 16.62,
+"beat": "freno"
+},
+{
+"word": "cien",
+"start": 16.62,
+"end": 16.78,
+"beat": "freno"
+},
+{
+"word": "veces",
+"start": 16.78,
+"end": 17.04,
+"beat": "freno"
+},
+{
+"word": "más",
+"start": 17.04,
+"end": 17.28,
+"beat": "freno"
+},
+{
+"word": "lento.",
+"start": 17.28,
+"end": 17.58,
+"beat": "freno"
+},
+{
+"word": "El",
+"start": 18.24,
+"end": 18.7,
+"beat": "paso1"
+},
+{
+"word": "motor",
+"start": 18.7,
+"end": 18.92,
+"beat": "paso1"
+},
+{
+"word": "de",
+"start": 18.92,
+"end": 19.06,
+"beat": "paso1"
+},
+{
+"word": "la",
+"start": 19.06,
+"end": 19.16,
+"beat": "paso1"
+},
+{
+"word": "abeja",
+"start": 19.16,
+"end": 19.44,
+"beat": "paso1"
+},
+{
+"word": "está",
+"start": 19.44,
+"end": 19.7,
+"beat": "paso1"
+},
+{
+"word": "en",
+"start": 19.7,
+"end": 19.82,
+"beat": "paso1"
+},
+{
+"word": "el",
+"start": 19.82,
+"end": 19.92,
+"beat": "paso1"
+},
+{
+"word": "tórax,",
+"start": 19.92,
+"end": 20.32,
+"beat": "paso1"
+},
+{
+"word": "el",
+"start": 20.48,
+"end": 20.64,
+"beat": "paso1"
+},
+{
+"word": "trozo",
+"start": 20.64,
+"end": 20.86,
+"beat": "paso1"
+},
+{
+"word": "del",
+"start": 20.86,
+"end": 21.02,
+"beat": "paso1"
+},
+{
+"word": "medio.",
+"start": 21.02,
+"end": 21.3,
+"beat": "paso1"
+},
+{
+"word": "Es",
+"start": 21.96,
+"end": 22.42,
+"beat": "paso1"
+},
+{
+"word": "como",
+"start": 22.42,
+"end": 22.6,
+"beat": "paso1"
+},
+{
+"word": "una",
+"start": 22.6,
+"end": 22.78,
+"beat": "paso1"
+},
+{
+"word": "cajita,",
+"start": 22.78,
+"end": 23.18,
+"beat": "paso1"
+},
+{
+"word": "y",
+"start": 23.38,
+"end": 23.52,
+"beat": "paso1"
+},
+{
+"word": "las",
+"start": 23.52,
+"end": 23.64,
+"beat": "paso1"
+},
+{
+"word": "alas",
+"start": 23.64,
+"end": 23.84,
+"beat": "paso1"
+},
+{
+"word": "están",
+"start": 23.84,
+"end": 24.06,
+"beat": "paso1"
+},
+{
+"word": "enganchadas",
+"start": 24.06,
+"end": 24.48,
+"beat": "paso1"
+},
+{
+"word": "en",
+"start": 24.48,
+"end": 24.66,
+"beat": "paso1"
+},
+{
+"word": "el",
+"start": 24.66,
+"end": 24.76,
+"beat": "paso1"
+},
+{
+"word": "borde,",
+"start": 24.76,
+"end": 24.98,
+"beat": "paso1"
+},
+{
+"word": "como",
+"start": 25.24,
+"end": 25.4,
+"beat": "paso1"
+},
+{
+"word": "palancas.",
+"start": 25.4,
+"end": 25.96,
+"beat": "paso1"
+},
+{
+"word": "Dentro",
+"start": 25.96,
+"end": 26.88,
+"beat": "paso2"
+},
+{
+"word": "hay",
+"start": 26.88,
+"end": 27.0,
+"beat": "paso2"
+},
+{
+"word": "dos",
+"start": 27.0,
+"end": 27.14,
+"beat": "paso2"
+},
+{
+"word": "grupos",
+"start": 27.14,
+"end": 27.36,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 27.36,
+"end": 27.52,
+"beat": "paso2"
+},
+{
+"word": "músculos.",
+"start": 27.52,
+"end": 27.88,
+"beat": "paso2"
+},
+{
+"word": "Unos",
+"start": 28.66,
+"end": 29.24,
+"beat": "paso2"
+},
+{
+"word": "aprietan",
+"start": 29.24,
+"end": 29.56,
+"beat": "paso2"
+},
+{
+"word": "la",
+"start": 29.56,
+"end": 29.68,
+"beat": "paso2"
+},
+{
+"word": "caja",
+"start": 29.68,
+"end": 29.9,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 29.9,
+"end": 30.02,
+"beat": "paso2"
+},
+{
+"word": "arriba",
+"start": 30.02,
+"end": 30.22,
+"beat": "paso2"
+},
+{
+"word": "abajo,",
+"start": 30.22,
+"end": 30.54,
+"beat": "paso2"
+},
+{
+"word": "y",
+"start": 30.84,
+"end": 30.96,
+"beat": "paso2"
+},
+{
+"word": "las",
+"start": 30.96,
+"end": 31.12,
+"beat": "paso2"
+},
+{
+"word": "alas",
+"start": 31.12,
+"end": 31.3,
+"beat": "paso2"
+},
+{
+"word": "suben.",
+"start": 31.3,
+"end": 31.64,
+"beat": "paso2"
+},
+{
+"word": "Los",
+"start": 32.36,
+"end": 32.8,
+"beat": "paso2"
+},
+{
+"word": "otros",
+"start": 32.8,
+"end": 33.02,
+"beat": "paso2"
+},
+{
+"word": "la",
+"start": 33.02,
+"end": 33.22,
+"beat": "paso2"
+},
+{
+"word": "aprietan",
+"start": 33.22,
+"end": 33.58,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 33.58,
+"end": 33.68,
+"beat": "paso2"
+},
+{
+"word": "delante",
+"start": 33.68,
+"end": 33.98,
+"beat": "paso2"
+},
+{
+"word": "atrás,",
+"start": 33.98,
+"end": 34.26,
+"beat": "paso2"
+},
+{
+"word": "y",
+"start": 34.5,
+"end": 34.66,
+"beat": "paso2"
+},
+{
+"word": "las",
+"start": 34.66,
+"end": 34.8,
+"beat": "paso2"
+},
+{
+"word": "alas",
+"start": 34.8,
+"end": 35.0,
+"beat": "paso2"
+},
+{
+"word": "bajan.",
+"start": 35.0,
+"end": 35.36,
+"beat": "paso2"
+},
+{
+"word": "Y",
+"start": 35.9,
+"end": 36.12,
+"beat": "paso3"
+},
+{
+"word": "aquí",
+"start": 36.12,
+"end": 36.28,
+"beat": "paso3"
+},
+{
+"word": "está",
+"start": 36.28,
+"end": 36.52,
+"beat": "paso3"
+},
+{
+"word": "el",
+"start": 36.52,
+"end": 36.64,
+"beat": "paso3"
+},
+{
+"word": "truco:",
+"start": 36.64,
+"end": 36.92,
+"beat": "paso3"
+},
+{
+"word": "cuando",
+"start": 37.2,
+"end": 37.38,
+"beat": "paso3"
+},
+{
+"word": "uno",
+"start": 37.38,
+"end": 37.58,
+"beat": "paso3"
+},
+{
+"word": "de",
+"start": 37.58,
+"end": 37.7,
+"beat": "paso3"
+},
+{
+"word": "esos",
+"start": 37.7,
+"end": 37.86,
+"beat": "paso3"
+},
+{
+"word": "músculos",
+"start": 37.86,
+"end": 38.24,
+"beat": "paso3"
+},
+{
+"word": "se",
+"start": 38.24,
+"end": 38.44,
+"beat": "paso3"
+},
+{
+"word": "estira,",
+"start": 38.44,
+"end": 38.7,
+"beat": "paso3"
+},
+{
+"word": "se",
+"start": 38.98,
+"end": 39.1,
+"beat": "paso3"
+},
+{
+"word": "contrae",
+"start": 39.1,
+"end": 39.46,
+"beat": "paso3"
+},
+{
+"word": "solo,",
+"start": 39.46,
+"end": 39.68,
+"beat": "paso3"
+},
+{
+"word": "sin",
+"start": 39.96,
+"end": 40.12,
+"beat": "paso3"
+},
+{
+"word": "esperar",
+"start": 40.12,
+"end": 40.4,
+"beat": "paso3"
+},
+{
+"word": "al",
+"start": 40.4,
+"end": 40.56,
+"beat": "paso3"
+},
+{
+"word": "cerebro.",
+"start": 40.56,
+"end": 41.02,
+"beat": "paso3"
+},
+{
+"word": "Uno",
+"start": 41.56,
+"end": 42.0,
+"beat": "paso3"
+},
+{
+"word": "estira",
+"start": 42.0,
+"end": 42.32,
+"beat": "paso3"
+},
+{
+"word": "al",
+"start": 42.32,
+"end": 42.44,
+"beat": "paso3"
+},
+{
+"word": "otro,",
+"start": 42.44,
+"end": 42.62,
+"beat": "paso3"
+},
+{
+"word": "el",
+"start": 42.9,
+"end": 43.0,
+"beat": "paso3"
+},
+{
+"word": "otro",
+"start": 43.0,
+"end": 43.14,
+"beat": "paso3"
+},
+{
+"word": "al",
+"start": 43.14,
+"end": 43.26,
+"beat": "paso3"
+},
+{
+"word": "uno…",
+"start": 43.26,
+"end": 43.48,
+"beat": "paso3"
+},
+{
+"word": "y",
+"start": 43.7,
+"end": 43.8,
+"beat": "paso3"
+},
+{
+"word": "con",
+"start": 43.8,
+"end": 43.92,
+"beat": "paso3"
+},
+{
+"word": "una",
+"start": 43.92,
+"end": 44.08,
+"beat": "paso3"
+},
+{
+"word": "sola",
+"start": 44.08,
+"end": 44.26,
+"beat": "paso3"
+},
+{
+"word": "orden",
+"start": 44.26,
+"end": 44.54,
+"beat": "paso3"
+},
+{
+"word": "del",
+"start": 44.54,
+"end": 44.7,
+"beat": "paso3"
+},
+{
+"word": "nervio",
+"start": 44.7,
+"end": 44.96,
+"beat": "paso3"
+},
+{
+"word": "salen",
+"start": 44.96,
+"end": 45.3,
+"beat": "paso3"
+},
+{
+"word": "muchos",
+"start": 45.3,
+"end": 45.52,
+"beat": "paso3"
+},
+{
+"word": "aleteos.",
+"start": 45.52,
+"end": 46.02,
+"beat": "paso3"
+},
+{
+"word": "Además,",
+"start": 46.54,
+"end": 46.98,
+"beat": "paso4"
+},
+{
+"word": "las",
+"start": 47.32,
+"end": 47.48,
+"beat": "paso4"
+},
+{
+"word": "alas",
+"start": 47.48,
+"end": 47.7,
+"beat": "paso4"
+},
+{
+"word": "no",
+"start": 47.7,
+"end": 47.82,
+"beat": "paso4"
+},
+{
+"word": "solo",
+"start": 47.82,
+"end": 48.0,
+"beat": "paso4"
+},
+{
+"word": "suben",
+"start": 48.0,
+"end": 48.34,
+"beat": "paso4"
+},
+{
+"word": "y",
+"start": 48.34,
+"end": 48.4,
+"beat": "paso4"
+},
+{
+"word": "bajan:",
+"start": 48.4,
+"end": 48.72,
+"beat": "paso4"
+},
+{
+"word": "en",
+"start": 48.88,
+"end": 49.0,
+"beat": "paso4"
+},
+{
+"word": "cada",
+"start": 49.0,
+"end": 49.16,
+"beat": "paso4"
+},
+{
+"word": "golpe",
+"start": 49.16,
+"end": 49.38,
+"beat": "paso4"
+},
+{
+"word": "se",
+"start": 49.38,
+"end": 49.6,
+"beat": "paso4"
+},
+{
+"word": "dan",
+"start": 49.6,
+"end": 49.72,
+"beat": "paso4"
+},
+{
+"word": "la",
+"start": 49.72,
+"end": 49.82,
+"beat": "paso4"
+},
+{
+"word": "vuelta,",
+"start": 49.82,
+"end": 50.06,
+"beat": "paso4"
+},
+{
+"word": "como",
+"start": 50.38,
+"end": 50.54,
+"beat": "paso4"
+},
+{
+"word": "un",
+"start": 50.54,
+"end": 50.72,
+"beat": "paso4"
+},
+{
+"word": "remo,",
+"start": 50.72,
+"end": 50.9,
+"beat": "paso4"
+},
+{
+"word": "y",
+"start": 50.9,
+"end": 51.42,
+"beat": "paso4"
+},
+{
+"word": "crean",
+"start": 51.42,
+"end": 51.68,
+"beat": "paso4"
+},
+{
+"word": "un",
+"start": 51.68,
+"end": 51.8,
+"beat": "paso4"
+},
+{
+"word": "remolino",
+"start": 51.8,
+"end": 52.18,
+"beat": "paso4"
+},
+{
+"word": "de",
+"start": 52.18,
+"end": 52.34,
+"beat": "paso4"
+},
+{
+"word": "aire",
+"start": 52.34,
+"end": 52.5,
+"beat": "paso4"
+},
+{
+"word": "encima",
+"start": 52.5,
+"end": 52.84,
+"beat": "paso4"
+},
+{
+"word": "que",
+"start": 52.84,
+"end": 53.0,
+"beat": "paso4"
+},
+{
+"word": "la",
+"start": 53.0,
+"end": 53.1,
+"beat": "paso4"
+},
+{
+"word": "sostiene.",
+"start": 53.1,
+"end": 53.5,
+"beat": "paso4"
+},
+{
+"word": "Cada",
+"start": 54.1,
+"end": 54.32,
+"beat": "paso5"
+},
+{
+"word": "aleteo",
+"start": 54.32,
+"end": 54.72,
+"beat": "paso5"
+},
+{
+"word": "empuja",
+"start": 54.72,
+"end": 55.06,
+"beat": "paso5"
+},
+{
+"word": "el",
+"start": 55.06,
+"end": 55.18,
+"beat": "paso5"
+},
+{
+"word": "aire.",
+"start": 55.18,
+"end": 55.38,
+"beat": "paso5"
+},
+{
+"word": "Doscientos",
+"start": 56.42,
+"end": 56.7,
+"beat": "paso5"
+},
+{
+"word": "treinta",
+"start": 56.7,
+"end": 56.98,
+"beat": "paso5"
+},
+{
+"word": "empujones",
+"start": 56.98,
+"end": 57.54,
+"beat": "paso5"
+},
+{
+"word": "por",
+"start": 57.54,
+"end": 57.74,
+"beat": "paso5"
+},
+{
+"word": "segundo",
+"start": 57.74,
+"end": 58.02,
+"beat": "paso5"
+},
+{
+"word": "son",
+"start": 58.02,
+"end": 58.26,
+"beat": "paso5"
+},
+{
+"word": "una",
+"start": 58.26,
+"end": 58.42,
+"beat": "paso5"
+},
+{
+"word": "nota",
+"start": 58.42,
+"end": 58.58,
+"beat": "paso5"
+},
+{
+"word": "grave:",
+"start": 58.58,
+"end": 58.88,
+"beat": "paso5"
+},
+{
+"word": "el",
+"start": 59.14,
+"end": 59.26,
+"beat": "paso5"
+},
+{
+"word": "zumbido",
+"start": 59.26,
+"end": 59.6,
+"beat": "paso5"
+},
+{
+"word": "que",
+"start": 59.6,
+"end": 59.74,
+"beat": "paso5"
+},
+{
+"word": "oyes.",
+"start": 59.74,
+"end": 60.06,
+"beat": "paso5"
+},
+{
+"word": "Tórax,",
+"start": 60.74,
+"end": 61.14,
+"beat": "junto"
+},
+{
+"word": "músculos,",
+"start": 61.42,
+"end": 61.8,
+"beat": "junto"
+},
+{
+"word": "estirón,",
+"start": 62.28,
+"end": 62.68,
+"beat": "junto"
+},
+{
+"word": "aleteo,",
+"start": 63.0,
+"end": 63.4,
+"beat": "junto"
+},
+{
+"word": "remolino,",
+"start": 63.74,
+"end": 64.16,
+"beat": "junto"
+},
+{
+"word": "zumbido.",
+"start": 64.48,
+"end": 64.94,
+"beat": "junto"
+},
+{
+"word": "Y",
+"start": 64.94,
+"end": 65.52,
+"beat": "acelera"
+},
+{
+"word": "ahora,",
+"start": 65.52,
+"end": 65.74,
+"beat": "acelera"
+},
+{
+"word": "a",
+"start": 66.1,
+"end": 66.16,
+"beat": "acelera"
+},
+{
+"word": "velocidad",
+"start": 66.16,
+"end": 66.46,
+"beat": "acelera"
+},
+{
+"word": "real.",
+"start": 66.46,
+"end": 66.9,
+"beat": "acelera"
+},
+{
+"word": "Y",
+"start": 70.52,
+"end": 71.08,
+"beat": "remate"
+},
+{
+"word": "ojo:",
+"start": 71.08,
+"end": 71.32,
+"beat": "remate"
+},
+{
+"word": "durante",
+"start": 71.58,
+"end": 71.74,
+"beat": "remate"
+},
+{
+"word": "años",
+"start": 71.74,
+"end": 72.04,
+"beat": "remate"
+},
+{
+"word": "se",
+"start": 72.04,
+"end": 72.18,
+"beat": "remate"
+},
+{
+"word": "dijo",
+"start": 72.18,
+"end": 72.38,
+"beat": "remate"
+},
+{
+"word": "que,",
+"start": 72.38,
+"end": 72.58,
+"beat": "remate"
+},
+{
+"word": "según",
+"start": 72.84,
+"end": 73.04,
+"beat": "remate"
+},
+{
+"word": "la",
+"start": 73.04,
+"end": 73.2,
+"beat": "remate"
+},
+{
+"word": "física,",
+"start": 73.2,
+"end": 73.44,
+"beat": "remate"
+},
+{
+"word": "los",
+"start": 73.86,
+"end": 73.94,
+"beat": "remate"
+},
+{
+"word": "abejorros",
+"start": 73.94,
+"end": 74.4,
+"beat": "remate"
+},
+{
+"word": "no",
+"start": 74.4,
+"end": 74.58,
+"beat": "remate"
+},
+{
+"word": "deberían",
+"start": 74.58,
+"end": 74.94,
+"beat": "remate"
+},
+{
+"word": "poder",
+"start": 74.94,
+"end": 75.14,
+"beat": "remate"
+},
+{
+"word": "volar.",
+"start": 75.14,
+"end": 75.68,
+"beat": "remate"
+},
+{
+"word": "Era",
+"start": 76.34,
+"end": 76.62,
+"beat": "remate"
+},
+{
+"word": "un",
+"start": 76.62,
+"end": 76.78,
+"beat": "remate"
+},
+{
+"word": "puto",
+"start": 76.78,
+"end": 77.0,
+"beat": "remate"
+},
+{
+"word": "cálculo",
+"start": 77.0,
+"end": 77.3,
+"beat": "remate"
+},
+{
+"word": "hecho",
+"start": 77.3,
+"end": 77.58,
+"beat": "remate"
+},
+{
+"word": "como",
+"start": 77.58,
+"end": 77.82,
+"beat": "remate"
+},
+{
+"word": "si",
+"start": 77.82,
+"end": 77.96,
+"beat": "remate"
+},
+{
+"word": "tuvieran",
+"start": 77.96,
+"end": 78.28,
+"beat": "remate"
+},
+{
+"word": "alas",
+"start": 78.28,
+"end": 78.52,
+"beat": "remate"
+},
+{
+"word": "de",
+"start": 78.52,
+"end": 78.62,
+"beat": "remate"
+},
+{
+"word": "avión.",
+"start": 78.62,
+"end": 78.88,
+"beat": "remate"
+},
+{
+"word": "Porque",
+"start": 79.48,
+"end": 80.04,
+"beat": "remate"
+},
+{
+"word": "una",
+"start": 80.04,
+"end": 80.24,
+"beat": "remate"
+},
+{
+"word": "abeja…",
+"start": 80.24,
+"end": 80.56,
+"beat": "remate"
+}
+]

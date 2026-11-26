@@ -1,0 +1,48 @@
+¿POR QUÉ SUENA EL TRUENO?
+Short vertical 9:16 · español · 82 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 47/100 · The Statistic
+
+======================================================================
+[0:00.25–0:06.72] GANCHO  [CARTEL: ¿POR QUÉ SUENA EL TRUENO? / EL AIRE, A 30.000 °C]
+VOZ: Un puto rayo calienta el aire a unos treinta mil grados… cinco veces más que la superficie del Sol. Y eso es lo que oyes.
+
+[0:07.22–0:15.93] IMPOSIBLE
+VOZ: El trueno no es un choque de nubes. No es el rayo rompiendo nada. No hay ningún tambor ahí arriba. Y aun así hace temblar las ventanas.
+
+[0:16.63–0:18.23] FRENO
+VOZ: Vamos a verlo mil veces más lento.
+
+[0:19.13–0:27.74] PASO1  [CARTEL: ① ¿QUÉ ES UN RAYO? / UNA CHISPA GIGANTE]
+VOZ: Dentro de la nube, el hielo y el granizo chocan y separan cargas eléctricas. Cuando se acumulan demasiadas, salta una chispa gigante entre la nube y el suelo: el rayo.
+
+[0:28.34–0:34.34] PASO2  [CARTEL: ② ¿QUÉ LE HACE AL AIRE? / LO CALIENTA DE GOLPE]
+VOZ: Esa chispa atraviesa un canal de aire de pocos centímetros de ancho, y lo calienta a unos treinta mil grados en una fracción de segundo.
+
+[0:34.94–0:42.96] PASO3  [CARTEL: ③ ¿Y ENTONCES? / EL AIRE EXPLOTA]
+VOZ: El aire tan caliente se expande de golpe, más rápido que el sonido. Empuja al aire de alrededor como una explosión, y esa onda de choque… es el trueno.
+
+[0:43.56–0:52.38] PASO4  [CARTEL: ④ ¿POR QUÉ LLEGA TARDE? / EL SONIDO VA MÁS LENTO]
+VOZ: La luz del rayo te llega casi al instante. El sonido viaja a unos trescientos cuarenta metros por segundo. Por eso primero ves el rayo, y luego lo oyes.
+
+[0:52.98–1:00.32] PASO5  [CARTEL: ⑤ ¿A QUÉ DISTANCIA ESTÁ? / SEGUNDOS ÷ 3 = KM]
+VOZ: Cuenta los segundos entre el rayo y el trueno, y divide entre tres. Eso son, más o menos, los kilómetros que te separan de la tormenta.
+
+[1:00.92–1:04.64] JUNTO  [CARTEL: TODO JUNTO / DE LA NUBE A TU OÍDO]
+VOZ: Cargas, chispa, calor, explosión, onda, tu oído.
+
+[1:05.04–1:06.61] ACELERA  [CARTEL: A VELOCIDAD REAL / 343 METROS POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:10.61–1:21.60] REMATE  [CARTEL: Y OJO: / POR QUÉ RETUMBA]
+VOZ: Y ojo: el rayo es una línea larguísima. Cada trozo está a una distancia distinta de ti, así que el sonido te va llegando por partes. Por eso el trueno retumba. Porque un puto rayo…
+
+======================================================================
+245 palabras · 82 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- El canal del rayo alcanza unos 30.000 °C, unas 5 veces la superficie del Sol (~5.500 °C).
+- La expansión brusca del aire genera una onda de choque que se convierte en el trueno.
+- Sonido en aire a 20 °C ≈ 343 m/s; la luz llega prácticamente al instante.
+- Regla: segundos ÷ 3 ≈ kilómetros.
+- El trueno retumba porque cada tramo del rayo está a distinta distancia.

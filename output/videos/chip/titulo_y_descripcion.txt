@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Cómo funciona el chip de tu móvil: 3.000 millones de tics
+   98/100 con la miniatura ← RECOMENDADO
+2) 3.000 millones de interruptores por segundo en tu móvil
+   98/100
+3) Por qué se calienta tu móvil
+   94/100 · sin cifra
+
+MINIATURA: "NO PIENSA NADA" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona el chip de tu móvil: miles de millones de interruptores que cambian unos 3.000 millones de veces por segundo.
+Qué son los unos y ceros y por qué se calienta tu móvil.
+
+Lo que se ve en el video:
+① ¿Qué Hay Dentro? Más de 10.000 millones de interruptores
+② ¿Cómo Se Enciende? La puerta del transistor
+③ ¿Para Qué Sirve? Reglas con unos y ceros
+④ ¿Quién Marca El Ritmo? El reloj
+⑤ ¿Y Una Foto? Solo unos y ceros
+
+Datos: Un transistor actúa como interruptor controlado por la tensión en su puerta. Los chips de móviles de gama alta tienen más de 10.000 millones de transistores. Con transistores se construyen puertas lógicas (AND, OR…) que suman y comparan.
+
+Animación y voz hechas desde cero.
+
+#tecnologia #chip #movil #comofunciona #ciencia #shorts
+
+TAGS (solo para desambiguar)
+chip, procesador, cómo funciona un procesador, transistor, unos y ceros, binario, móvil, reloj del procesador, tecnología, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona el chip de un móvil" → título ✔ · línea 1 ✔
+2. "por qué se calienta el móvil" → línea 2 ✔
+3. "qué es un transistor" → descripción (datos) ✔
+
+¿Lo publicas así o cambias algo?

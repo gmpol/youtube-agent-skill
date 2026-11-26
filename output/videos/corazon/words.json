@@ -1,0 +1,1317 @@
+[
+{
+"word": "Tu",
+"start": 0.0,
+"end": 0.34,
+"beat": "gancho"
+},
+{
+"word": "puto",
+"start": 0.34,
+"end": 0.56,
+"beat": "gancho"
+},
+{
+"word": "corazón",
+"start": 0.56,
+"end": 0.82,
+"beat": "gancho"
+},
+{
+"word": "no",
+"start": 0.82,
+"end": 1.06,
+"beat": "gancho"
+},
+{
+"word": "espera",
+"start": 1.06,
+"end": 1.28,
+"beat": "gancho"
+},
+{
+"word": "a",
+"start": 1.28,
+"end": 1.33,
+"beat": "gancho",
+"guessed": true
+},
+{
+"word": "que",
+"start": 1.28,
+"end": 1.48,
+"beat": "gancho"
+},
+{
+"word": "se",
+"start": 1.48,
+"end": 1.6,
+"beat": "gancho"
+},
+{
+"word": "lo",
+"start": 1.6,
+"end": 1.7,
+"beat": "gancho"
+},
+{
+"word": "pidas.",
+"start": 1.7,
+"end": 1.9,
+"beat": "gancho"
+},
+{
+"word": "Late",
+"start": 2.76,
+"end": 3.2,
+"beat": "gancho"
+},
+{
+"word": "solo…",
+"start": 3.2,
+"end": 3.46,
+"beat": "gancho"
+},
+{
+"word": "unas",
+"start": 3.72,
+"end": 3.9,
+"beat": "gancho"
+},
+{
+"word": "cien",
+"start": 3.9,
+"end": 4.1,
+"beat": "gancho"
+},
+{
+"word": "mil",
+"start": 4.1,
+"end": 4.28,
+"beat": "gancho"
+},
+{
+"word": "veces",
+"start": 4.28,
+"end": 4.5,
+"beat": "gancho"
+},
+{
+"word": "al",
+"start": 4.5,
+"end": 4.7,
+"beat": "gancho"
+},
+{
+"word": "día.",
+"start": 4.7,
+"end": 4.88,
+"beat": "gancho"
+},
+{
+"word": "No",
+"start": 5.4,
+"end": 5.62,
+"beat": "imposible"
+},
+{
+"word": "lo",
+"start": 5.62,
+"end": 5.74,
+"beat": "imposible"
+},
+{
+"word": "controlas.",
+"start": 5.74,
+"end": 6.34,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 6.9,
+"end": 7.34,
+"beat": "imposible"
+},
+{
+"word": "lo",
+"start": 7.34,
+"end": 7.46,
+"beat": "imposible"
+},
+{
+"word": "puedes",
+"start": 7.46,
+"end": 7.68,
+"beat": "imposible"
+},
+{
+"word": "parar.",
+"start": 7.68,
+"end": 7.98,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 8.7,
+"end": 9.14,
+"beat": "imposible"
+},
+{
+"word": "descansa",
+"start": 9.14,
+"end": 9.58,
+"beat": "imposible"
+},
+{
+"word": "ni",
+"start": 9.58,
+"end": 9.72,
+"beat": "imposible"
+},
+{
+"word": "cuando",
+"start": 9.72,
+"end": 9.9,
+"beat": "imposible"
+},
+{
+"word": "duermes.",
+"start": 9.9,
+"end": 10.4,
+"beat": "imposible"
+},
+{
+"word": "Y",
+"start": 11.0,
+"end": 11.44,
+"beat": "imposible"
+},
+{
+"word": "aun",
+"start": 11.44,
+"end": 11.54,
+"beat": "imposible"
+},
+{
+"word": "así,",
+"start": 11.54,
+"end": 11.84,
+"beat": "imposible"
+},
+{
+"word": "nadie",
+"start": 12.18,
+"end": 12.32,
+"beat": "imposible"
+},
+{
+"word": "le",
+"start": 12.32,
+"end": 12.5,
+"beat": "imposible"
+},
+{
+"word": "da",
+"start": 12.5,
+"end": 12.58,
+"beat": "imposible"
+},
+{
+"word": "la",
+"start": 12.58,
+"end": 12.66,
+"beat": "imposible"
+},
+{
+"word": "orden.",
+"start": 12.66,
+"end": 12.94,
+"beat": "imposible"
+},
+{
+"word": "Vamos",
+"start": 13.5,
+"end": 13.94,
+"beat": "freno"
+},
+{
+"word": "a",
+"start": 13.94,
+"end": 14.12,
+"beat": "freno"
+},
+{
+"word": "verlo",
+"start": 14.12,
+"end": 14.34,
+"beat": "freno"
+},
+{
+"word": "diez",
+"start": 14.34,
+"end": 14.52,
+"beat": "freno"
+},
+{
+"word": "veces",
+"start": 14.52,
+"end": 14.8,
+"beat": "freno"
+},
+{
+"word": "más",
+"start": 14.8,
+"end": 15.02,
+"beat": "freno"
+},
+{
+"word": "lento.",
+"start": 15.02,
+"end": 15.3,
+"beat": "freno"
+},
+{
+"word": "Tu",
+"start": 15.94,
+"end": 16.38,
+"beat": "paso1"
+},
+{
+"word": "corazón",
+"start": 16.38,
+"end": 16.7,
+"beat": "paso1"
+},
+{
+"word": "es",
+"start": 16.7,
+"end": 16.88,
+"beat": "paso1"
+},
+{
+"word": "un",
+"start": 16.88,
+"end": 16.98,
+"beat": "paso1"
+},
+{
+"word": "músculo",
+"start": 16.98,
+"end": 17.3,
+"beat": "paso1"
+},
+{
+"word": "del",
+"start": 17.3,
+"end": 17.46,
+"beat": "paso1"
+},
+{
+"word": "tamaño",
+"start": 17.46,
+"end": 17.78,
+"beat": "paso1"
+},
+{
+"word": "de",
+"start": 17.78,
+"end": 17.88,
+"beat": "paso1"
+},
+{
+"word": "un",
+"start": 17.88,
+"end": 17.98,
+"beat": "paso1"
+},
+{
+"word": "puño,",
+"start": 17.98,
+"end": 18.28,
+"beat": "paso1"
+},
+{
+"word": "con",
+"start": 18.44,
+"end": 18.6,
+"beat": "paso1"
+},
+{
+"word": "cuatro",
+"start": 18.6,
+"end": 18.82,
+"beat": "paso1"
+},
+{
+"word": "cámaras.",
+"start": 18.82,
+"end": 19.5,
+"beat": "paso1"
+},
+{
+"word": "El",
+"start": 20.14,
+"end": 20.36,
+"beat": "paso1"
+},
+{
+"word": "lado",
+"start": 20.36,
+"end": 20.54,
+"beat": "paso1"
+},
+{
+"word": "derecho",
+"start": 20.54,
+"end": 20.86,
+"beat": "paso1"
+},
+{
+"word": "manda",
+"start": 20.86,
+"end": 21.24,
+"beat": "paso1"
+},
+{
+"word": "la",
+"start": 21.24,
+"end": 21.34,
+"beat": "paso1"
+},
+{
+"word": "sangre",
+"start": 21.34,
+"end": 21.58,
+"beat": "paso1"
+},
+{
+"word": "a",
+"start": 21.58,
+"end": 21.72,
+"beat": "paso1"
+},
+{
+"word": "los",
+"start": 21.72,
+"end": 21.82,
+"beat": "paso1"
+},
+{
+"word": "pulmones.",
+"start": 21.82,
+"end": 22.22,
+"beat": "paso1"
+},
+{
+"word": "El",
+"start": 22.94,
+"end": 23.38,
+"beat": "paso1"
+},
+{
+"word": "izquierdo,",
+"start": 23.38,
+"end": 23.82,
+"beat": "paso1"
+},
+{
+"word": "a",
+"start": 24.1,
+"end": 24.2,
+"beat": "paso1"
+},
+{
+"word": "todo",
+"start": 24.2,
+"end": 24.36,
+"beat": "paso1"
+},
+{
+"word": "el",
+"start": 24.36,
+"end": 24.52,
+"beat": "paso1"
+},
+{
+"word": "cuerpo.",
+"start": 24.52,
+"end": 24.78,
+"beat": "paso1"
+},
+{
+"word": "Arriba,",
+"start": 25.46,
+"end": 25.9,
+"beat": "paso2"
+},
+{
+"word": "en",
+"start": 26.06,
+"end": 26.18,
+"beat": "paso2"
+},
+{
+"word": "el",
+"start": 26.18,
+"end": 26.28,
+"beat": "paso2"
+},
+{
+"word": "lado",
+"start": 26.28,
+"end": 26.44,
+"beat": "paso2"
+},
+{
+"word": "derecho,",
+"start": 26.44,
+"end": 26.78,
+"beat": "paso2"
+},
+{
+"word": "tiene",
+"start": 27.1,
+"end": 27.32,
+"beat": "paso2"
+},
+{
+"word": "un",
+"start": 27.32,
+"end": 27.44,
+"beat": "paso2"
+},
+{
+"word": "grupito",
+"start": 27.44,
+"end": 27.78,
+"beat": "paso2"
+},
+{
+"word": "de",
+"start": 27.78,
+"end": 27.88,
+"beat": "paso2"
+},
+{
+"word": "células",
+"start": 27.88,
+"end": 28.16,
+"beat": "paso2"
+},
+{
+"word": "que",
+"start": 28.16,
+"end": 28.34,
+"beat": "paso2"
+},
+{
+"word": "se",
+"start": 28.34,
+"end": 28.44,
+"beat": "paso2"
+},
+{
+"word": "encienden",
+"start": 28.44,
+"end": 28.74,
+"beat": "paso2"
+},
+{
+"word": "solas,",
+"start": 28.74,
+"end": 29.22,
+"beat": "paso2"
+},
+{
+"word": "una",
+"start": 29.42,
+"end": 29.58,
+"beat": "paso2"
+},
+{
+"word": "y",
+"start": 29.58,
+"end": 29.7,
+"beat": "paso2"
+},
+{
+"word": "otra",
+"start": 29.7,
+"end": 29.8,
+"beat": "paso2"
+},
+{
+"word": "vez.",
+"start": 29.8,
+"end": 30.1,
+"beat": "paso2"
+},
+{
+"word": "Es",
+"start": 30.64,
+"end": 31.12,
+"beat": "paso2"
+},
+{
+"word": "su",
+"start": 31.12,
+"end": 31.26,
+"beat": "paso2"
+},
+{
+"word": "marcapasos",
+"start": 31.26,
+"end": 31.74,
+"beat": "paso2"
+},
+{
+"word": "natural,",
+"start": 31.74,
+"end": 32.08,
+"beat": "paso2"
+},
+{
+"word": "y",
+"start": 32.36,
+"end": 32.46,
+"beat": "paso2"
+},
+{
+"word": "marca",
+"start": 32.46,
+"end": 32.58,
+"beat": "paso2"
+},
+{
+"word": "el",
+"start": 32.58,
+"end": 32.78,
+"beat": "paso2"
+},
+{
+"word": "ritmo",
+"start": 32.78,
+"end": 33.06,
+"beat": "paso2"
+},
+{
+"word": "sin",
+"start": 33.06,
+"end": 33.22,
+"beat": "paso2"
+},
+{
+"word": "que",
+"start": 33.22,
+"end": 33.34,
+"beat": "paso2"
+},
+{
+"word": "el",
+"start": 33.34,
+"end": 33.46,
+"beat": "paso2"
+},
+{
+"word": "cerebro",
+"start": 33.46,
+"end": 33.76,
+"beat": "paso2"
+},
+{
+"word": "tenga",
+"start": 33.76,
+"end": 33.96,
+"beat": "paso2"
+},
+{
+"word": "que",
+"start": 33.96,
+"end": 34.12,
+"beat": "paso2"
+},
+{
+"word": "mandarlo.",
+"start": 34.12,
+"end": 34.52,
+"beat": "paso2"
+},
+{
+"word": "Cada",
+"start": 35.12,
+"end": 35.36,
+"beat": "paso3"
+},
+{
+"word": "chispa",
+"start": 35.36,
+"end": 35.72,
+"beat": "paso3"
+},
+{
+"word": "recorre",
+"start": 35.72,
+"end": 36.06,
+"beat": "paso3"
+},
+{
+"word": "el",
+"start": 36.06,
+"end": 36.16,
+"beat": "paso3"
+},
+{
+"word": "corazón",
+"start": 36.16,
+"end": 36.44,
+"beat": "paso3"
+},
+{
+"word": "como",
+"start": 36.44,
+"end": 36.7,
+"beat": "paso3"
+},
+{
+"word": "una",
+"start": 36.7,
+"end": 36.92,
+"beat": "paso3"
+},
+{
+"word": "ola:",
+"start": 36.92,
+"end": 37.16,
+"beat": "paso3"
+},
+{
+"word": "primero",
+"start": 37.36,
+"end": 37.64,
+"beat": "paso3"
+},
+{
+"word": "se",
+"start": 37.64,
+"end": 37.84,
+"beat": "paso3"
+},
+{
+"word": "aprietan",
+"start": 37.84,
+"end": 38.18,
+"beat": "paso3"
+},
+{
+"word": "las",
+"start": 38.18,
+"end": 38.3,
+"beat": "paso3"
+},
+{
+"word": "aurículas,",
+"start": 38.3,
+"end": 38.84,
+"beat": "paso3"
+},
+{
+"word": "arriba,",
+"start": 39.06,
+"end": 39.3,
+"beat": "paso3"
+},
+{
+"word": "y",
+"start": 39.68,
+"end": 39.88,
+"beat": "paso3"
+},
+{
+"word": "una",
+"start": 39.88,
+"end": 40.02,
+"beat": "paso3"
+},
+{
+"word": "fracción",
+"start": 40.02,
+"end": 40.32,
+"beat": "paso3"
+},
+{
+"word": "de",
+"start": 40.32,
+"end": 40.48,
+"beat": "paso3"
+},
+{
+"word": "segundo",
+"start": 40.48,
+"end": 40.74,
+"beat": "paso3"
+},
+{
+"word": "después,",
+"start": 40.74,
+"end": 41.08,
+"beat": "paso3"
+},
+{
+"word": "los",
+"start": 41.52,
+"end": 41.62,
+"beat": "paso3"
+},
+{
+"word": "ventrículos,",
+"start": 41.62,
+"end": 42.02,
+"beat": "paso3"
+},
+{
+"word": "abajo.",
+"start": 42.4,
+"end": 42.64,
+"beat": "paso3"
+},
+{
+"word": "Entre",
+"start": 43.36,
+"end": 43.6,
+"beat": "paso4"
+},
+{
+"word": "cámara",
+"start": 43.6,
+"end": 43.88,
+"beat": "paso4"
+},
+{
+"word": "y",
+"start": 43.88,
+"end": 44.06,
+"beat": "paso4"
+},
+{
+"word": "cámara",
+"start": 44.06,
+"end": 44.3,
+"beat": "paso4"
+},
+{
+"word": "hay",
+"start": 44.3,
+"end": 44.52,
+"beat": "paso4"
+},
+{
+"word": "válvulas",
+"start": 44.52,
+"end": 44.82,
+"beat": "paso4"
+},
+{
+"word": "que",
+"start": 44.82,
+"end": 45.06,
+"beat": "paso4"
+},
+{
+"word": "solo",
+"start": 45.06,
+"end": 45.24,
+"beat": "paso4"
+},
+{
+"word": "se",
+"start": 45.24,
+"end": 45.42,
+"beat": "paso4"
+},
+{
+"word": "abren",
+"start": 45.42,
+"end": 45.62,
+"beat": "paso4"
+},
+{
+"word": "hacia",
+"start": 45.62,
+"end": 45.78,
+"beat": "paso4"
+},
+{
+"word": "delante.",
+"start": 45.78,
+"end": 46.14,
+"beat": "paso4"
+},
+{
+"word": "Cuando",
+"start": 46.82,
+"end": 47.3,
+"beat": "paso4"
+},
+{
+"word": "se",
+"start": 47.3,
+"end": 47.54,
+"beat": "paso4"
+},
+{
+"word": "cierran",
+"start": 47.54,
+"end": 47.8,
+"beat": "paso4"
+},
+{
+"word": "de",
+"start": 47.8,
+"end": 47.92,
+"beat": "paso4"
+},
+{
+"word": "golpe,",
+"start": 47.92,
+"end": 48.1,
+"beat": "paso4"
+},
+{
+"word": "hacen",
+"start": 48.4,
+"end": 48.62,
+"beat": "paso4"
+},
+{
+"word": "ruido:",
+"start": 48.62,
+"end": 48.96,
+"beat": "paso4"
+},
+{
+"word": "ese",
+"start": 49.2,
+"end": 49.4,
+"beat": "paso4"
+},
+{
+"word": "pum-pum",
+"start": 49.4,
+"end": 49.74,
+"beat": "paso4"
+},
+{
+"word": "que",
+"start": 49.74,
+"end": 49.94,
+"beat": "paso4"
+},
+{
+"word": "oyes",
+"start": 49.94,
+"end": 50.12,
+"beat": "paso4"
+},
+{
+"word": "son",
+"start": 50.12,
+"end": 50.3,
+"beat": "paso4"
+},
+{
+"word": "las",
+"start": 50.3,
+"end": 50.44,
+"beat": "paso4"
+},
+{
+"word": "válvulas",
+"start": 50.44,
+"end": 50.78,
+"beat": "paso4"
+},
+{
+"word": "cerrándose.",
+"start": 50.78,
+"end": 51.36,
+"beat": "paso4"
+},
+{
+"word": "El",
+"start": 51.94,
+"end": 52.18,
+"beat": "paso5"
+},
+{
+"word": "cerebro",
+"start": 52.18,
+"end": 52.52,
+"beat": "paso5"
+},
+{
+"word": "no",
+"start": 52.52,
+"end": 52.68,
+"beat": "paso5"
+},
+{
+"word": "da",
+"start": 52.68,
+"end": 52.76,
+"beat": "paso5"
+},
+{
+"word": "la",
+"start": 52.76,
+"end": 52.86,
+"beat": "paso5"
+},
+{
+"word": "orden,",
+"start": 52.86,
+"end": 53.16,
+"beat": "paso5"
+},
+{
+"word": "pero",
+"start": 53.42,
+"end": 53.6,
+"beat": "paso5"
+},
+{
+"word": "sí",
+"start": 53.6,
+"end": 53.74,
+"beat": "paso5"
+},
+{
+"word": "puede",
+"start": 53.74,
+"end": 53.94,
+"beat": "paso5"
+},
+{
+"word": "acelerarla",
+"start": 53.94,
+"end": 54.42,
+"beat": "paso5"
+},
+{
+"word": "o",
+"start": 54.42,
+"end": 54.58,
+"beat": "paso5"
+},
+{
+"word": "frenarla.",
+"start": 54.58,
+"end": 54.98,
+"beat": "paso5"
+},
+{
+"word": "Corres,",
+"start": 55.86,
+"end": 56.34,
+"beat": "paso5"
+},
+{
+"word": "te",
+"start": 56.6,
+"end": 56.72,
+"beat": "paso5"
+},
+{
+"word": "asustas,",
+"start": 56.72,
+"end": 57.16,
+"beat": "paso5"
+},
+{
+"word": "y",
+"start": 57.36,
+"end": 57.44,
+"beat": "paso5"
+},
+{
+"word": "el",
+"start": 57.44,
+"end": 57.52,
+"beat": "paso5"
+},
+{
+"word": "marcapasos",
+"start": 57.52,
+"end": 58.02,
+"beat": "paso5"
+},
+{
+"word": "va",
+"start": 58.02,
+"end": 58.18,
+"beat": "paso5"
+},
+{
+"word": "más",
+"start": 58.18,
+"end": 58.34,
+"beat": "paso5"
+},
+{
+"word": "rápido.",
+"start": 58.34,
+"end": 58.62,
+"beat": "paso5"
+},
+{
+"word": "Marcapasos,",
+"start": 59.52,
+"end": 60.08,
+"beat": "junto"
+},
+{
+"word": "chispa,",
+"start": 60.3,
+"end": 60.68,
+"beat": "junto"
+},
+{
+"word": "aurículas,",
+"start": 60.96,
+"end": 61.52,
+"beat": "junto"
+},
+{
+"word": "ventrículos,",
+"start": 61.84,
+"end": 62.32,
+"beat": "junto"
+},
+{
+"word": "válvulas,",
+"start": 62.74,
+"end": 63.08,
+"beat": "junto"
+},
+{
+"word": "pum-pum.",
+"start": 63.52,
+"end": 63.88,
+"beat": "junto"
+},
+{
+"word": "Y",
+"start": 63.88,
+"end": 64.48,
+"beat": "acelera"
+},
+{
+"word": "ahora,",
+"start": 64.48,
+"end": 64.7,
+"beat": "acelera"
+},
+{
+"word": "a",
+"start": 65.04,
+"end": 65.14,
+"beat": "acelera"
+},
+{
+"word": "velocidad",
+"start": 65.14,
+"end": 65.42,
+"beat": "acelera"
+},
+{
+"word": "real.",
+"start": 65.42,
+"end": 65.84,
+"beat": "acelera"
+},
+{
+"word": "Y",
+"start": 69.48,
+"end": 70.04,
+"beat": "remate"
+},
+{
+"word": "ojo:",
+"start": 70.04,
+"end": 70.3,
+"beat": "remate"
+},
+{
+"word": "en",
+"start": 70.58,
+"end": 70.66,
+"beat": "remate"
+},
+{
+"word": "reposo,",
+"start": 70.66,
+"end": 71.04,
+"beat": "remate"
+},
+{
+"word": "tu",
+"start": 71.36,
+"end": 71.46,
+"beat": "remate"
+},
+{
+"word": "corazón",
+"start": 71.46,
+"end": 71.76,
+"beat": "remate"
+},
+{
+"word": "mueve",
+"start": 71.76,
+"end": 72.08,
+"beat": "remate"
+},
+{
+"word": "unos",
+"start": 72.08,
+"end": 72.22,
+"beat": "remate"
+},
+{
+"word": "cinco",
+"start": 72.22,
+"end": 72.5,
+"beat": "remate"
+},
+{
+"word": "litros",
+"start": 72.5,
+"end": 72.82,
+"beat": "remate"
+},
+{
+"word": "de",
+"start": 72.82,
+"end": 72.92,
+"beat": "remate"
+},
+{
+"word": "sangre",
+"start": 72.92,
+"end": 73.2,
+"beat": "remate"
+},
+{
+"word": "por",
+"start": 73.2,
+"end": 73.38,
+"beat": "remate"
+},
+{
+"word": "minuto.",
+"start": 73.38,
+"end": 73.82,
+"beat": "remate"
+},
+{
+"word": "Más",
+"start": 74.6,
+"end": 74.94,
+"beat": "remate"
+},
+{
+"word": "o",
+"start": 74.94,
+"end": 75.02,
+"beat": "remate"
+},
+{
+"word": "menos",
+"start": 75.02,
+"end": 75.16,
+"beat": "remate"
+},
+{
+"word": "toda",
+"start": 75.16,
+"end": 75.42,
+"beat": "remate"
+},
+{
+"word": "la",
+"start": 75.42,
+"end": 75.58,
+"beat": "remate"
+},
+{
+"word": "sangre",
+"start": 75.58,
+"end": 75.82,
+"beat": "remate"
+},
+{
+"word": "de",
+"start": 75.82,
+"end": 75.96,
+"beat": "remate"
+},
+{
+"word": "tu",
+"start": 75.96,
+"end": 76.08,
+"beat": "remate"
+},
+{
+"word": "cuerpo,",
+"start": 76.08,
+"end": 76.38,
+"beat": "remate"
+},
+{
+"word": "cada",
+"start": 76.66,
+"end": 76.82,
+"beat": "remate"
+},
+{
+"word": "minuto,",
+"start": 76.82,
+"end": 77.26,
+"beat": "remate"
+},
+{
+"word": "sin",
+"start": 77.4,
+"end": 77.6,
+"beat": "remate"
+},
+{
+"word": "parar.",
+"start": 77.6,
+"end": 77.82,
+"beat": "remate"
+},
+{
+"word": "Porque",
+"start": 78.4,
+"end": 79.04,
+"beat": "remate"
+},
+{
+"word": "tu",
+"start": 79.04,
+"end": 79.2,
+"beat": "remate"
+},
+{
+"word": "puto",
+"start": 79.2,
+"end": 79.42,
+"beat": "remate"
+},
+{
+"word": "corazón…",
+"start": 79.42,
+"end": 79.66,
+"beat": "remate"
+}
+]

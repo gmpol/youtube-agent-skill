@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu puto {\c&H4CC9F2&}corazón{\c&HFFFFFF&} no
+Dialogue: 0,0:00:01.01,0:00:01.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}espera a que se
+Dialogue: 0,0:00:01.55,0:00:02.50,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}lo pidas.
+Dialogue: 0,0:00:02.71,0:00:03.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Late {\c&H4CC9F2&}solo…{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.67,0:00:04.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unas {\c&H4CC9F2&}100.000{\c&HFFFFFF&} veces
+Dialogue: 0,0:00:04.45,0:00:05.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}al {\c&H4CC9F2&}día.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.35,0:00:06.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No lo {\c&H4CC9F2&}controlas.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.85,0:00:08.58,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No lo puedes {\c&H4CC9F2&}parar.{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.65,0:00:09.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No {\c&H4CC9F2&}descansa{\c&HFFFFFF&} ni cuando
+Dialogue: 0,0:00:09.85,0:00:10.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}duermes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.95,0:00:12.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así,
+Dialogue: 0,0:00:12.13,0:00:12.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}nadie le da la
+Dialogue: 0,0:00:12.61,0:00:13.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}orden.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.45,0:00:14.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo diez
+Dialogue: 0,0:00:14.47,0:00:15.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.89,0:00:16.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Tu {\c&H4CC9F2&}corazón{\c&HFFFFFF&} es un
+Dialogue: 0,0:00:16.93,0:00:17.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}músculo{\c&HFFFFFF&} del tamaño
+Dialogue: 0,0:00:17.73,0:00:18.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de un {\c&H4CC9F2&}puño,{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.39,0:00:20.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}con {\c&H4CC9F2&}4{\c&HFFFFFF&} cámaras.
+Dialogue: 0,0:00:20.09,0:00:21.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El lado {\c&H4CC9F2&}derecho{\c&HFFFFFF&} manda
+Dialogue: 0,0:00:21.19,0:00:21.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}sangre{\c&HFFFFFF&} a los
+Dialogue: 0,0:00:21.77,0:00:22.82,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}pulmones.{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.89,0:00:24.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}izquierdo,{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.05,0:00:25.38,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a todo el {\c&H4CC9F2&}cuerpo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.41,0:00:26.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Arriba,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.01,0:00:27.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en el lado {\c&H4CC9F2&}derecho,{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.05,0:00:27.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tiene un {\c&H4CC9F2&}grupito{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.73,0:00:28.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}células{\c&HFFFFFF&} que se
+Dialogue: 0,0:00:28.39,0:00:29.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}encienden{\c&HFFFFFF&} solas,
+Dialogue: 0,0:00:29.37,0:00:30.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una y otra vez.
+Dialogue: 0,0:00:30.59,0:00:31.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Es su {\c&H4CC9F2&}marcapasos{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.69,0:00:32.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}natural,{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.31,0:00:33.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y marca el ritmo
+Dialogue: 0,0:00:33.01,0:00:33.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sin que el {\c&H4CC9F2&}cerebro{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.71,0:00:35.07,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tenga que {\c&H4CC9F2&}mandarlo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.07,0:00:36.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada {\c&H4CC9F2&}chispa{\c&HFFFFFF&} recorre
+Dialogue: 0,0:00:36.01,0:00:36.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}corazón{\c&HFFFFFF&} como una
+Dialogue: 0,0:00:36.87,0:00:37.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}ola:{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.31,0:00:38.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}primero se {\c&H4CC9F2&}aprietan{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.13,0:00:39.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}las {\c&H4CC9F2&}aurículas,{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.01,0:00:39.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}arriba,{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.63,0:00:40.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y una {\c&H4CC9F2&}fracción{\c&HFFFFFF&} de
+Dialogue: 0,0:00:40.43,0:00:41.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}segundo {\c&H4CC9F2&}después,{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.47,0:00:42.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los {\c&H4CC9F2&}ventrículos,{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.35,0:00:43.24,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}abajo.
+Dialogue: 0,0:00:43.31,0:00:44.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Entre cámara y cámara
+Dialogue: 0,0:00:44.25,0:00:45.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hay {\c&H4CC9F2&}válvulas{\c&HFFFFFF&} que
+Dialogue: 0,0:00:45.01,0:00:45.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}solo{\c&HFFFFFF&} se abren hacia
+Dialogue: 0,0:00:45.73,0:00:46.74,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}delante.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.77,0:00:47.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cuando se {\c&H4CC9F2&}cierran{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.75,0:00:48.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de golpe,
+Dialogue: 0,0:00:48.35,0:00:49.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hacen {\c&H4CC9F2&}ruido:{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.15,0:00:50.07,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ese {\c&H4CC9F2&}pum-pum{\c&HFFFFFF&} que oyes
+Dialogue: 0,0:00:50.07,0:00:50.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}son las {\c&H4CC9F2&}válvulas{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.73,0:00:51.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cerrándose.{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.89,0:00:52.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}cerebro{\c&HFFFFFF&} no da
+Dialogue: 0,0:00:52.71,0:00:53.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}orden,{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.37,0:00:54.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pero sí puede {\c&H4CC9F2&}acelerarla{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.37,0:00:55.58,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}o {\c&H4CC9F2&}frenarla.{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.81,0:00:56.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Corres,{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.55,0:00:57.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}te {\c&H4CC9F2&}asustas,{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.31,0:00:58.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y el {\c&H4CC9F2&}marcapasos{\c&HFFFFFF&} va
+Dialogue: 0,0:00:58.13,0:00:59.22,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más {\c&H4CC9F2&}rápido.{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.47,0:01:00.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Marcapasos,{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.25,0:01:00.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}chispa,{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.91,0:01:01.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}aurículas,{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.79,0:01:02.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}ventrículos,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.69,0:01:03.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}válvulas,{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.47,0:01:03.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}pum-pum.{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.83,0:01:04.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:04.99,0:01:06.44,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.43,0:01:10.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:10.53,0:01:11.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en {\c&H4CC9F2&}reposo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.31,0:01:12.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu {\c&H4CC9F2&}corazón{\c&HFFFFFF&} mueve
+Dialogue: 0,0:01:12.03,0:01:12.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}5{\c&HFFFFFF&} litros de
+Dialogue: 0,0:01:12.87,0:01:14.42,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sangre por {\c&H4CC9F2&}minuto.{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.55,0:01:15.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Más o menos toda
+Dialogue: 0,0:01:15.37,0:01:16.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}sangre{\c&HFFFFFF&} de tu
+Dialogue: 0,0:01:16.03,0:01:16.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cuerpo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.61,0:01:17.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cada {\c&H4CC9F2&}minuto,{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.35,0:01:18.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sin {\c&H4CC9F2&}parar.{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.35,0:01:20.06,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque tu puto {\c&H4CC9F2&}corazón…{\c&HFFFFFF&}

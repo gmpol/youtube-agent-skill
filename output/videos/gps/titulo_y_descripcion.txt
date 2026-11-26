@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Cómo funciona el GPS de tu móvil: 4 relojes en el espacio
+   100/100 con la miniatura ← RECOMENDADO
+2) Tu móvil sabe dónde estás gracias a 4 satélites
+   98/100
+3) Por qué el GPS funciona en modo avión
+   98/100 · sin cifra
+
+MINIATURA: "SOLO ESCUCHA" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo funciona el GPS de tu móvil: escucha relojes atómicos a 20.000 km y calcula dónde estás.
+Por qué hacen falta 4 satélites, qué tiene que ver Einstein y por qué funciona en modo avión.
+
+Lo que se ve en el video:
+① ¿Qué Hay Arriba? Satélites con reloj atómico
+② ¿Qué Hace Tu Móvil? Mide el retraso
+③ ¿Con Uno Basta? Hacen falta tres
+④ ¿Y El Cuarto? Corrige tu reloj
+⑤ ¿Y Einstein? Allí el tiempo va distinto
+
+Datos: Satélites GPS a ~20.200 km de altura; unos 30 operativos. Llevan relojes atómicos y emiten su hora y posición. La señal tarda ~0,07 s; 1 µs de error ≈ 300 m.
+
+Animación y voz hechas desde cero.
+
+#gps #tecnologia #espacio #ciencia #comofunciona #shorts
+
+TAGS (solo para desambiguar)
+GPS, cómo funciona el GPS, satélites, relojes atómicos, trilateración, relatividad, modo avión, móvil, tecnología, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo funciona el GPS" → título ✔ · línea 1 ✔
+2. "GPS en modo avión" → línea 2 ✔
+3. "GPS relatividad Einstein" → línea 2 ✔
+
+¿Lo publicas así o cambias algo?

@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Una {\c&H4CC9F2&}abeja{\c&HFFFFFF&} bate las
+Dialogue: 0,0:00:01.05,0:00:02.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}alas unas {\c&H4CC9F2&}230{\c&HFFFFFF&} veces
+Dialogue: 0,0:00:02.39,0:00:03.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.63,0:00:04.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ese {\c&H4CC9F2&}zumbido{\c&HFFFFFF&} que
+Dialogue: 0,0:00:04.77,0:00:05.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}oyes…
+Dialogue: 0,0:00:05.25,0:00:06.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}son sus putas {\c&H4CC9F2&}alas.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.31,0:00:07.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No mueve las {\c&H4CC9F2&}alas{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.59,0:00:08.74,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}directamente.{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.93,0:00:10.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No piensa cada {\c&H4CC9F2&}aleteo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.91,0:00:11.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No le manda una
+Dialogue: 0,0:00:11.85,0:00:13.38,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}orden{\c&HFFFFFF&} por cada golpe.
+Dialogue: 0,0:00:13.41,0:00:14.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así,
+Dialogue: 0,0:00:14.55,0:00:15.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}no {\c&H4CC9F2&}falla{\c&HFFFFFF&} ni uno.
+Dialogue: 0,0:00:15.23,0:00:16.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo cien
+Dialogue: 0,0:00:16.73,0:00:18.18,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.19,0:00:19.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}motor{\c&HFFFFFF&} de la
+Dialogue: 0,0:00:19.11,0:00:19.87,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}abeja{\c&HFFFFFF&} está en el
+Dialogue: 0,0:00:19.87,0:00:20.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}tórax,{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.43,0:00:21.90,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el trozo del medio.
+Dialogue: 0,0:00:21.91,0:00:23.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Es como una {\c&H4CC9F2&}cajita,{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.33,0:00:24.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y las {\c&H4CC9F2&}alas{\c&HFFFFFF&} están
+Dialogue: 0,0:00:24.01,0:00:24.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}enganchadas{\c&HFFFFFF&} en el
+Dialogue: 0,0:00:24.71,0:00:25.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}borde,
+Dialogue: 0,0:00:25.19,0:00:25.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}como {\c&H4CC9F2&}palancas.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.91,0:00:27.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro hay dos grupos
+Dialogue: 0,0:00:27.31,0:00:28.48,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}músculos.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.61,0:00:29.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Unos {\c&H4CC9F2&}aprietan{\c&HFFFFFF&} la
+Dialogue: 0,0:00:29.63,0:00:30.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}caja de arriba {\c&H4CC9F2&}abajo,{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.79,0:00:32.24,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y las alas {\c&H4CC9F2&}suben.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.31,0:00:33.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Los otros la {\c&H4CC9F2&}aprietan{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.53,0:00:34.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}delante{\c&HFFFFFF&} atrás,
+Dialogue: 0,0:00:34.45,0:00:35.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y las alas {\c&H4CC9F2&}bajan.{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.85,0:00:36.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aquí está el
+Dialogue: 0,0:00:36.59,0:00:37.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}truco:{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.15,0:00:37.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cuando uno de esos
+Dialogue: 0,0:00:37.81,0:00:38.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}músculos se {\c&H4CC9F2&}estira,{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.93,0:00:39.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se {\c&H4CC9F2&}contrae{\c&HFFFFFF&} solo,
+Dialogue: 0,0:00:39.91,0:00:41.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sin esperar al {\c&H4CC9F2&}cerebro.{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.51,0:00:42.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Uno {\c&H4CC9F2&}estira{\c&HFFFFFF&} al otro,
+Dialogue: 0,0:00:42.85,0:00:43.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el otro al uno…
+Dialogue: 0,0:00:43.65,0:00:44.21,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y con una sola
+Dialogue: 0,0:00:44.21,0:00:44.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}orden del {\c&H4CC9F2&}nervio{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.91,0:00:46.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}salen muchos {\c&H4CC9F2&}aleteos.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.49,0:00:47.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Además,{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.27,0:00:47.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}las {\c&H4CC9F2&}alas{\c&HFFFFFF&} no solo
+Dialogue: 0,0:00:47.95,0:00:48.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}suben y {\c&H4CC9F2&}bajan:{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.83,0:00:49.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en cada golpe se
+Dialogue: 0,0:00:49.55,0:00:50.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}dan la {\c&H4CC9F2&}vuelta,{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.33,0:00:50.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}como un remo,
+Dialogue: 0,0:00:50.85,0:00:52.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y crean un {\c&H4CC9F2&}remolino{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.13,0:00:52.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de aire encima que
+Dialogue: 0,0:00:52.95,0:00:54.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}sostiene.{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.05,0:00:55.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada aleteo {\c&H4CC9F2&}empuja{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.01,0:00:55.98,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el aire.
+Dialogue: 0,0:00:56.37,0:00:57.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}230{\c&HFFFFFF&} empujones por
+Dialogue: 0,0:00:57.69,0:00:58.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}segundo son una {\c&H4CC9F2&}nota{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.53,0:00:59.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}grave:{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.09,0:01:00.66,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}zumbido{\c&HFFFFFF&} que oyes.
+Dialogue: 0,0:01:00.69,0:01:01.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Tórax,{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.37,0:01:02.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}músculos,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.23,0:01:02.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}estirón,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.95,0:01:03.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}aleteo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.69,0:01:04.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}remolino,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.43,0:01:04.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}zumbido.{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.89,0:01:06.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:06.05,0:01:07.50,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.47,0:01:11.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:11.53,0:01:12.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}durante{\c&HFFFFFF&} años se dijo
+Dialogue: 0,0:01:12.33,0:01:12.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que,
+Dialogue: 0,0:01:12.79,0:01:13.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}según la {\c&H4CC9F2&}física,{\c&HFFFFFF&}
+Dialogue: 0,0:01:13.81,0:01:14.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los {\c&H4CC9F2&}abejorros{\c&HFFFFFF&} no
+Dialogue: 0,0:01:14.53,0:01:16.28,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}deberían poder {\c&H4CC9F2&}volar.{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.29,0:01:17.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Era un puto {\c&H4CC9F2&}cálculo{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.25,0:01:18.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hecho como si {\c&H4CC9F2&}tuvieran{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.23,0:01:19.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}alas de {\c&H4CC9F2&}avión.{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.43,0:01:20.96,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque una {\c&H4CC9F2&}abeja…{\c&HFFFFFF&}

@@ -1,0 +1,157 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "corazón, aurículas, ventrículos, marcapasos, válvulas",
+ "hud": {
+  "max_log": 1,
+  "step": 1,
+  "base": 70,
+  "unit": [
+   "LATIDOS",
+   "POR MIN."
+  ]
+ },
+ "music": {
+  "bpm": 70,
+  "roots": [
+   57,
+   53,
+   48,
+   52
+  ],
+  "minor": [
+   true,
+   false,
+   false,
+   true
+  ]
+ },
+ "merge": [
+  [
+   [
+    "cien",
+    "mil"
+   ],
+   "100.000"
+  ],
+  [
+   [
+    "cuatro"
+   ],
+   "4"
+  ],
+  [
+   [
+    "cinco"
+   ],
+   "5"
+  ]
+ ],
+ "keywords": [
+  "corazón",
+  "solo",
+  "100.000",
+  "día",
+  "controlas",
+  "parar",
+  "duermes",
+  "orden",
+  "lento",
+  "músculo",
+  "puño",
+  "4",
+  "cámaras",
+  "derecho",
+  "pulmones",
+  "izquierdo",
+  "cuerpo",
+  "células",
+  "marcapasos",
+  "cerebro",
+  "chispa",
+  "ola",
+  "aurículas",
+  "ventrículos",
+  "válvulas",
+  "delante",
+  "ruido",
+  "pum-pum",
+  "acelerarla",
+  "corres",
+  "asustas",
+  "rápido",
+  "real",
+  "5",
+  "litros",
+  "minuto",
+  "sangre",
+  "parar."
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿POR QUÉ LATE",
+    "TU CORAZÓN?"
+   ],
+   "100.000 LATIDOS AL DÍA"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ ES?"
+   ],
+   "UNA BOMBA DOBLE"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿QUIÉN DA LA ORDEN?"
+   ],
+   "SU PROPIO MARCAPASOS"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿CÓMO SE APRIETA?"
+   ],
+   "UNA OLA ELÉCTRICA"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿POR QUÉ NO VUELVE?"
+   ],
+   "LAS VÁLVULAS"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y SI CORRES?"
+   ],
+   "EL CEREBRO LO ACELERA"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DE LA CHISPA AL PUM-PUM"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "70 LATIDOS POR MINUTO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "5 LITROS POR MINUTO"
+  ]
+ }
+}

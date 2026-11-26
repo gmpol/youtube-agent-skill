@@ -1,0 +1,1244 @@
+[
+{
+"word": "El",
+"start": 0.0,
+"end": 0.38,
+"beat": "gancho"
+},
+{
+"word": "puto",
+"start": 0.38,
+"end": 0.62,
+"beat": "gancho"
+},
+{
+"word": "motor",
+"start": 0.62,
+"end": 0.86,
+"beat": "gancho"
+},
+{
+"word": "de",
+"start": 0.86,
+"end": 1.0,
+"beat": "gancho"
+},
+{
+"word": "tu",
+"start": 1.0,
+"end": 1.12,
+"beat": "gancho"
+},
+{
+"word": "coche",
+"start": 1.12,
+"end": 1.36,
+"beat": "gancho"
+},
+{
+"word": "funciona",
+"start": 1.36,
+"end": 1.8,
+"beat": "gancho"
+},
+{
+"word": "a",
+"start": 1.8,
+"end": 1.94,
+"beat": "gancho"
+},
+{
+"word": "base",
+"start": 1.94,
+"end": 2.1,
+"beat": "gancho"
+},
+{
+"word": "de",
+"start": 2.1,
+"end": 2.24,
+"beat": "gancho"
+},
+{
+"word": "explosiones.",
+"start": 2.24,
+"end": 2.72,
+"beat": "gancho"
+},
+{
+"word": "A",
+"start": 3.38,
+"end": 3.88,
+"beat": "gancho"
+},
+{
+"word": "tres",
+"start": 3.88,
+"end": 4.04,
+"beat": "gancho"
+},
+{
+"word": "mil",
+"start": 4.04,
+"end": 4.2,
+"beat": "gancho"
+},
+{
+"word": "vueltas,",
+"start": 4.2,
+"end": 4.62,
+"beat": "gancho"
+},
+{
+"word": "cada",
+"start": 4.86,
+"end": 5.04,
+"beat": "gancho"
+},
+{
+"word": "cilindro",
+"start": 5.04,
+"end": 5.4,
+"beat": "gancho"
+},
+{
+"word": "explota…",
+"start": 5.4,
+"end": 5.82,
+"beat": "gancho"
+},
+{
+"word": "veinticinco",
+"start": 6.1,
+"end": 6.4,
+"beat": "gancho"
+},
+{
+"word": "veces",
+"start": 6.4,
+"end": 6.78,
+"beat": "gancho"
+},
+{
+"word": "por",
+"start": 6.78,
+"end": 7.04,
+"beat": "gancho"
+},
+{
+"word": "segundo.",
+"start": 7.04,
+"end": 7.4,
+"beat": "gancho"
+},
+{
+"word": "Con",
+"start": 8.02,
+"end": 8.52,
+"beat": "gancho"
+},
+{
+"word": "cuatro",
+"start": 8.52,
+"end": 8.78,
+"beat": "gancho"
+},
+{
+"word": "cilindros,",
+"start": 8.78,
+"end": 9.28,
+"beat": "gancho"
+},
+{
+"word": "cien.",
+"start": 9.58,
+"end": 9.92,
+"beat": "gancho"
+},
+{
+"word": "No",
+"start": 10.36,
+"end": 10.64,
+"beat": "imposible"
+},
+{
+"word": "tiene",
+"start": 10.64,
+"end": 10.84,
+"beat": "imposible"
+},
+{
+"word": "caballos.",
+"start": 10.84,
+"end": 11.44,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 11.84,
+"end": 12.42,
+"beat": "imposible"
+},
+{
+"word": "tiene",
+"start": 12.42,
+"end": 12.62,
+"beat": "imposible"
+},
+{
+"word": "pedales.",
+"start": 12.62,
+"end": 13.02,
+"beat": "imposible"
+},
+{
+"word": "No",
+"start": 13.7,
+"end": 14.2,
+"beat": "imposible"
+},
+{
+"word": "hay",
+"start": 14.2,
+"end": 14.3,
+"beat": "imposible"
+},
+{
+"word": "nadie",
+"start": 14.3,
+"end": 14.52,
+"beat": "imposible"
+},
+{
+"word": "empujando.",
+"start": 14.52,
+"end": 15.02,
+"beat": "imposible"
+},
+{
+"word": "Y",
+"start": 15.6,
+"end": 16.1,
+"beat": "imposible"
+},
+{
+"word": "aun",
+"start": 16.1,
+"end": 16.22,
+"beat": "imposible"
+},
+{
+"word": "así",
+"start": 16.22,
+"end": 16.46,
+"beat": "imposible"
+},
+{
+"word": "mueve",
+"start": 16.46,
+"end": 16.7,
+"beat": "imposible"
+},
+{
+"word": "más",
+"start": 16.7,
+"end": 16.88,
+"beat": "imposible"
+},
+{
+"word": "de",
+"start": 16.88,
+"end": 17.0,
+"beat": "imposible"
+},
+{
+"word": "una",
+"start": 17.0,
+"end": 17.14,
+"beat": "imposible"
+},
+{
+"word": "tonelada.",
+"start": 17.14,
+"end": 17.56,
+"beat": "imposible"
+},
+{
+"word": "Vamos",
+"start": 17.56,
+"end": 18.54,
+"beat": "freno"
+},
+{
+"word": "a",
+"start": 18.54,
+"end": 18.74,
+"beat": "freno"
+},
+{
+"word": "verlo",
+"start": 18.74,
+"end": 18.96,
+"beat": "freno"
+},
+{
+"word": "cien",
+"start": 18.96,
+"end": 19.14,
+"beat": "freno"
+},
+{
+"word": "veces",
+"start": 19.14,
+"end": 19.38,
+"beat": "freno"
+},
+{
+"word": "más",
+"start": 19.38,
+"end": 19.62,
+"beat": "freno"
+},
+{
+"word": "lento.",
+"start": 19.62,
+"end": 19.92,
+"beat": "freno"
+},
+{
+"word": "Dentro",
+"start": 20.72,
+"end": 21.22,
+"beat": "paso1"
+},
+{
+"word": "del",
+"start": 21.22,
+"end": 21.34,
+"beat": "paso1"
+},
+{
+"word": "motor",
+"start": 21.34,
+"end": 21.56,
+"beat": "paso1"
+},
+{
+"word": "hay",
+"start": 21.56,
+"end": 21.72,
+"beat": "paso1"
+},
+{
+"word": "cilindros,",
+"start": 21.72,
+"end": 22.18,
+"beat": "paso1"
+},
+{
+"word": "normalmente",
+"start": 22.44,
+"end": 22.74,
+"beat": "paso1"
+},
+{
+"word": "cuatro.",
+"start": 22.74,
+"end": 23.22,
+"beat": "paso1"
+},
+{
+"word": "En",
+"start": 23.82,
+"end": 24.32,
+"beat": "paso1"
+},
+{
+"word": "cada",
+"start": 24.32,
+"end": 24.5,
+"beat": "paso1"
+},
+{
+"word": "uno,",
+"start": 24.5,
+"end": 24.74,
+"beat": "paso1"
+},
+{
+"word": "un",
+"start": 25.0,
+"end": 25.12,
+"beat": "paso1"
+},
+{
+"word": "pistón",
+"start": 25.12,
+"end": 25.44,
+"beat": "paso1"
+},
+{
+"word": "sube",
+"start": 25.44,
+"end": 25.68,
+"beat": "paso1"
+},
+{
+"word": "y",
+"start": 25.68,
+"end": 25.78,
+"beat": "paso1"
+},
+{
+"word": "baja,",
+"start": 25.78,
+"end": 25.98,
+"beat": "paso1"
+},
+{
+"word": "como",
+"start": 26.28,
+"end": 26.48,
+"beat": "paso1"
+},
+{
+"word": "el",
+"start": 26.48,
+"end": 26.64,
+"beat": "paso1"
+},
+{
+"word": "émbolo",
+"start": 26.64,
+"end": 26.9,
+"beat": "paso1"
+},
+{
+"word": "de",
+"start": 26.9,
+"end": 26.96,
+"beat": "paso1"
+},
+{
+"word": "una",
+"start": 26.96,
+"end": 27.1,
+"beat": "paso1"
+},
+{
+"word": "jeringa.",
+"start": 27.1,
+"end": 27.58,
+"beat": "paso1"
+},
+{
+"word": "Primero,",
+"start": 27.58,
+"end": 28.5,
+"beat": "paso2"
+},
+{
+"word": "el",
+"start": 28.76,
+"end": 28.9,
+"beat": "paso2"
+},
+{
+"word": "pistón",
+"start": 28.9,
+"end": 29.2,
+"beat": "paso2"
+},
+{
+"word": "baja",
+"start": 29.2,
+"end": 29.42,
+"beat": "paso2"
+},
+{
+"word": "y",
+"start": 29.42,
+"end": 29.62,
+"beat": "paso2"
+},
+{
+"word": "aspira",
+"start": 29.62,
+"end": 29.92,
+"beat": "paso2"
+},
+{
+"word": "aire",
+"start": 29.92,
+"end": 30.14,
+"beat": "paso2"
+},
+{
+"word": "con",
+"start": 30.14,
+"end": 30.34,
+"beat": "paso2"
+},
+{
+"word": "gasolina.",
+"start": 30.34,
+"end": 30.74,
+"beat": "paso2"
+},
+{
+"word": "Luego",
+"start": 31.42,
+"end": 31.94,
+"beat": "paso2"
+},
+{
+"word": "sube",
+"start": 31.94,
+"end": 32.3,
+"beat": "paso2"
+},
+{
+"word": "y",
+"start": 32.3,
+"end": 32.4,
+"beat": "paso2"
+},
+{
+"word": "lo",
+"start": 32.4,
+"end": 32.48,
+"beat": "paso2"
+},
+{
+"word": "aprieta",
+"start": 32.48,
+"end": 32.78,
+"beat": "paso2"
+},
+{
+"word": "todo",
+"start": 32.78,
+"end": 32.98,
+"beat": "paso2"
+},
+{
+"word": "en",
+"start": 32.98,
+"end": 33.16,
+"beat": "paso2"
+},
+{
+"word": "un",
+"start": 33.16,
+"end": 33.24,
+"beat": "paso2"
+},
+{
+"word": "espacio",
+"start": 33.24,
+"end": 33.52,
+"beat": "paso2"
+},
+{
+"word": "diminuto.",
+"start": 33.52,
+"end": 34.04,
+"beat": "paso2"
+},
+{
+"word": "Justo",
+"start": 34.04,
+"end": 35.02,
+"beat": "paso3"
+},
+{
+"word": "arriba,",
+"start": 35.02,
+"end": 35.2,
+"beat": "paso3"
+},
+{
+"word": "la",
+"start": 35.52,
+"end": 35.62,
+"beat": "paso3"
+},
+{
+"word": "bujía",
+"start": 35.62,
+"end": 35.88,
+"beat": "paso3"
+},
+{
+"word": "suelta",
+"start": 35.88,
+"end": 36.2,
+"beat": "paso3"
+},
+{
+"word": "una",
+"start": 36.2,
+"end": 36.34,
+"beat": "paso3"
+},
+{
+"word": "chispa.",
+"start": 36.34,
+"end": 36.72,
+"beat": "paso3"
+},
+{
+"word": "La",
+"start": 37.34,
+"end": 37.86,
+"beat": "paso3"
+},
+{
+"word": "mezcla",
+"start": 37.86,
+"end": 38.1,
+"beat": "paso3"
+},
+{
+"word": "explota,",
+"start": 38.1,
+"end": 38.5,
+"beat": "paso3"
+},
+{
+"word": "y",
+"start": 38.76,
+"end": 38.86,
+"beat": "paso3"
+},
+{
+"word": "la",
+"start": 38.86,
+"end": 38.94,
+"beat": "paso3"
+},
+{
+"word": "explosión",
+"start": 38.94,
+"end": 39.36,
+"beat": "paso3"
+},
+{
+"word": "empuja",
+"start": 39.36,
+"end": 39.7,
+"beat": "paso3"
+},
+{
+"word": "el",
+"start": 39.7,
+"end": 39.8,
+"beat": "paso3"
+},
+{
+"word": "pistón",
+"start": 39.8,
+"end": 40.06,
+"beat": "paso3"
+},
+{
+"word": "hacia",
+"start": 40.06,
+"end": 40.22,
+"beat": "paso3"
+},
+{
+"word": "abajo",
+"start": 40.22,
+"end": 40.46,
+"beat": "paso3"
+},
+{
+"word": "con",
+"start": 40.46,
+"end": 40.66,
+"beat": "paso3"
+},
+{
+"word": "muchísima",
+"start": 40.66,
+"end": 41.14,
+"beat": "paso3"
+},
+{
+"word": "fuerza.",
+"start": 41.14,
+"end": 41.44,
+"beat": "paso3"
+},
+{
+"word": "Después,",
+"start": 41.98,
+"end": 42.5,
+"beat": "paso4"
+},
+{
+"word": "el",
+"start": 42.84,
+"end": 43.0,
+"beat": "paso4"
+},
+{
+"word": "pistón",
+"start": 43.0,
+"end": 43.3,
+"beat": "paso4"
+},
+{
+"word": "vuelve",
+"start": 43.3,
+"end": 43.56,
+"beat": "paso4"
+},
+{
+"word": "a",
+"start": 43.56,
+"end": 43.62,
+"beat": "paso4"
+},
+{
+"word": "subir",
+"start": 43.62,
+"end": 43.78,
+"beat": "paso4"
+},
+{
+"word": "y",
+"start": 43.78,
+"end": 43.96,
+"beat": "paso4"
+},
+{
+"word": "echa",
+"start": 43.96,
+"end": 44.1,
+"beat": "paso4"
+},
+{
+"word": "los",
+"start": 44.1,
+"end": 44.26,
+"beat": "paso4"
+},
+{
+"word": "gases",
+"start": 44.26,
+"end": 44.48,
+"beat": "paso4"
+},
+{
+"word": "quemados",
+"start": 44.48,
+"end": 44.86,
+"beat": "paso4"
+},
+{
+"word": "por",
+"start": 44.86,
+"end": 45.08,
+"beat": "paso4"
+},
+{
+"word": "el",
+"start": 45.08,
+"end": 45.2,
+"beat": "paso4"
+},
+{
+"word": "tubo",
+"start": 45.2,
+"end": 45.42,
+"beat": "paso4"
+},
+{
+"word": "de",
+"start": 45.42,
+"end": 45.5,
+"beat": "paso4"
+},
+{
+"word": "escape.",
+"start": 45.5,
+"end": 45.78,
+"beat": "paso4"
+},
+{
+"word": "Admisión,",
+"start": 46.8,
+"end": 47.32,
+"beat": "paso4"
+},
+{
+"word": "compresión,",
+"start": 47.7,
+"end": 48.18,
+"beat": "paso4"
+},
+{
+"word": "explosión,",
+"start": 48.44,
+"end": 48.9,
+"beat": "paso4"
+},
+{
+"word": "escape.",
+"start": 49.18,
+"end": 49.48,
+"beat": "paso4"
+},
+{
+"word": "Y",
+"start": 50.04,
+"end": 50.56,
+"beat": "paso4"
+},
+{
+"word": "vuelta",
+"start": 50.56,
+"end": 50.78,
+"beat": "paso4"
+},
+{
+"word": "a",
+"start": 50.78,
+"end": 50.92,
+"beat": "paso4"
+},
+{
+"word": "empezar.",
+"start": 50.92,
+"end": 51.2,
+"beat": "paso4"
+},
+{
+"word": "Los",
+"start": 51.2,
+"end": 52.04,
+"beat": "paso5"
+},
+{
+"word": "pistones",
+"start": 52.04,
+"end": 52.42,
+"beat": "paso5"
+},
+{
+"word": "van",
+"start": 52.42,
+"end": 52.64,
+"beat": "paso5"
+},
+{
+"word": "arriba",
+"start": 52.64,
+"end": 52.88,
+"beat": "paso5"
+},
+{
+"word": "y",
+"start": 52.88,
+"end": 53.04,
+"beat": "paso5"
+},
+{
+"word": "abajo,",
+"start": 53.04,
+"end": 53.32,
+"beat": "paso5"
+},
+{
+"word": "pero",
+"start": 53.62,
+"end": 53.8,
+"beat": "paso5"
+},
+{
+"word": "las",
+"start": 53.8,
+"end": 53.96,
+"beat": "paso5"
+},
+{
+"word": "ruedas",
+"start": 53.96,
+"end": 54.2,
+"beat": "paso5"
+},
+{
+"word": "giran.",
+"start": 54.2,
+"end": 54.64,
+"beat": "paso5"
+},
+{
+"word": "El",
+"start": 54.64,
+"end": 55.66,
+"beat": "paso5"
+},
+{
+"word": "cigüeñal",
+"start": 55.66,
+"end": 56.02,
+"beat": "paso5"
+},
+{
+"word": "convierte",
+"start": 56.02,
+"end": 56.38,
+"beat": "paso5"
+},
+{
+"word": "ese",
+"start": 56.38,
+"end": 56.62,
+"beat": "paso5"
+},
+{
+"word": "sube",
+"start": 56.62,
+"end": 56.92,
+"beat": "paso5"
+},
+{
+"word": "y",
+"start": 56.92,
+"end": 57.02,
+"beat": "paso5"
+},
+{
+"word": "baja",
+"start": 57.02,
+"end": 57.18,
+"beat": "paso5"
+},
+{
+"word": "en",
+"start": 57.18,
+"end": 57.32,
+"beat": "paso5"
+},
+{
+"word": "vueltas,",
+"start": 57.32,
+"end": 57.68,
+"beat": "paso5"
+},
+{
+"word": "como",
+"start": 57.88,
+"end": 58.06,
+"beat": "paso5"
+},
+{
+"word": "tus",
+"start": 58.06,
+"end": 58.22,
+"beat": "paso5"
+},
+{
+"word": "piernas",
+"start": 58.22,
+"end": 58.56,
+"beat": "paso5"
+},
+{
+"word": "con",
+"start": 58.56,
+"end": 58.72,
+"beat": "paso5"
+},
+{
+"word": "los",
+"start": 58.72,
+"end": 58.86,
+"beat": "paso5"
+},
+{
+"word": "pedales",
+"start": 58.86,
+"end": 59.14,
+"beat": "paso5"
+},
+{
+"word": "de",
+"start": 59.14,
+"end": 59.3,
+"beat": "paso5"
+},
+{
+"word": "una",
+"start": 59.3,
+"end": 59.44,
+"beat": "paso5"
+},
+{
+"word": "bici.",
+"start": 59.44,
+"end": 59.7,
+"beat": "paso5"
+},
+{
+"word": "Aire,",
+"start": 59.7,
+"end": 60.66,
+"beat": "junto"
+},
+{
+"word": "gasolina,",
+"start": 60.98,
+"end": 61.46,
+"beat": "junto"
+},
+{
+"word": "compresión,",
+"start": 61.9,
+"end": 62.38,
+"beat": "junto"
+},
+{
+"word": "chispa,",
+"start": 62.74,
+"end": 63.08,
+"beat": "junto"
+},
+{
+"word": "explosión,",
+"start": 63.34,
+"end": 63.86,
+"beat": "junto"
+},
+{
+"word": "vuelta.",
+"start": 64.14,
+"end": 64.36,
+"beat": "junto"
+},
+{
+"word": "Y",
+"start": 64.36,
+"end": 65.04,
+"beat": "acelera"
+},
+{
+"word": "ahora,",
+"start": 65.04,
+"end": 65.26,
+"beat": "acelera"
+},
+{
+"word": "a",
+"start": 65.6,
+"end": 65.7,
+"beat": "acelera"
+},
+{
+"word": "velocidad",
+"start": 65.7,
+"end": 65.98,
+"beat": "acelera"
+},
+{
+"word": "real.",
+"start": 65.98,
+"end": 66.42,
+"beat": "acelera"
+},
+{
+"word": "Y",
+"start": 70.08,
+"end": 70.6,
+"beat": "remate"
+},
+{
+"word": "ojo:",
+"start": 70.6,
+"end": 70.84,
+"beat": "remate"
+},
+{
+"word": "los",
+"start": 71.08,
+"end": 71.2,
+"beat": "remate"
+},
+{
+"word": "motores",
+"start": 71.2,
+"end": 71.5,
+"beat": "remate"
+},
+{
+"word": "diésel",
+"start": 71.5,
+"end": 71.76,
+"beat": "remate"
+},
+{
+"word": "ni",
+"start": 71.76,
+"end": 72.02,
+"beat": "remate"
+},
+{
+"word": "siquiera",
+"start": 72.02,
+"end": 72.3,
+"beat": "remate"
+},
+{
+"word": "tienen",
+"start": 72.3,
+"end": 72.54,
+"beat": "remate"
+},
+{
+"word": "bujía.",
+"start": 72.54,
+"end": 72.98,
+"beat": "remate"
+},
+{
+"word": "Aprietan",
+"start": 73.84,
+"end": 74.36,
+"beat": "remate"
+},
+{
+"word": "tanto",
+"start": 74.36,
+"end": 74.54,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 74.54,
+"end": 74.72,
+"beat": "remate"
+},
+{
+"word": "aire",
+"start": 74.72,
+"end": 74.88,
+"beat": "remate"
+},
+{
+"word": "que",
+"start": 74.88,
+"end": 75.04,
+"beat": "remate"
+},
+{
+"word": "se",
+"start": 75.04,
+"end": 75.16,
+"beat": "remate"
+},
+{
+"word": "calienta",
+"start": 75.16,
+"end": 75.5,
+"beat": "remate"
+},
+{
+"word": "muchísimo,",
+"start": 75.5,
+"end": 75.86,
+"beat": "remate"
+},
+{
+"word": "y",
+"start": 76.18,
+"end": 76.36,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 76.36,
+"end": 76.44,
+"beat": "remate"
+},
+{
+"word": "combustible",
+"start": 76.44,
+"end": 76.9,
+"beat": "remate"
+},
+{
+"word": "se",
+"start": 76.9,
+"end": 77.08,
+"beat": "remate"
+},
+{
+"word": "enciende",
+"start": 77.08,
+"end": 77.4,
+"beat": "remate"
+},
+{
+"word": "solo",
+"start": 77.4,
+"end": 77.62,
+"beat": "remate"
+},
+{
+"word": "al",
+"start": 77.62,
+"end": 77.76,
+"beat": "remate"
+},
+{
+"word": "entrar.",
+"start": 77.76,
+"end": 78.08,
+"beat": "remate"
+},
+{
+"word": "Porque",
+"start": 78.66,
+"end": 79.18,
+"beat": "remate"
+},
+{
+"word": "el",
+"start": 79.18,
+"end": 79.36,
+"beat": "remate"
+},
+{
+"word": "puto",
+"start": 79.36,
+"end": 79.56,
+"beat": "remate"
+},
+{
+"word": "motor",
+"start": 79.56,
+"end": 79.76,
+"beat": "remate"
+},
+{
+"word": "de",
+"start": 79.76,
+"end": 79.92,
+"beat": "remate"
+},
+{
+"word": "tu",
+"start": 79.92,
+"end": 80.02,
+"beat": "remate"
+},
+{
+"word": "coche…",
+"start": 80.02,
+"end": 80.32,
+"beat": "remate"
+}
+]

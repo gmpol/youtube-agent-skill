@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Cómo vuela una abeja: 230 aleteos por segundo
+   98/100 con la miniatura ← RECOMENDADO
+2) Cómo vuela una abeja, 100 veces más lento
+   98/100
+3) El mito de que los abejorros no deberían volar
+   80/100 · sin cifra
+
+MINIATURA: "ALAS INVISIBLES" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Cómo vuela una abeja: bate las alas unas 230 veces por segundo gracias a unos músculos que se disparan solos.
+Por qué zumban y de dónde sale el mito de que los abejorros no deberían volar.
+
+Lo que se ve en el video:
+① ¿Dónde Está El Motor? En el tórax
+② ¿Qué Mueve Las Alas? Dos músculos que se turnan
+③ ¿Por Qué Tan Rápido? Se disparan solos
+④ ¿Cómo Se Sostiene? Gira las alas
+⑤ ¿Y El Zumbido? Son las alas
+
+Datos: La abeja melífera bate las alas unas 230 veces por segundo. Músculos de vuelo indirectos: deforman el tórax (dorsoventrales → alas arriba, longitudinales → alas abajo). Músculos asincrónicos activados por estiramiento: un impulso nervioso, muchos aleteos.
+
+Animación y voz hechas desde cero.
+
+#abeja #animales #naturaleza #ciencia #insectos #shorts
+
+TAGS (solo para desambiguar)
+abeja, cómo vuela una abeja, aleteo, zumbido, abejorro, insectos, músculos de vuelo, animales, naturaleza, ciencia
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "cómo vuela una abeja" → título ✔ · línea 1 ✔
+2. "por qué zumban las abejas" → línea 2 ✔
+3. "abejorro no debería volar" → línea 2 ✔
+
+¿Lo publicas así o cambias algo?

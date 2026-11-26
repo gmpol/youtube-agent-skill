@@ -1,0 +1,49 @@
+¿CÓMO SABE LA HORA TU RELOJ?
+Short vertical 9:16 · español · 80 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 54/100 · The Statistic
+
+======================================================================
+[0:00.25–0:07.76] GANCHO  [CARTEL: ¿CÓMO SABE LA HORA TU RELOJ? / 32.768 VIBRACIONES POR SEGUNDO]
+VOZ: Dentro de tu reloj hay un cristal que vibra… treinta y dos mil setecientas sesenta y ocho veces por segundo. Y gracias a eso sabes qué puta hora es.
+
+[0:08.26–0:16.68] IMPOSIBLE
+VOZ: No tiene péndulo. No tiene muelle al que dar cuerda. No hay nadie contando. Y aun así, apenas se equivoca unos segundos al mes.
+
+[0:17.38–0:19.21] FRENO
+VOZ: Vamos a verlo diez mil veces más lento.
+
+[0:20.11–0:25.34] PASO1  [CARTEL: ① ¿QUÉ HAY DENTRO? / UN DIAPASÓN DE CUARZO]
+VOZ: Dentro hay una pila, un chip y una pieza diminuta de cuarzo con forma de diapasón, más pequeña que un grano de arroz.
+
+[0:25.94–0:36.12] PASO2  [CARTEL: ② ¿POR QUÉ VIBRA? / EL TRUCO DEL CUARZO]
+VOZ: El cuarzo tiene un truco: si le das electricidad, se dobla. Y si se dobla, da electricidad. El chip le da un empujoncito, y el cuarzo vibra solo, siempre al mismo ritmo.
+
+[0:36.72–0:46.91] PASO3  [CARTEL: ③ ¿CÓMO CUENTA? / DIVIDE ENTRE 2, 15 VECES]
+VOZ: El chip cuenta esas vibraciones y las divide entre dos. Y otra vez. Y otra. Quince veces seguidas. Y lo que queda es exactamente un pulso por segundo.
+
+[0:47.51–0:53.46] PASO4  [CARTEL: ④ ¿QUIÉN MUEVE LA AGUJA? / UN MOTOR DIMINUTO]
+VOZ: Cada pulso llega a un motorcito, que da un pasito. El engranaje mueve el segundero. Tic.
+
+[0:54.06–1:03.28] PASO5  [CARTEL: ⑤ ¿POR QUÉ ESE NÚMERO? / ES 2 ELEVADO A 15]
+VOZ: ¿Y por qué justo ese número tan raro? Porque es dos multiplicado por sí mismo quince veces. Así, partiendo por la mitad quince veces, sale un segundo clavado.
+
+[1:03.88–1:07.42] JUNTO  [CARTEL: TODO JUNTO / DEL CUARZO AL TIC]
+VOZ: Pila, chip, cuarzo, vibración, división, tic.
+
+[1:07.82–1:09.39] ACELERA  [CARTEL: A VELOCIDAD REAL / 32.768 VECES POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:13.39–1:20.27] REMATE  [CARTEL: Y OJO: / NO LO PUEDES OÍR]
+VOZ: Y ojo: esa vibración es tan aguda que, aunque sonara, tu oído no la podría oír ni de puta broma. Porque dentro de tu reloj…
+
+======================================================================
+224 palabras · 80 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Cristal de cuarzo en forma de diapasón a 32.768 Hz = 2¹⁵.
+- El cuarzo es piezoeléctrico: se deforma con tensión y genera tensión al deformarse.
+- Un divisor binario parte la frecuencia 15 veces → 1 Hz.
+- Un motor paso a paso mueve el segundero.
+- Precisión típica: unos ±15 s al mes.
+- 32.768 Hz está por encima del oído humano (~20.000 Hz).

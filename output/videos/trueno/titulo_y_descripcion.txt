@@ -1,0 +1,38 @@
+TÍTULO, DESCRIPCIÓN Y TAGS  (/yt-package + /yt-seo · títulos pasados por skills/yt-package/title.py)
+
+3 OPCIONES DE TÍTULO
+1) Por qué suena el trueno: el aire a 30.000 grados
+   98/100 con la miniatura · contiene la búsqueda ← RECOMENDADO
+2) A qué distancia está la tormenta: cuenta y divide entre 3
+   84/100 · búsqueda muy práctica
+3) Por qué el trueno retumba
+   80/100 · sin cifra
+
+MINIATURA: "CIELO EXPLOTANDO" (3 palabras máx., no repite el título recomendado) → miniatura.png / miniatura_16x9.png
+
+DESCRIPCIÓN
+Por qué suena el trueno: el rayo calienta el aire a unos 30.000 grados y lo hace explotar.
+Y cómo saber a qué distancia está una tormenta: cuenta los segundos y divide entre 3.
+
+Lo que se ve en el video:
+① ¿Qué Es Un Rayo? Una chispa gigante
+② ¿Qué Le Hace Al Aire? Lo calienta de golpe
+③ ¿Y Entonces? El aire explota
+④ ¿Por Qué Llega Tarde? El sonido va más lento
+⑤ ¿A Qué Distancia Está? Segundos ÷ 3 = km
+
+Datos: El canal del rayo alcanza unos 30.000 °C, unas 5 veces la superficie del Sol (~5.500 °C). La expansión brusca del aire genera una onda de choque que se convierte en el trueno. Sonido en aire a 20 °C ≈ 343 m/s; la luz llega prácticamente al instante.
+
+Animación y voz hechas desde cero.
+
+#trueno #rayo #tormenta #ciencia #física #shorts
+
+TAGS (solo para desambiguar)
+trueno, rayo, por qué suena el trueno, tormenta, distancia tormenta, relámpago, onda de choque, física, ciencia, naturaleza
+
+PRUEBA DE BÚSQUEDA (/yt-seo)
+1. "por qué suena el trueno" → título ✔ · línea 1 ✔
+2. "a qué distancia está la tormenta" → línea 2 ✔
+3. "por qué retumba el trueno" → descripción (pasos) ✔
+
+¿Lo publicas así o cambias algo?

@@ -1,0 +1,161 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "GPS, satélites, relojes atómicos, millonésima, Einstein",
+ "hud": {
+  "max_log": 6,
+  "step": 3,
+  "base": 300000,
+  "unit": [
+   "LUZ",
+   "KM/S"
+  ]
+ },
+ "music": {
+  "bpm": 104,
+  "roots": [
+   52,
+   48,
+   55,
+   50
+  ],
+  "minor": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "veinte",
+    "mil"
+   ],
+   "20.000"
+  ],
+  [
+   [
+    "treinta"
+   ],
+   "30"
+  ],
+  [
+   [
+    "trescientos"
+   ],
+   "300"
+  ],
+  [
+   [
+    "diez"
+   ],
+   "10"
+  ]
+ ],
+ "keywords": [
+  "móvil",
+  "relojes",
+  "20.000",
+  "kilómetros",
+  "espacio",
+  "cámaras",
+  "satélites",
+  "calle",
+  "luz",
+  "30",
+  "atómicos",
+  "hora",
+  "exacta",
+  "tarda",
+  "centésimas",
+  "distancia",
+  "esfera",
+  "tres",
+  "punto",
+  "tú.",
+  "malo",
+  "millonésima",
+  "300",
+  "metros",
+  "cuarto",
+  "raro",
+  "rápido",
+  "10",
+  "día",
+  "señal",
+  "retraso",
+  "esferas",
+  "real",
+  "avión",
+  "escucha",
+  "Tierra"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO SABE TU MÓVIL",
+    "DÓNDE ESTÁS?"
+   ],
+   "RELOJES A 20.000 KM DE ALTURA"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ HAY ARRIBA?"
+   ],
+   "SATÉLITES CON RELOJ ATÓMICO"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿QUÉ HACE TU MÓVIL?"
+   ],
+   "MIDE EL RETRASO"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿CON UNO BASTA?"
+   ],
+   "HACEN FALTA TRES"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿Y EL CUARTO?"
+   ],
+   "CORRIGE TU RELOJ"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y EINSTEIN?"
+   ],
+   "ALLÍ EL TIEMPO VA DISTINTO"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL ESPACIO A TU CALLE"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "LA LUZ: 300.000 KM/S"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "TU MÓVIL SOLO ESCUCHA"
+  ]
+ }
+}

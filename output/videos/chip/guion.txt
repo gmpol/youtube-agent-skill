@@ -1,0 +1,48 @@
+¿CÓMO «PIENSA» TU MÓVIL?
+Short vertical 9:16 · español · 84 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 48/100 · The Statistic
+
+======================================================================
+[0:00.25–0:06.11] GANCHO  [CARTEL: ¿CÓMO PIENSA TU MÓVIL? / 3.000 MILLONES DE TICS POR SEGUNDO]
+VOZ: El puto chip de tu móvil no piensa. Enciende y apaga interruptores… unos tres mil millones de veces por segundo.
+
+[0:06.61–0:14.90] IMPOSIBLE
+VOZ: No tiene engranajes. No tiene nada que se mueva. No entiende ni una palabra. Y aun así, hace todo lo que ves en la pantalla.
+
+[0:15.60–0:17.65] FRENO
+VOZ: Vamos a verlo mil millones de veces más lento.
+
+[0:18.55–0:24.98] PASO1  [CARTEL: ① ¿QUÉ HAY DENTRO? / MÁS DE 10.000 MILLONES DE INTERRUPTORES]
+VOZ: Dentro del chip hay más de diez mil millones de transistores. Cada uno es un interruptor diminuto, sin ninguna pieza que se mueva.
+
+[0:25.58–0:35.26] PASO2  [CARTEL: ② ¿CÓMO SE ENCIENDE? / LA PUERTA DEL TRANSISTOR]
+VOZ: Un transistor tiene una puerta. Si le llega electricidad, la puerta deja pasar la corriente: encendido, uno. Si no, no pasa nada: apagado, cero.
+
+[0:35.86–0:43.96] PASO3  [CARTEL: ③ ¿PARA QUÉ SIRVE? / REGLAS CON UNOS Y CEROS]
+VOZ: Juntando unos pocos transistores se hacen reglas: por ejemplo, si entran dos unos, sale un uno. Con esas reglas se suma, se compara y se decide.
+
+[0:44.56–0:53.57] PASO4  [CARTEL: ④ ¿QUIÉN MARCA EL RITMO? / EL RELOJ]
+VOZ: Todo va al compás de un reloj interno. En cada tic, millones de interruptores cambian a la vez. En los móviles potentes, unos tres mil millones de tics por segundo.
+
+[0:54.17–1:02.85] PASO5  [CARTEL: ⑤ ¿Y UNA FOTO? / SOLO UNOS Y CEROS]
+VOZ: Una foto, un mensaje, un vídeo: para el chip, todo son unos y ceros. Cada punto de la pantalla es un número, y cada número, un montón de interruptores.
+
+[1:03.45–1:07.22] JUNTO  [CARTEL: TODO JUNTO / DEL INTERRUPTOR A LA PANTALLA]
+VOZ: Electricidad, puerta, uno, cero, reglas, tic.
+
+[1:07.62–1:09.19] ACELERA  [CARTEL: A VELOCIDAD REAL / 3.000 MILLONES POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:13.19–1:24.24] REMATE  [CARTEL: Y OJO: / POR ESO SE CALIENTA]
+VOZ: Y ojo: por eso el móvil se calienta. Cada vez que un interruptor cambia, gasta un poquito de energía. Multiplícalo por miles de millones, en cada tic. Porque el puto chip de tu móvil…
+
+======================================================================
+231 palabras · 84 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Un transistor actúa como interruptor controlado por la tensión en su puerta.
+- Los chips de móviles de gama alta tienen más de 10.000 millones de transistores.
+- Con transistores se construyen puertas lógicas (AND, OR…) que suman y comparan.
+- Relojes de unos 3 GHz en los núcleos más rápidos de los móviles potentes.
+- Cada conmutación disipa energía: por eso el chip se calienta.

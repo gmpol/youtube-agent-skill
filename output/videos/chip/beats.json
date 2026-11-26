@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "El puto chip de tu móvil no piensa. Enciende y apaga interruptores… unos tres mil millones de veces por segundo."
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene engranajes. No tiene nada que se mueva. No entiende ni una palabra. Y aun así, hace todo lo que ves en la pantalla."
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo mil millones de veces más lento."
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Dentro del chip hay más de diez mil millones de transistores. Cada uno es un interruptor diminuto, sin ninguna pieza que se mueva."
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Un transistor tiene una puerta. Si le llega electricidad, la puerta deja pasar la corriente: encendido, uno. Si no, no pasa nada: apagado, cero."
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Juntando unos pocos transistores se hacen reglas: por ejemplo, si entran dos unos, sale un uno. Con esas reglas se suma, se compara y se decide."
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Todo va al compás de un reloj interno. En cada tic, millones de interruptores cambian a la vez. En los móviles potentes, unos tres mil millones de tics por segundo."
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "Una foto, un mensaje, un vídeo: para el chip, todo son unos y ceros. Cada punto de la pantalla es un número, y cada número, un montón de interruptores."
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Electricidad, puerta, uno, cero, reglas, tic."
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real."
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: por eso el móvil se calienta. Cada vez que un interruptor cambia, gasta un poquito de energía. Multiplícalo por miles de millones, en cada tic. Porque el puto chip de tu móvil…"
+ }
+]

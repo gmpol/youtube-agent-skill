@@ -1,0 +1,166 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "cuarzo, diapasón, segundero, pila, chip",
+ "hud": {
+  "max_log": 4,
+  "step": 1,
+  "base": 32768,
+  "unit": [
+   "VIBRACIONES",
+   "POR SEG."
+  ]
+ },
+ "music": {
+  "bpm": 120,
+  "roots": [
+   60,
+   55,
+   57,
+   53
+  ],
+  "minor": [
+   false,
+   false,
+   true,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "treinta",
+    "y",
+    "dos",
+    "mil",
+    "setecientas",
+    "sesenta",
+    "y",
+    "ocho"
+   ],
+   "32.768"
+  ],
+  [
+   [
+    "quince"
+   ],
+   "15"
+  ],
+  [
+   [
+    "dos"
+   ],
+   "2"
+  ]
+ ],
+ "keywords": [
+  "cristal",
+  "vibra",
+  "32.768",
+  "hora",
+  "péndulo",
+  "muelle",
+  "cuerda",
+  "contando",
+  "segundos",
+  "mes.",
+  "lento",
+  "pila",
+  "chip",
+  "cuarzo",
+  "diapasón",
+  "arroz",
+  "truco",
+  "electricidad",
+  "dobla",
+  "empujoncito",
+  "ritmo",
+  "cuenta",
+  "2",
+  "15",
+  "pulso",
+  "segundo.",
+  "motorcito",
+  "pasito",
+  "segundero",
+  "tic.",
+  "número",
+  "raro",
+  "mitad",
+  "clavado.",
+  "real",
+  "aguda",
+  "oído",
+  "broma.",
+  "vibración",
+  "división",
+  "tic."
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO SABE LA HORA",
+    "TU RELOJ?"
+   ],
+   "32.768 VIBRACIONES POR SEGUNDO"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ HAY DENTRO?"
+   ],
+   "UN DIAPASÓN DE CUARZO"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿POR QUÉ VIBRA?"
+   ],
+   "EL TRUCO DEL CUARZO"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿CÓMO CUENTA?"
+   ],
+   "DIVIDE ENTRE 2, 15 VECES"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿QUIÉN MUEVE LA AGUJA?"
+   ],
+   "UN MOTOR DIMINUTO"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿POR QUÉ ESE NÚMERO?"
+   ],
+   "ES 2 ELEVADO A 15"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL CUARZO AL TIC"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "32.768 VECES POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "NO LO PUEDES OÍR"
+  ]
+ }
+}

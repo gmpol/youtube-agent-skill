@@ -1,0 +1,49 @@
+¿CÓMO SABE TU MÓVIL DÓNDE ESTÁS?
+Short vertical 9:16 · español · 83 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 48/100 · The Statistic
+
+======================================================================
+[0:00.25–0:04.19] GANCHO  [CARTEL: ¿CÓMO SABE TU MÓVIL DÓNDE ESTÁS? / RELOJES A 20.000 KM DE ALTURA]
+VOZ: Tu puto móvil sabe dónde estás escuchando relojes que vuelan a veinte mil kilómetros de altura.
+
+[0:04.69–0:13.38] IMPOSIBLE
+VOZ: No te ve desde el espacio. No usa ninguna cámara. Ni siquiera les manda nada a los satélites. Y aun así, sabe en qué calle estás.
+
+[0:14.08–0:15.96] FRENO
+VOZ: Vamos a frenar la luz un millón de veces.
+
+[0:16.86–0:26.17] PASO1  [CARTEL: ① ¿QUÉ HAY ARRIBA? / SATÉLITES CON RELOJ ATÓMICO]
+VOZ: Alrededor de la Tierra giran unos treinta satélites GPS. Cada uno lleva relojes atómicos, y emite sin parar un mensaje: soy este satélite, y esta es la hora exacta.
+
+[0:26.77–0:36.66] PASO2  [CARTEL: ② ¿QUÉ HACE TU MÓVIL? / MIDE EL RETRASO]
+VOZ: El mensaje viaja a la velocidad de la luz, pero aun así tarda unas siete centésimas de segundo en llegar. Tu móvil compara la hora del mensaje con la de llegada, y sabe a qué distancia está ese satélite.
+
+[0:37.26–0:46.42] PASO3  [CARTEL: ③ ¿CON UNO BASTA? / HACEN FALTA TRES]
+VOZ: Con un satélite, solo sabe que está en algún punto de una esfera gigante. Con tres, las esferas se cruzan en un solo punto sobre la Tierra. Ese punto eres tú.
+
+[0:47.02–0:55.82] PASO4  [CARTEL: ④ ¿Y EL CUARTO? / CORRIGE TU RELOJ]
+VOZ: Pero el reloj de tu móvil es malo. Un error de una millonésima de segundo son trescientos metros. Por eso usa un cuarto satélite: para corregir su propio reloj.
+
+[0:56.42–1:04.88] PASO5  [CARTEL: ⑤ ¿Y EINSTEIN? / ALLÍ EL TIEMPO VA DISTINTO]
+VOZ: Y aquí viene lo raro: allí arriba, el tiempo pasa un poquito más rápido. Si no se corrigiera, el GPS se equivocaría unos diez kilómetros cada día.
+
+[1:05.48–1:09.60] JUNTO  [CARTEL: TODO JUNTO / DEL ESPACIO A TU CALLE]
+VOZ: Satélites, relojes, señal, retraso, esferas, tú.
+
+[1:10.00–1:11.57] ACELERA  [CARTEL: A VELOCIDAD REAL / LA LUZ: 300.000 KM/S]
+VOZ: Y ahora, a velocidad real.
+
+[1:15.57–1:23.00] REMATE  [CARTEL: Y OJO: / TU MÓVIL SOLO ESCUCHA]
+VOZ: Y ojo: por eso el GPS funciona en modo avión. Tu móvil no habla con nadie: solo escucha. Porque tu puto móvil…
+
+======================================================================
+239 palabras · 83 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- Satélites GPS a ~20.200 km de altura; unos 30 operativos.
+- Llevan relojes atómicos y emiten su hora y posición.
+- La señal tarda ~0,07 s; 1 µs de error ≈ 300 m.
+- Hacen falta 4 satélites: 3 para la posición y 1 para corregir el reloj del receptor.
+- Efectos relativistas: los relojes de a bordo adelantan ~38 µs/día; sin corregir, ~10 km de error al día.
+- El receptor GPS solo recibe: funciona en modo avión.

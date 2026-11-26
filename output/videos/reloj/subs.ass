@@ -1,0 +1,91 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro de tu reloj
+Dialogue: 0,0:00:01.03,0:00:01.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hay un {\c&H4CC9F2&}cristal{\c&HFFFFFF&} que
+Dialogue: 0,0:00:01.65,0:00:02.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}vibra…{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.19,0:00:04.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}32.768{\c&HFFFFFF&} veces por
+Dialogue: 0,0:00:04.37,0:00:05.38,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.41,0:00:06.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y {\c&H4CC9F2&}gracias{\c&HFFFFFF&} a eso
+Dialogue: 0,0:00:06.41,0:00:07.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sabes qué puta {\c&H4CC9F2&}hora{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.31,0:00:08.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}es.
+Dialogue: 0,0:00:08.13,0:00:09.56,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}péndulo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.67,0:00:10.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}muelle{\c&HFFFFFF&} al
+Dialogue: 0,0:00:10.65,0:00:11.84,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que dar {\c&H4CC9F2&}cuerda.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.03,0:00:13.68,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No hay nadie {\c&H4CC9F2&}contando.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.83,0:00:14.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así,
+Dialogue: 0,0:00:14.79,0:00:15.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}apenas se {\c&H4CC9F2&}equivoca{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.59,0:00:16.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}segundos{\c&HFFFFFF&} al
+Dialogue: 0,0:00:16.29,0:00:17.10,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}mes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.25,0:00:18.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo diez
+Dialogue: 0,0:00:18.11,0:00:19.68,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}mil veces más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.93,0:00:21.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro hay una {\c&H4CC9F2&}pila,{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.03,0:00:21.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un {\c&H4CC9F2&}chip{\c&HFFFFFF&} y una
+Dialogue: 0,0:00:21.57,0:00:22.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pieza {\c&H4CC9F2&}diminuta{\c&HFFFFFF&} de
+Dialogue: 0,0:00:22.33,0:00:22.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cuarzo{\c&HFFFFFF&} con forma
+Dialogue: 0,0:00:22.95,0:00:23.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de {\c&H4CC9F2&}diapasón,{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.81,0:00:24.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más {\c&H4CC9F2&}pequeña{\c&HFFFFFF&} que un
+Dialogue: 0,0:00:24.61,0:00:25.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}grano de {\c&H4CC9F2&}arroz.{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.75,0:00:26.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}cuarzo{\c&HFFFFFF&} tiene un
+Dialogue: 0,0:00:26.63,0:00:27.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}truco:{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.19,0:00:28.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}si le das {\c&H4CC9F2&}electricidad,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.37,0:00:29.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se {\c&H4CC9F2&}dobla.{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.35,0:00:30.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y si se {\c&H4CC9F2&}dobla,{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.71,0:00:32.02,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}da {\c&H4CC9F2&}electricidad.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.19,0:00:32.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}chip{\c&HFFFFFF&} le da
+Dialogue: 0,0:00:32.85,0:00:33.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un {\c&H4CC9F2&}empujoncito,{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.77,0:00:34.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y el cuarzo {\c&H4CC9F2&}vibra{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.51,0:00:35.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}solo,
+Dialogue: 0,0:00:35.03,0:00:35.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}siempre{\c&HFFFFFF&} al mismo
+Dialogue: 0,0:00:35.63,0:00:36.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}ritmo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.59,0:00:37.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El chip {\c&H4CC9F2&}cuenta{\c&HFFFFFF&} esas
+Dialogue: 0,0:00:37.45,0:00:38.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}vibraciones{\c&HFFFFFF&} y las
+Dialogue: 0,0:00:38.25,0:00:39.62,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}divide entre {\c&H4CC9F2&}2.{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.81,0:00:41.10,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y otra vez.
+Dialogue: 0,0:00:41.31,0:00:42.32,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y otra.
+Dialogue: 0,0:00:42.59,0:00:44.20,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}15{\c&HFFFFFF&} veces seguidas.
+Dialogue: 0,0:00:44.43,0:00:45.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y lo que queda
+Dialogue: 0,0:00:45.05,0:00:45.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}es {\c&H4CC9F2&}exactamente{\c&HFFFFFF&} un
+Dialogue: 0,0:00:45.95,0:00:47.34,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pulso por {\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.37,0:00:48.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada {\c&H4CC9F2&}pulso{\c&HFFFFFF&} llega
+Dialogue: 0,0:00:48.09,0:00:49.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a un {\c&H4CC9F2&}motorcito,{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.09,0:00:50.42,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que da un {\c&H4CC9F2&}pasito.{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.65,0:00:51.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}engranaje{\c&HFFFFFF&} mueve
+Dialogue: 0,0:00:51.59,0:00:52.76,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}segundero.{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.93,0:00:53.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Tic.{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.95,0:00:54.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}¿Y por qué justo
+Dialogue: 0,0:00:54.79,0:00:55.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ese número tan {\c&H4CC9F2&}raro?{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.49,0:00:57.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque es {\c&H4CC9F2&}2{\c&HFFFFFF&} multiplicado
+Dialogue: 0,0:00:57.47,0:00:58.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por sí mismo {\c&H4CC9F2&}15{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.29,0:00:59.26,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces.
+Dialogue: 0,0:00:59.35,0:01:00.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Así,
+Dialogue: 0,0:01:00.35,0:01:00.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}partiendo{\c&HFFFFFF&} por la
+Dialogue: 0,0:01:00.91,0:01:02.01,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}mitad {\c&H4CC9F2&}15{\c&HFFFFFF&} veces,
+Dialogue: 0,0:01:02.01,0:01:03.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}sale un segundo {\c&H4CC9F2&}clavado.{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.77,0:01:04.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Pila,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.31,0:01:04.89,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}chip,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.89,0:01:05.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}cuarzo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.51,0:01:06.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}vibración,{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.29,0:01:07.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}división,{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.11,0:01:07.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}tic.{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.73,0:01:08.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:08.49,0:01:09.84,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:12.89,0:01:13.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:13.95,0:01:14.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}esa {\c&H4CC9F2&}vibración{\c&HFFFFFF&} es
+Dialogue: 0,0:01:14.79,0:01:15.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tan {\c&H4CC9F2&}aguda{\c&HFFFFFF&} que,
+Dialogue: 0,0:01:15.57,0:01:16.37,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}aunque {\c&H4CC9F2&}sonara,{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.37,0:01:16.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu {\c&H4CC9F2&}oído{\c&HFFFFFF&} no la
+Dialogue: 0,0:01:16.93,0:01:17.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}podría oír ni de
+Dialogue: 0,0:01:17.75,0:01:18.86,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}puta {\c&H4CC9F2&}broma.{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.03,0:01:19.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque dentro de
+Dialogue: 0,0:01:19.75,0:01:20.66,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu reloj…

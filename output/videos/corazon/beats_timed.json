@@ -1,0 +1,79 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Tu puto corazón no espera a que se lo pidas. Late solo… unas cien mil veces al día.",
+  "start": 0.25,
+  "end": 4.977
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No lo controlas. No lo puedes parar. No descansa ni cuando duermes. Y aun así, nadie le da la orden.",
+  "start": 5.477,
+  "end": 13.048
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo diez veces más lento.",
+  "start": 13.748,
+  "end": 15.425
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Tu corazón es un músculo del tamaño de un puño, con cuatro cámaras. El lado derecho manda la sangre a los pulmones. El izquierdo, a todo el cuerpo.",
+  "start": 16.325,
+  "end": 24.886
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Arriba, en el lado derecho, tiene un grupito de células que se encienden solas, una y otra vez. Es su marcapasos natural, y marca el ritmo sin que el cerebro tenga que mandarlo.",
+  "start": 25.486,
+  "end": 34.626
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Cada chispa recorre el corazón como una ola: primero se aprietan las aurículas, arriba, y una fracción de segundo después, los ventrículos, abajo.",
+  "start": 35.226,
+  "end": 42.808
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Entre cámara y cámara hay válvulas que solo se abren hacia delante. Cuando se cierran de golpe, hacen ruido: ese pum-pum que oyes son las válvulas cerrándose.",
+  "start": 43.408,
+  "end": 51.469
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "El cerebro no da la orden, pero sí puede acelerarla o frenarla. Corres, te asustas, y el marcapasos va más rápido.",
+  "start": 52.069,
+  "end": 58.793
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Marcapasos, chispa, aurículas, ventrículos, válvulas, pum-pum.",
+  "start": 59.393,
+  "end": 63.981
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real.",
+  "start": 64.381,
+  "end": 65.947
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: en reposo, tu corazón mueve unos cinco litros de sangre por minuto. Más o menos toda la sangre de tu cuerpo, cada minuto, sin parar. Porque tu puto corazón…",
+  "start": 69.947,
+  "end": 79.861
+ }
+]

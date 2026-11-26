@@ -1,0 +1,148 @@
+{
+ "voice": "es-ES-AlvaroNeural",
+ "rate": "+15%",
+ "loop_word": "porque",
+ "whisper_prompt": "chip, transistores, interruptores, unos y ceros, reloj",
+ "hud": {
+  "max_log": 9,
+  "step": 3,
+  "base": 3000000000.0,
+  "unit": [
+   "TICS",
+   "POR SEG."
+  ]
+ },
+ "music": {
+  "bpm": 132,
+  "roots": [
+   45,
+   41,
+   48,
+   43
+  ],
+  "minor": [
+   true,
+   false,
+   false,
+   false
+  ]
+ },
+ "merge": [
+  [
+   [
+    "tres",
+    "mil",
+    "millones"
+   ],
+   "3.000 millones"
+  ],
+  [
+   [
+    "diez",
+    "mil",
+    "millones"
+   ],
+   "10.000 millones"
+  ]
+ ],
+ "keywords": [
+  "chip",
+  "piensa",
+  "interruptores",
+  "3.000 millones",
+  "engranajes",
+  "mueva",
+  "palabra",
+  "pantalla",
+  "lento",
+  "10.000 millones",
+  "transistores",
+  "interruptor",
+  "puerta",
+  "electricidad",
+  "corriente",
+  "uno.",
+  "cero.",
+  "reglas",
+  "suma",
+  "compara",
+  "decide",
+  "reloj",
+  "tic",
+  "compás",
+  "foto",
+  "unos",
+  "ceros",
+  "número",
+  "real",
+  "calienta",
+  "energía",
+  "miles"
+ ],
+ "cards": {
+  "gancho": [
+   null,
+   [
+    "¿CÓMO PIENSA",
+    "TU MÓVIL?"
+   ],
+   "3.000 MILLONES DE TICS POR SEGUNDO"
+  ],
+  "paso1": [
+   1,
+   [
+    "¿QUÉ HAY DENTRO?"
+   ],
+   "MÁS DE 10.000 MILLONES DE INTERRUPTORES"
+  ],
+  "paso2": [
+   2,
+   [
+    "¿CÓMO SE ENCIENDE?"
+   ],
+   "LA PUERTA DEL TRANSISTOR"
+  ],
+  "paso3": [
+   3,
+   [
+    "¿PARA QUÉ SIRVE?"
+   ],
+   "REGLAS CON UNOS Y CEROS"
+  ],
+  "paso4": [
+   4,
+   [
+    "¿QUIÉN MARCA EL RITMO?"
+   ],
+   "EL RELOJ"
+  ],
+  "paso5": [
+   5,
+   [
+    "¿Y UNA FOTO?"
+   ],
+   "SOLO UNOS Y CEROS"
+  ],
+  "junto": [
+   null,
+   [
+    "TODO JUNTO"
+   ],
+   "DEL INTERRUPTOR A LA PANTALLA"
+  ],
+  "acelera": [
+   null,
+   [
+    "A VELOCIDAD REAL"
+   ],
+   "3.000 MILLONES POR SEGUNDO"
+  ],
+  "remate": [
+   null,
+   [
+    "Y OJO:"
+   ],
+   "POR ESO SE CALIENTA"
+  ]
+ }
+}

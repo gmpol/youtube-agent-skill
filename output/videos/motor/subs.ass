@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El puto {\c&H4CC9F2&}motor{\c&HFFFFFF&} de
+Dialogue: 0,0:00:00.95,0:00:01.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu coche {\c&H4CC9F2&}funciona{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.75,0:00:03.32,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a base de {\c&H4CC9F2&}explosiones.{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.33,0:00:04.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}A {\c&H4CC9F2&}3.000{\c&HFFFFFF&} vueltas,
+Dialogue: 0,0:00:04.81,0:00:06.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cada cilindro {\c&H4CC9F2&}explota…{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.05,0:00:07.97,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}25{\c&HFFFFFF&} veces por segundo.
+Dialogue: 0,0:00:07.97,0:00:09.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Con {\c&H4CC9F2&}4{\c&HFFFFFF&} cilindros,
+Dialogue: 0,0:00:09.53,0:00:10.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}cien.
+Dialogue: 0,0:00:10.31,0:00:11.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}caballos.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.79,0:00:13.62,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No tiene {\c&H4CC9F2&}pedales.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.65,0:00:15.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No hay nadie {\c&H4CC9F2&}empujando.{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.55,0:00:16.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así mueve
+Dialogue: 0,0:00:16.65,0:00:17.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más de una {\c&H4CC9F2&}tonelada.{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.51,0:00:19.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo cien
+Dialogue: 0,0:00:19.09,0:00:20.52,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.67,0:00:21.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro del {\c&H4CC9F2&}motor{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.51,0:00:22.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}hay {\c&H4CC9F2&}cilindros,{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.39,0:00:23.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}normalmente {\c&H4CC9F2&}4.{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.77,0:00:24.95,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}En cada uno,
+Dialogue: 0,0:00:24.95,0:00:25.73,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un {\c&H4CC9F2&}pistón{\c&HFFFFFF&} sube y
+Dialogue: 0,0:00:25.73,0:00:26.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}baja,
+Dialogue: 0,0:00:26.23,0:00:26.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}como el émbolo de
+Dialogue: 0,0:00:26.91,0:00:27.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una {\c&H4CC9F2&}jeringa.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.53,0:00:28.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Primero,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.71,0:00:29.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}pistón{\c&HFFFFFF&} baja y
+Dialogue: 0,0:00:29.57,0:00:31.34,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}aspira aire con {\c&H4CC9F2&}gasolina.{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.37,0:00:32.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Luego sube y lo
+Dialogue: 0,0:00:32.43,0:00:33.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}aprieta{\c&HFFFFFF&} todo en un
+Dialogue: 0,0:00:33.19,0:00:33.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}espacio {\c&H4CC9F2&}diminuto.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.99,0:00:35.47,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Justo {\c&H4CC9F2&}arriba,{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.47,0:00:36.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}bujía{\c&HFFFFFF&} suelta una
+Dialogue: 0,0:00:36.29,0:00:37.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}chispa.{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.29,0:00:38.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}La mezcla {\c&H4CC9F2&}explota,{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.71,0:00:39.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y la {\c&H4CC9F2&}explosión{\c&HFFFFFF&} empuja
+Dialogue: 0,0:00:39.65,0:00:40.41,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}pistón{\c&HFFFFFF&} hacia abajo
+Dialogue: 0,0:00:40.41,0:00:41.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}con muchísima {\c&H4CC9F2&}fuerza.{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.93,0:00:42.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Después,{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.79,0:00:43.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}pistón{\c&HFFFFFF&} vuelve
+Dialogue: 0,0:00:43.51,0:00:44.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a subir y echa
+Dialogue: 0,0:00:44.05,0:00:44.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los gases {\c&H4CC9F2&}quemados{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.81,0:00:45.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}por el tubo de
+Dialogue: 0,0:00:45.45,0:00:46.38,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}escape.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.75,0:00:47.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Admisión,{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.65,0:00:48.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}compresión,{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.39,0:00:49.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}explosión,{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.13,0:00:49.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}escape.{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.99,0:00:51.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y vuelta a {\c&H4CC9F2&}empezar.{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.15,0:00:52.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Los {\c&H4CC9F2&}pistones{\c&HFFFFFF&} van
+Dialogue: 0,0:00:52.59,0:00:53.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}arriba y abajo,
+Dialogue: 0,0:00:53.57,0:00:54.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}pero las ruedas {\c&H4CC9F2&}giran.{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.59,0:00:56.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}cigüeñal{\c&HFFFFFF&} convierte
+Dialogue: 0,0:00:56.33,0:00:57.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ese sube y baja
+Dialogue: 0,0:00:57.13,0:00:57.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en {\c&H4CC9F2&}vueltas,{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.83,0:00:58.51,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}como tus {\c&H4CC9F2&}piernas{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.51,0:00:59.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}con los {\c&H4CC9F2&}pedales{\c&HFFFFFF&} de
+Dialogue: 0,0:00:59.25,0:00:59.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una {\c&H4CC9F2&}bici.{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.65,0:01:00.93,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Aire,{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.93,0:01:01.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}gasolina,{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.85,0:01:02.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}compresión,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.69,0:01:03.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}chispa,{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.29,0:01:04.09,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}explosión,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.09,0:01:04.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}vuelta.{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.31,0:01:05.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:05.55,0:01:07.02,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.03,0:01:11.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:11.03,0:01:11.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los motores {\c&H4CC9F2&}diésel{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.71,0:01:12.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ni {\c&H4CC9F2&}siquiera{\c&HFFFFFF&} tienen
+Dialogue: 0,0:01:12.49,0:01:13.58,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}bujía.{\c&HFFFFFF&}
+Dialogue: 0,0:01:13.79,0:01:14.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Aprietan{\c&HFFFFFF&} tanto el
+Dialogue: 0,0:01:14.67,0:01:15.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}aire que se {\c&H4CC9F2&}calienta{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.45,0:01:16.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}muchísimo,{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.13,0:01:16.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y el {\c&H4CC9F2&}combustible{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.85,0:01:17.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se enciende {\c&H4CC9F2&}solo{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.57,0:01:18.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}al {\c&H4CC9F2&}entrar.{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.61,0:01:19.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque el puto {\c&H4CC9F2&}motor{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.71,0:01:20.72,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de tu coche…

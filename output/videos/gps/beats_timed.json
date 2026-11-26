@@ -1,0 +1,79 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Tu puto móvil sabe dónde estás escuchando relojes que vuelan a veinte mil kilómetros de altura.",
+  "start": 0.25,
+  "end": 4.193
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No te ve desde el espacio. No usa ninguna cámara. Ni siquiera les manda nada a los satélites. Y aun así, sabe en qué calle estás.",
+  "start": 4.693,
+  "end": 13.384
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a frenar la luz un millón de veces.",
+  "start": 14.084,
+  "end": 15.962
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Alrededor de la Tierra giran unos treinta satélites GPS. Cada uno lleva relojes atómicos, y emite sin parar un mensaje: soy este satélite, y esta es la hora exacta.",
+  "start": 16.862,
+  "end": 26.17
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "El mensaje viaja a la velocidad de la luz, pero aun así tarda unas siete centésimas de segundo en llegar. Tu móvil compara la hora del mensaje con la de llegada, y sabe a qué distancia está ese satélite.",
+  "start": 26.77,
+  "end": 36.663
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Con un satélite, solo sabe que está en algún punto de una esfera gigante. Con tres, las esferas se cruzan en un solo punto sobre la Tierra. Ese punto eres tú.",
+  "start": 37.263,
+  "end": 46.42
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Pero el reloj de tu móvil es malo. Un error de una millonésima de segundo son trescientos metros. Por eso usa un cuarto satélite: para corregir su propio reloj.",
+  "start": 47.02,
+  "end": 55.82
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "Y aquí viene lo raro: allí arriba, el tiempo pasa un poquito más rápido. Si no se corrigiera, el GPS se equivocaría unos diez kilómetros cada día.",
+  "start": 56.42,
+  "end": 64.878
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Satélites, relojes, señal, retraso, esferas, tú.",
+  "start": 65.478,
+  "end": 69.601
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real.",
+  "start": 70.001,
+  "end": 71.567
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: por eso el GPS funciona en modo avión. Tu móvil no habla con nadie: solo escucha. Porque tu puto móvil…",
+  "start": 75.567,
+  "end": 82.996
+ }
+]

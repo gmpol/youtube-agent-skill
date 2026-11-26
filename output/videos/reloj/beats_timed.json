@@ -1,0 +1,79 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Dentro de tu reloj hay un cristal que vibra… treinta y dos mil setecientas sesenta y ocho veces por segundo. Y gracias a eso sabes qué puta hora es.",
+  "start": 0.25,
+  "end": 7.756
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene péndulo. No tiene muelle al que dar cuerda. No hay nadie contando. Y aun así, apenas se equivoca unos segundos al mes.",
+  "start": 8.256,
+  "end": 16.678
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo diez mil veces más lento.",
+  "start": 17.378,
+  "end": 19.212
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Dentro hay una pila, un chip y una pieza diminuta de cuarzo con forma de diapasón, más pequeña que un grano de arroz.",
+  "start": 20.112,
+  "end": 25.344
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "El cuarzo tiene un truco: si le das electricidad, se dobla. Y si se dobla, da electricidad. El chip le da un empujoncito, y el cuarzo vibra solo, siempre al mismo ritmo.",
+  "start": 25.944,
+  "end": 36.115
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "El chip cuenta esas vibraciones y las divide entre dos. Y otra vez. Y otra. Quince veces seguidas. Y lo que queda es exactamente un pulso por segundo.",
+  "start": 36.715,
+  "end": 46.909
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Cada pulso llega a un motorcito, que da un pasito. El engranaje mueve el segundero. Tic.",
+  "start": 47.509,
+  "end": 53.458
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "¿Y por qué justo ese número tan raro? Porque es dos multiplicado por sí mismo quince veces. Así, partiendo por la mitad quince veces, sale un segundo clavado.",
+  "start": 54.058,
+  "end": 63.284
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Pila, chip, cuarzo, vibración, división, tic.",
+  "start": 63.884,
+  "end": 67.422
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real.",
+  "start": 67.822,
+  "end": 69.388
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: esa vibración es tan aguda que, aunque sonara, tu oído no la podría oír ni de puta broma. Porque dentro de tu reloj…",
+  "start": 73.388,
+  "end": 80.273
+ }
+]

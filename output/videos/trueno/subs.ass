@@ -1,0 +1,97 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,0,4,8,120,160,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.23,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Un puto rayo {\c&H4CC9F2&}calienta{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.23,0:00:01.71,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el aire a unos
+Dialogue: 0,0:00:01.71,0:00:02.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}30.000{\c&HFFFFFF&} grados…
+Dialogue: 0,0:00:02.75,0:00:03.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}5{\c&HFFFFFF&} veces más que
+Dialogue: 0,0:00:03.61,0:00:04.33,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}la {\c&H4CC9F2&}superficie{\c&HFFFFFF&} del
+Dialogue: 0,0:00:04.33,0:00:05.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Sol.{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.19,0:00:06.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y eso es lo
+Dialogue: 0,0:00:06.15,0:00:07.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}que {\c&H4CC9F2&}oyes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.03,0:00:07.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}trueno{\c&HFFFFFF&} no es
+Dialogue: 0,0:00:07.83,0:00:09.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un choque de {\c&H4CC9F2&}nubes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.27,0:00:10.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No es el {\c&H4CC9F2&}rayo{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.27,0:00:11.54,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}rompiendo{\c&HFFFFFF&} nada.
+Dialogue: 0,0:00:11.61,0:00:12.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}No hay ningún {\c&H4CC9F2&}tambor{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.77,0:00:13.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ahí {\c&H4CC9F2&}arriba.{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.83,0:00:14.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y aun así hace
+Dialogue: 0,0:00:14.81,0:00:16.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}temblar las {\c&H4CC9F2&}ventanas.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.29,0:00:17.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Vamos a verlo mil
+Dialogue: 0,0:00:17.27,0:00:18.70,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}veces más {\c&H4CC9F2&}lento.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.87,0:00:20.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Dentro de la nube,
+Dialogue: 0,0:00:20.03,0:00:20.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}hielo{\c&HFFFFFF&} y el
+Dialogue: 0,0:00:20.53,0:00:21.29,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}granizo{\c&HFFFFFF&} chocan y
+Dialogue: 0,0:00:21.29,0:00:23.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}separan {\c&H4CC9F2&}cargas{\c&HFFFFFF&} eléctricas.
+Dialogue: 0,0:00:23.17,0:00:24.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cuando se {\c&H4CC9F2&}acumulan{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.15,0:00:24.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}demasiadas,{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.91,0:00:25.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}salta una {\c&H4CC9F2&}chispa{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.65,0:00:26.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}gigante{\c&HFFFFFF&} entre la
+Dialogue: 0,0:00:26.31,0:00:27.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}nube y el {\c&H4CC9F2&}suelo:{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.19,0:00:27.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}rayo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.81,0:00:29.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Esa {\c&H4CC9F2&}chispa{\c&HFFFFFF&} atraviesa
+Dialogue: 0,0:00:29.17,0:00:29.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}un {\c&H4CC9F2&}canal{\c&HFFFFFF&} de aire
+Dialogue: 0,0:00:29.79,0:00:30.63,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de pocos {\c&H4CC9F2&}centímetros{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.63,0:00:31.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de ancho,
+Dialogue: 0,0:00:31.11,0:00:32.15,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y lo {\c&H4CC9F2&}calienta{\c&HFFFFFF&} a
+Dialogue: 0,0:00:32.15,0:00:33.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}30.000{\c&HFFFFFF&} grados
+Dialogue: 0,0:00:33.11,0:00:33.83,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}en una {\c&H4CC9F2&}fracción{\c&HFFFFFF&} de
+Dialogue: 0,0:00:33.83,0:00:34.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.11,0:00:35.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El aire tan {\c&H4CC9F2&}caliente{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.69,0:00:36.85,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}se {\c&H4CC9F2&}expande{\c&HFFFFFF&} de golpe,
+Dialogue: 0,0:00:36.85,0:00:37.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más rápido que el
+Dialogue: 0,0:00:37.57,0:00:38.56,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}sonido.{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.81,0:00:39.67,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Empuja al aire de
+Dialogue: 0,0:00:39.67,0:00:40.43,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}alrededor{\c&HFFFFFF&} como una
+Dialogue: 0,0:00:40.43,0:00:40.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}explosión,{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.91,0:00:41.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y esa {\c&H4CC9F2&}onda{\c&HFFFFFF&} de
+Dialogue: 0,0:00:41.75,0:00:42.03,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}choque…{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.03,0:00:42.81,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}es el {\c&H4CC9F2&}trueno.{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.81,0:00:44.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}La luz del {\c&H4CC9F2&}rayo{\c&HFFFFFF&}
+Dialogue: 0,0:00:44.25,0:00:44.99,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}te llega casi al
+Dialogue: 0,0:00:44.99,0:00:46.05,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}instante.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.05,0:00:47.25,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}El {\c&H4CC9F2&}sonido{\c&HFFFFFF&} viaja a
+Dialogue: 0,0:00:47.25,0:00:48.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}unos {\c&H4CC9F2&}340{\c&HFFFFFF&} metros por
+Dialogue: 0,0:00:48.69,0:00:49.65,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}segundo.{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.65,0:00:50.79,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Por eso {\c&H4CC9F2&}primero{\c&HFFFFFF&} ves
+Dialogue: 0,0:00:50.79,0:00:51.31,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}rayo,{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.31,0:00:52.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y luego lo {\c&H4CC9F2&}oyes.{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.17,0:00:53.55,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cuenta los {\c&H4CC9F2&}segundos{\c&HFFFFFF&}
+Dialogue: 0,0:00:53.55,0:00:54.35,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}entre el {\c&H4CC9F2&}rayo{\c&HFFFFFF&} y
+Dialogue: 0,0:00:54.35,0:00:54.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}trueno,{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.75,0:00:56.52,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}y divide entre {\c&H4CC9F2&}3.{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.57,0:00:57.61,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Eso son,
+Dialogue: 0,0:00:57.61,0:00:58.45,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}más o menos,
+Dialogue: 0,0:00:58.45,0:00:59.13,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}los {\c&H4CC9F2&}kilómetros{\c&HFFFFFF&} que
+Dialogue: 0,0:00:59.13,0:00:59.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}te {\c&H4CC9F2&}separan{\c&HFFFFFF&} de la
+Dialogue: 0,0:00:59.75,0:01:00.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}tormenta.{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.19,0:01:01.57,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}Cargas,{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.57,0:01:02.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}chispa,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.27,0:01:02.77,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}calor,{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.77,0:01:03.59,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}explosión,{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.59,0:01:04.11,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}onda,{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.11,0:01:04.53,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tu {\c&H4CC9F2&}oído.{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.53,0:01:05.69,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ahora,
+Dialogue: 0,0:01:05.69,0:01:07.14,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}a velocidad {\c&H4CC9F2&}real.{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.15,0:01:11.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Y ojo:
+Dialogue: 0,0:01:11.19,0:01:11.91,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}el {\c&H4CC9F2&}rayo{\c&HFFFFFF&} es una
+Dialogue: 0,0:01:11.91,0:01:13.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}línea{\c&HFFFFFF&} larguísima.
+Dialogue: 0,0:01:13.27,0:01:14.39,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Cada trozo está a
+Dialogue: 0,0:01:14.39,0:01:15.27,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}una distancia {\c&H4CC9F2&}distinta{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.27,0:01:15.75,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}de ti,
+Dialogue: 0,0:01:15.75,0:01:16.49,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}así que el {\c&H4CC9F2&}sonido{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.49,0:01:17.17,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}te va {\c&H4CC9F2&}llegando{\c&HFFFFFF&} por
+Dialogue: 0,0:01:17.17,0:01:18.14,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}partes.{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.17,0:01:19.19,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Por eso el {\c&H4CC9F2&}trueno{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.19,0:01:20.22,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}{\c&H4CC9F2&}retumba.{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.29,0:01:21.96,Cap,,0,0,0,,{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Porque un puto {\c&H4CC9F2&}rayo…{\c&HFFFFFF&}

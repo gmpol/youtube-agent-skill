@@ -1,0 +1,57 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "Dentro de tu reloj hay un cristal que vibra… treinta y dos mil setecientas sesenta y ocho veces por segundo. Y gracias a eso sabes qué puta hora es."
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene péndulo. No tiene muelle al que dar cuerda. No hay nadie contando. Y aun así, apenas se equivoca unos segundos al mes."
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo diez mil veces más lento."
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Dentro hay una pila, un chip y una pieza diminuta de cuarzo con forma de diapasón, más pequeña que un grano de arroz."
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "El cuarzo tiene un truco: si le das electricidad, se dobla. Y si se dobla, da electricidad. El chip le da un empujoncito, y el cuarzo vibra solo, siempre al mismo ritmo."
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "El chip cuenta esas vibraciones y las divide entre dos. Y otra vez. Y otra. Quince veces seguidas. Y lo que queda es exactamente un pulso por segundo."
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Cada pulso llega a un motorcito, que da un pasito. El engranaje mueve el segundero. Tic."
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "¿Y por qué justo ese número tan raro? Porque es dos multiplicado por sí mismo quince veces. Así, partiendo por la mitad quince veces, sale un segundo clavado."
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Pila, chip, cuarzo, vibración, división, tic."
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real."
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: esa vibración es tan aguda que, aunque sonara, tu oído no la podría oír ni de puta broma. Porque dentro de tu reloj…"
+ }
+]

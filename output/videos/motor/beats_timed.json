@@ -1,0 +1,79 @@
+[
+ {
+  "id": "gancho",
+  "pause": 0.5,
+  "text": "El puto motor de tu coche funciona a base de explosiones. A tres mil vueltas, cada cilindro explota… veinticinco veces por segundo. Con cuatro cilindros, cien.",
+  "start": 0.25,
+  "end": 9.997
+ },
+ {
+  "id": "imposible",
+  "pause": 0.7,
+  "text": "No tiene caballos. No tiene pedales. No hay nadie empujando. Y aun así mueve más de una tonelada.",
+  "start": 10.497,
+  "end": 17.661
+ },
+ {
+  "id": "freno",
+  "pause": 0.9,
+  "text": "Vamos a verlo cien veces más lento.",
+  "start": 18.361,
+  "end": 20.043
+ },
+ {
+  "id": "paso1",
+  "pause": 0.6,
+  "text": "Dentro del motor hay cilindros, normalmente cuatro. En cada uno, un pistón sube y baja, como el émbolo de una jeringa.",
+  "start": 20.943,
+  "end": 27.577
+ },
+ {
+  "id": "paso2",
+  "pause": 0.6,
+  "text": "Primero, el pistón baja y aspira aire con gasolina. Luego sube y lo aprieta todo en un espacio diminuto.",
+  "start": 28.177,
+  "end": 34.129
+ },
+ {
+  "id": "paso3",
+  "pause": 0.6,
+  "text": "Justo arriba, la bujía suelta una chispa. La mezcla explota, y la explosión empuja el pistón hacia abajo con muchísima fuerza.",
+  "start": 34.729,
+  "end": 41.597
+ },
+ {
+  "id": "paso4",
+  "pause": 0.6,
+  "text": "Después, el pistón vuelve a subir y echa los gases quemados por el tubo de escape. Admisión, compresión, explosión, escape. Y vuelta a empezar.",
+  "start": 42.197,
+  "end": 51.326
+ },
+ {
+  "id": "paso5",
+  "pause": 0.6,
+  "text": "Los pistones van arriba y abajo, pero las ruedas giran. El cigüeñal convierte ese sube y baja en vueltas, como tus piernas con los pedales de una bici.",
+  "start": 51.926,
+  "end": 59.789
+ },
+ {
+  "id": "junto",
+  "pause": 0.4,
+  "text": "Aire, gasolina, compresión, chispa, explosión, vuelta.",
+  "start": 60.389,
+  "end": 64.532
+ },
+ {
+  "id": "acelera",
+  "pause": 4.0,
+  "text": "Y ahora, a velocidad real.",
+  "start": 64.932,
+  "end": 66.498
+ },
+ {
+  "id": "remate",
+  "pause": 0.0,
+  "text": "Y ojo: los motores diésel ni siquiera tienen bujía. Aprietan tanto el aire que se calienta muchísimo, y el combustible se enciende solo al entrar. Porque el puto motor de tu coche…",
+  "start": 70.498,
+  "end": 80.426
+ }
+]

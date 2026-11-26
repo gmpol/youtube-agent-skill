@@ -1,0 +1,48 @@
+¿CÓMO VUELA UNA ABEJA?
+Short vertical 9:16 · español · 81 s · voz es-ES-AlvaroNeural +15 % · palabrotas: suaves (2)
+
+GANCHO (hookscore sobre su traducción al inglés): 41/100 · sin fórmula reconocida (la mejor de las variantes probadas en contexto)
+
+======================================================================
+[0:00.25–0:06.42] GANCHO  [CARTEL: ¿CÓMO VUELA UNA ABEJA? / 230 ALETEOS POR SEGUNDO]
+VOZ: Una abeja bate las alas unas doscientas treinta veces por segundo. Y ese zumbido que oyes… son sus putas alas.
+
+[0:06.92–0:15.32] IMPOSIBLE
+VOZ: No mueve las alas directamente. No piensa cada aleteo. No le manda una orden por cada golpe. Y aun así, no falla ni uno.
+
+[0:16.02–0:17.70] FRENO
+VOZ: Vamos a verlo cien veces más lento.
+
+[0:18.60–0:25.99] PASO1  [CARTEL: ① ¿DÓNDE ESTÁ EL MOTOR? / EN EL TÓRAX]
+VOZ: El motor de la abeja está en el tórax, el trozo del medio. Es como una cajita, y las alas están enganchadas en el borde, como palancas.
+
+[0:26.59–0:35.43] PASO2  [CARTEL: ② ¿QUÉ MUEVE LAS ALAS? / DOS MÚSCULOS QUE SE TURNAN]
+VOZ: Dentro hay dos grupos de músculos. Unos aprietan la caja de arriba abajo, y las alas suben. Los otros la aprietan de delante atrás, y las alas bajan.
+
+[0:36.03–0:46.12] PASO3  [CARTEL: ③ ¿POR QUÉ TAN RÁPIDO? / SE DISPARAN SOLOS]
+VOZ: Y aquí está el truco: cuando uno de esos músculos se estira, se contrae solo, sin esperar al cerebro. Uno estira al otro, el otro al uno… y con una sola orden del nervio salen muchos aleteos.
+
+[0:46.72–0:53.61] PASO4  [CARTEL: ④ ¿CÓMO SE SOSTIENE? / GIRA LAS ALAS]
+VOZ: Además, las alas no solo suben y bajan: en cada golpe se dan la vuelta, como un remo, y crean un remolino de aire encima que la sostiene.
+
+[0:54.21–1:00.19] PASO5  [CARTEL: ⑤ ¿Y EL ZUMBIDO? / SON LAS ALAS]
+VOZ: Cada aleteo empuja el aire. Doscientos treinta empujones por segundo son una nota grave: el zumbido que oyes.
+
+[1:00.79–1:05.00] JUNTO  [CARTEL: TODO JUNTO / DEL TÓRAX AL ZUMBIDO]
+VOZ: Tórax, músculos, estirón, aleteo, remolino, zumbido.
+
+[1:05.41–1:06.97] ACELERA  [CARTEL: A VELOCIDAD REAL / 230 ALETEOS POR SEGUNDO]
+VOZ: Y ahora, a velocidad real.
+
+[1:10.97–1:20.64] REMATE  [CARTEL: Y OJO: / EL MITO DEL ABEJORRO]
+VOZ: Y ojo: durante años se dijo que, según la física, los abejorros no deberían poder volar. Era un puto cálculo hecho como si tuvieran alas de avión. Porque una abeja…
+
+======================================================================
+230 palabras · 81 s con la voz
+
+DATOS USADOS (estándar y comprobables):
+- La abeja melífera bate las alas unas 230 veces por segundo.
+- Músculos de vuelo indirectos: deforman el tórax (dorsoventrales → alas arriba, longitudinales → alas abajo).
+- Músculos asincrónicos activados por estiramiento: un impulso nervioso, muchos aleteos.
+- Las alas giran en cada golpe y generan un vórtice en el borde de ataque.
+- El «mito del abejorro» viene de un cálculo de los años 30 con alas fijas de avión.
