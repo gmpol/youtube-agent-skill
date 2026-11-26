@@ -50,6 +50,11 @@ for i, w in enumerate(script):
         w["start"], w["end"] = prev, max(prev + 0.05, min(nxt, prev + 0.35))
         w["guessed"] = True
 
+# whisper tends to put the first word of a beat inside the preceding pause: the TTS clip starts exactly at the
+# beat start (measured), so no word may start before its beat.
+for w in script:
+    if w["start"] < w["bstart"]:
+        w["start"] = w["bstart"]; w["end"] = max(w["end"], w["start"] + 0.08)
 matched = sum(1 for w in script if not w.get("guessed"))
 ratio = sm.ratio()
 out = [{"word": w["word"], "start": round(w["start"], 3), "end": round(w["end"], 3), "beat": w["beat"],

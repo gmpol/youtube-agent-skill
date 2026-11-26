@@ -61,7 +61,7 @@ print(f"[5] subtítulos que coinciden con lo que se oye en ese momento: {ok}/{le
 for b in bad[:8]: print("     ✗", b)
 
 # 6. five frames
-ts = [1.0, 22.0, 42.0, 66.0, 86.0]
+D = float(p["format"]["duration"]); ts = [round(D * k, 1) for k in (0.02, 0.25, 0.5, 0.75, 0.95)]
 sel = "+".join(f"eq(n\\,{int(t*30)})" for t in ts)
 run("ffmpeg", "-v", "error", "-y", "-i", VID, "-vf", f"select='{sel}',scale=360:-1,tile=5x1", "-frames:v", "1", os.path.join(HERE, "review_frames.png"))
 for t in ts:
